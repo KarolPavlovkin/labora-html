@@ -1,0 +1,191 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Spracovanie sekvencií - TVVP</title>
+</head>
+
+<body>
+    <table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th style="width: 10%; text-align: left;">Týždeň / Hodina</th>
+      <th style="width: 5%; text-align: center;">-</th>
+      <th style="text-align: left;">Téma / Obsah</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #e6f2ff; font-weight: bold;">
+      <td colspan="3">Úvod do spracovania sekvencií</td>
+    </tr>
+    <tr>
+      <td>1.</td>
+      <td style="text-align: center;">-</td>
+      <td>1. Úvod do predmetu. Charakteristika programu na spracovanie sekvencií.</td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td style="text-align: center;">-</td>
+      <td>2. Základné vlastnosti animácie</td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td style="text-align: center;">-</td>
+      <td>3. Popis používateľského prostredia animačného programu</td>
+    </tr>
+    <tr>
+      <td>4.</td>
+      <td style="text-align: center;">-</td>
+      <td>4. Základné funkcie programu</td>
+    </tr>
+    <tr>
+      <td>5.</td>
+      <td style="text-align: center;">-</td>
+      <td>5. Panel nástrojov, panel farby</td>
+    </tr>
+    <tr>
+      <td>6.</td>
+      <td style="text-align: center;">-</td>
+      <td>6. Časová os, vrstvy</td>
+    </tr>
+    <tr>
+      <td>7.</td>
+      <td style="text-align: center;">-</td>
+      <td>7. Knižnice a symboly, scény</td>
+    </tr>
+    <tr>
+      <td>8.</td>
+      <td style="text-align: center;">-</td>
+      <td>8. Kreslenie</td>
+    </tr>
+    <tr>
+      <td>9.</td>
+      <td style="text-align: center;">-</td>
+      <td>9. Kreslenie</td>
+    </tr>
+    <tr>
+      <td>10.</td>
+      <td style="text-align: center;">-</td>
+      <td>10. Výber farby a obsahu</td>
+    </tr>
+    <tr>
+      <td>11.</td>
+      <td style="text-align: center;">-</td>
+      <td>11. Transformácie</td>
+    </tr>
+    <tr>
+      <td>12.</td>
+      <td style="text-align: center;">-</td>
+      <td>12. Text</td>
+    </tr>
+
+    <tr style="background-color: #e6f2ff; font-weight: bold;">
+      <td colspan="3">Základné prvky pre animáciu</td>
+    </tr>
+    <tr>
+      <td>13.</td>
+      <td style="text-align: center;">-</td>
+      <td>13. Základy animovania v aplikácii Animate</td>
+    </tr>
+    <tr>
+      <td>14.</td>
+      <td style="text-align: center;">-</td>
+      <td>14. Práca s časovou osou, druhy snímok</td>
+    </tr>
+    <tr>
+      <td>15.</td>
+      <td style="text-align: center;">-</td>
+      <td>15. Rýchlosť animácie, spomaľovanie, zrýchľovanie</td>
+    </tr>
+    <tr>
+      <td>16.</td>
+      <td style="text-align: center;">-</td>
+      <td>16. Konverzia objektov na grafické symboly</td>
+    </tr>
+    <tr>
+      <td>17.</td>
+      <td style="text-align: center;">-</td>
+      <td>17. Animácia zmeny polohy objektu</td>
+    </tr>
+    <tr>
+      <td>18.</td>
+      <td style="text-align: center;">-</td>
+      <td>18. Animácia zmeny polohy objektu</td>
+    </tr>
+    <tr>
+      <td>19.</td>
+      <td style="text-align: center;">-</td>
+      <td>19. Pohyby – rotačný, priamočiary, po krivke, kombinovaný</td>
+    </tr>
+    <tr>
+      <td>20.</td>
+      <td style="text-align: center;">-</td>
+      <td>20. Pohyby – rotačný, priamočiary, po krivke, kombinovaný</td>
+    </tr>
+    <tr>
+      <td>21.</td>
+      <td style="text-align: center;">-</td>
+      <td>21. Animácia zmeny tvaru objektu</td>
+    </tr>
+    <tr>
+      <td>22.</td>
+      <td style="text-align: center;">-</td>
+      <td>22. Animácia zmeny tvaru objektu</td>
+    </tr>
+    <tr>
+      <td>23.</td>
+      <td style="text-align: center;">-</td>
+      <td>23. Animácia efektov objektov</td>
+    </tr>
+    <tr>
+      <td>24.</td>
+      <td style="text-align: center;">-</td>
+      <td>24. Animácia efektov objektov</td>
+    </tr>
+    <tr>
+      <td>25.</td>
+      <td style="text-align: center;">-</td>
+      <td><a href="https://drive.google.com/drive/folders/1z4gKwDo_H7HKvQ7nlsD1hNY378hyATVe?usp=drive_link"></a>25. Inverzná kinematika</td>
+    </tr>
+    <tr>
+      <td>26.</td>
+      <td style="text-align: center;">-</td>
+      <td><a href="https://drive.google.com/drive/folders/1z4gKwDo_H7HKvQ7nlsD1hNY378hyATVe?usp=drive_link">25. Inverzná kinematika</a></td>
+    </tr>
+    <tr>
+      <td>27.</td>
+      <td style="text-align: center;">-</td>
+      <td><a href="https://drive.google.com/drive/folders/1z4gKwDo_H7HKvQ7nlsD1hNY378hyATVe?usp=drive_link">25. Inverzná kinematika</a></td>
+    </tr>
+    <tr>
+      <td>28.</td>
+      <td style="text-align: center;">-</td>
+      <td>28. Animácia pomocou masky</td>
+    </tr>
+    <tr>
+      <td>29.</td>
+      <td style="text-align: center;">-</td>
+      <td>29. Animácia pomocou masky</td>
+    </tr>
+    <tr>
+      <td>30.</td>
+      <td style="text-align: center;">-</td>
+      <td>30. Animácia pomocou masky</td>
+    </tr>
+    <tr>
+      <td>31.</td>
+      <td style="text-align: center;">-</td>
+      <td>31. Animácia textu</td>
+    </tr>
+    <tr>
+      <td>32.</td>
+      <td style="text-align: center;">-</td>
+      <td>32. Animácia textu</td>
+    </tr>
+    <tr>
+      <td>33.</td>
+      <td style="text-align: center;">-</td>
+      <td>33. Animácia textu</td>
+    </tr>
+  </tbody>
+</table>
