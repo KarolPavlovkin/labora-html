@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rozvrh hodín - Pavlovkin Karol</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-image: url("shoe1.jpg");
+            color: #000000;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .header-container {
+            text-align: center;
+            margin-bottom: 20px;
+            width: 100%;
+            max-width: 1100px;
+            border-bottom: 2px solid #000000;
+            padding-bottom: 10px;
+        }
+        h2 {
+            margin: 5px 0;
+            font-size: 20px;
+            text-transform: uppercase;
+        }
+        p {
+            margin: 3px 0;
+            font-size: 14px;
+            font-weight: 500;
+        }
+        .table-container {
+            width: 100%;
+            max-width: 1100px;
+            overflow-x: auto;
+            border: 2px solid #000000;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: center;
+            background-color: #ffffff;
+        }
+        th, td {
+            padding: 10px 8px;
+            border: 1px solid #000000;
+            font-size: 12px;
+            min-width: 90px;
+            height: 45px;
+            vertical-align: top;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        .day-cell {
+            background-color: #f2f2f2;
+            font-weight: bold;
+            font-size: 13px;
+            width: 110px;
+            text-align: left;
+            padding-left: 8px;
+            vertical-align: middle;
+        }
+        .time-header {
+            font-size: 11px;
+            font-weight: normal;
+            display: block;
+            margin-top: 2px;
+        }
+        .subject {
+            font-weight: bold;
+            display: block;
+        }
+        .class-group {
+            display: block;
+            font-size: 10px;
+            margin: 2px 0;
+        }
+        .room {
+            display: block;
+            font-size: 10px;
+            font-style: italic;
+        }
+        .footer {
+            margin-top: 15px;
+            width: 100%;
+            max-width: 1100px;
+            display: flex;
+            justify-content: space-between;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+
+
+
+<div class="table-container">
+    <table>
+        <thead>
+            <tr>
+                <th>Deň</th>
+                <th>0<span class="time-header">7:00-7:45</span></th>
+                <th>1<span class="time-header">7:50-8:35</span></th>
+                <th>2<span class="time-header">8:45-9:30</span></th>
+                <th>3<span class="time-header">9:40-10:25</span></th>
+                <th>4<span class="time-header">10:35-11:20</span></th>
+                <th>5<span class="time-header">11:30-12:15</span></th>
+                <th>6<span class="time-header">12:45-13:30</span></th>
+                <th>7<span class="time-header">13:35-14:20</span></th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            
+            <!-- PONDELOK - PÁRNY -->
+            <tr>
+                <td class="day-cell">Po (Párny)</td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a> D1</td>
+                <td><span class="subject">OVY D1</span>
+                    <span class="class-group">IV.KGO / ovy_gdm</span>
+                    <span class="room">VT-2</span>
+                </td>
+                <td>
+                    <span class="subject">OVY D1</span>
+                    <span class="class-group">IV.KGO / ovy_gdm</span>
+                    <span class="room">VT-2</span>
+                </td>
+                <td>
+                    <span class="subject">OVY D1</span>
+                    <span class="class-group">IV.KGO / ovy_gdm</span>
+                    <span class="room">VT-2</span>
+                </td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td>
+                <td>
+                    <span class="subject">API</span>
+                    <span class="class-group"><a href="II.KGO - API/II.KGO - API.html">II.KGO</a></span>
+                    <span class="room">mmu-2/107</span>
+                </td>
+                <td></td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a>
+            </tr>
+            
+            <!-- PONDELOK - NEPÁRNY -->
+            <tr>
+                <td class="day-cell">Po (nepárny)</td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td>
+                <td>
+                    <span class="subject">API</span>
+                    <span class="class-group"><a href="II.KGO - API/II.KGO - API.html">II.KGO</a></span>
+                    <span class="room">mmu-2/107</span>
+                </td>                
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td>
+                <td><span class="subject">OVY</span>
+                    <span class="class-group">IV.KGO</span>
+                    <span class="room">VT-2</span>
+                </td>
+                <td>
+                    <span class="subject">OVY</span>
+                    <span class="class-group">IV.KGO</span>
+                    <span class="room">VT-2</span>
+                </td>
+                <td>
+                    <span class="subject">OVY</span>
+                    <span class="class-group">IV.KGO</span>
+                    <span class="room">VT-2</span>
+                </td>
+            </tr>
+
+            <!-- UTOROK -->
+            <tr>
+                <td class="day-cell">Ut</td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a>DP NP</td>
+                <td>
+                    <span class="subject">SSE DP NP</span>
+                    <span class="class-group"><a href="II.KGO - SSE/II. KGO - SSE.html">II.KGO</a></span>
+                    <span class="room">VT-2</span>
+                </td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a>DP NP</td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a>DP NP</td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td>
+            </tr>
+
+            <!-- STREDA - NEPÁRNY -->
+            <tr>
+                <td class="day-cell">St (párny)</td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a>D2</td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a>D2</td>
+                <td>
+                    <span class="subject">SSE D2</span>
+                    <span class="class-group">IV.KGO</span>
+                    <span class="room">mmu-2/107</span>
+                </td>
+                <td>
+                    <span class="subject">SPT D2</span>
+                    <span class="class-group"><a href="III.KGO - SPT/III.KGO - SPT.html">III.KGO</a></span>
+                    <span class="room">VT-2 D2</span>
+                </td>
+                <td>
+                    <span class="subject">SSE D2</span>
+                    <span class="class-group"><a href="I. KGO - SSE/I.KGO_SSE.html">I.KGO</a></span>
+                    <span class="room">VT-2</span>
+                </td>
+                <td><span class="subject">OVY D2</span>
+                    <span class="class-group"><a href="II.KGO - OVY/II.KGO - OVY.html">II.KGO</a></span>
+                    <span class="room">VT-1</span>
+                </td>
+                <td>
+                    <span class="subject">OVY D2</span>
+                    <span class="class-group"><a href="II.KGO - OVY/II.KGO - OVY.html">II.KGO</a></span>
+                    <span class="room">VT-1</span>
+                </td>
+                <td>
+                    <span class="subject">OVY D2</span>
+                    <span class="class-group"><a href="II.KGO - OVY/II.KGO - OVY.html">II.KGO</a></span>
+                    <span class="room">VT-1</span>
+                </td>
+            </tr>
+
+            <!-- STREDA - PÁRNY -->
+            <tr>
+                <td class="day-cell">St (nepárny)</td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td>
+                <td><span class="subject">OVY</span>
+                    <span class="class-group">II.KGO</span>
+                    <span class="room">VT-1</span>
+                </td>
+                <td>
+                    <span class="subject">OVY</span>
+                    <span class="class-group">II.KGO</span>
+                    <span class="room">VT-1</span>
+                </td>
+                <td>
+                    <span class="subject">OVY</span>
+                    <span class="class-group">II.KGO</span>
+                    <span class="room">VT-1</span>
+                </td>
+                <td>
+                    <span class="subject">SPT</span>
+                    <span class="class-group">III.KGO / gdm</span>
+                    <span class="room">VT-2</span>
+                </td>
+                <td>
+                    <span class="subject">SSE</span>
+                    <span class="class-group">IV.KGO</span>
+                    <span class="room">mmu-3/107</span>
+                </td>
+                  <td>
+                    <span class="subject">SSE</span>
+                    <span class="class-group">I.KGO</span>
+                    <span class="room">VT-2</span>
+                </td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td>
+            </tr>
+
+            <!-- ŠTVRTOK -->
+            <tr>
+                <td class="day-cell">Št</td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td><td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td><td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td><td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td><td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td><td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td><td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td>
+            </tr>
+
+            <!-- PIATOK -->
+            <tr>
+                <td class="day-cell">Pi</td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td>
+                <td>
+                    <span class="subject">OVY</span>
+                    <span class="class-group"><a href="III.KGO - OVY/III.KGO_OVY.html">III.KGO</a></span>
+                    <span class="room">VT-1</span>
+                </td>
+                <td>
+                    <span class="subject">OVY</span>
+                    <span class="class-group"><a href="III.KGO - OVY/III.KGO_OVY.html">III.KGO</a></span>
+                    <span class="room">VT-1</span>
+                </td>
+                <td>
+                    <span class="subject">OVY</span>
+                    <span class="class-group"><a href="III.KGO - OVY/III.KGO_OVY.html">III.KGO</a></span>
+                    <span class="room">VT-1</span>
+                </td>
+                <td>
+                    <span class="subject">SSE</span>
+                    <span class="class-group">IV.KGO</span>
+                    <span class="room">mmu-2/107</span>
+                </td>
+                <td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td><td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td><td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+</body>
+</html>
