@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Učebný plán - Prehľad predmetov</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #000000;
+            margin: 0;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .header-title {
+            text-align: center;
+            text-transform: uppercase;
+            font-size: 20px;
+            margin-bottom: 25px;
+            letter-spacing: 0.5px;
+        }
+        .table-container {
+            width: 100%;
+            max-width: 1200px;
+            overflow-x: auto;
+            border: 2px solid #000000;
+            background-color: #ffffff;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: center;
+        }
+        th, td {
+            padding: 12px 10px;
+            border: 1px solid #000000;
+            font-size: 12px;
+            min-width: 100px;
+            vertical-align: top;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        .row-header {
+            background-color: #f2f2f2;
+            font-weight: bold;
+            text-align: left;
+            min-width: 80px;
+        }
+        .section-desc {
+            display: block;
+            font-size: 10px;
+            color: #555;
+            margin-top: 4px;
+            font-style: italic;
+        }
+        .footnotes {
+            margin-top: 25px;
+            width: 100%;
+            max-width: 1200px;
+            font-size: 11px;
+            line-height: 1.6;
+            border-top: 2px solid #000000;
+            padding-top: 15px;
+        }
+        .footnotes-grid {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .footnotes-column {
+            flex: 1;
+            min-width: 250px;
+        }
+        .footnotes h4 {
+            margin: 0 0 5px 0;
+            text-transform: uppercase;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+
+<h2 class="header-title">Prehľad predmetov a programov - od 1.9.2024</h2>
+
+<div class="table-container">
+    <table>
+        <thead>
+            <tr>
+                <th>Ročník</th>
+                <th>EKN</th>
+                <th>API</th>
+                <th>POM</th>
+                <th>PRV</th>
+                <th>SPT</th>
+                <th>SSE</th>
+                <th>GDM</th>
+                <th>ELP</th>
+                <th>RES</th>
+                <th>OVY</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td class="row-header">1. ročník</td>
+                <td>---</td>
+                <td></td>
+                <td>Písmo, tlač, fotografia, poč. grafika, DTP, polygrafia</td>
+                <td>Tvar, objekt, kompozícia. Figura. Um. dielo</td>
+                <td>Photoshop</td>
+                <td>Animate základy</td>
+                <td>Formáty, kompozícia, farba, písmo</td>
+                <td>Weby statické responzívne</td>
+                <td>---</td>
+                <td>DW Photoshop Fotografia<br><span class="section-desc">W=3, G=2, Foto=1</span></td>
+            </tr>
+            <tr>
+                <td class="row-header">2. ročník</td>
+                <td>---</td>
+                <td></td>
+                <td>---</td>
+                <td>---</td>
+                <td>Corel Draw</td>
+                <td>Animate (Action Script)</td>
+                <td>Grafické techniky, akcidenčné tlačoviny, graf. layout webstránok</td>
+                <td>Weby dynamické (PHP)</td>
+                <td>---</td>
+                <td>DW Animate PS+CD+IL<br><span class="section-desc">W=7, A=2, G=5</span></td>
+            </tr>
+            <tr>
+                <td class="row-header">3. ročník</td>
+                <td></td>
+                <td></td>
+                <td>---</td>
+                <td>---</td>
+                <td>InDesign</td>
+                <td>Blender</td>
+                <td>Periodické a neperiodické tlačoviny, CI</td>
+                <td>Weby dynamické (DB, PHP, OOP)</td>
+                <td>Word Press</td>
+                <td>Word Press ID BL PH+CD+IL<br><span class="section-desc">W=4, EP=3, A=2, G=5</span></td>
+            </tr>
+            <tr>
+                <td class="row-header">4. ročník</td>
+                <td></td>
+                <td></td>
+                <td>---</td>
+                <td>---</td>
+                <td>Ilustrátor 3D</td>
+                <td>Adobe Premier Pro</td>
+                <td>Autorské práva, príprava do tlače, e-publikácie, reklama</td>
+                <td>E-publikácie</td>
+                <td>Word Press</td>
+                <td>Word Press ID PH+CD+IL<br><span class="section-desc">W=4, EP=3, G=7</span></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<div class="footnotes">
+    <div class="footnotes-grid">
+        <div class="footnotes-column">
+            <h4>Skratky programov:</h4>
+            <p><strong>DW</strong> – Dreamweaver | <strong>PH</strong> – Photoshop | <strong>CD</strong> – Corel Draw | <strong>IL</strong> – Illustrator | <strong>ID</strong> – InDesign | <strong>AN</strong> – Animate | <strong>BL</strong> – Blender</p>
+        </div>
+        <div class="footnotes-column">
+            <h4>Skratky rozloženia učiva:</h4>
+            <p><strong>W</strong> – weby | <strong>G</strong> – grafika | <strong>F / Foto</strong> – fotografia | <strong>A</strong> – animácie | <strong>EP</strong> – elektronické publikácie</p>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
