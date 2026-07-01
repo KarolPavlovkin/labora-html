@@ -94,6 +94,31 @@
             justify-content: space-between;
             font-size: 12px;
         }
+        
+        /* New Styles for the Button Container */
+        .button-container {
+            margin-top: 20px;
+            display: flex;
+            gap: 15px;
+            width: 100%;
+            max-width: 1100px;
+            justify-content: center;
+        }
+        .custom-btn {
+            background-color: #ffffff;
+            color: #000000;
+            border: 2px solid #000000;
+            padding: 10px 20px;
+            font-size: 14px;
+            font-weight: bold;
+            text-transform: uppercase;
+            cursor: pointer;
+            transition: background-color 0.2s, color 0.2s;
+        }
+        .custom-btn:hover {
+            background-color: #000000;
+            color: #ffffff;
+        }
     </style>
 </head>
 <body>
@@ -113,11 +138,11 @@
                 <th>5<span class="time-header">11:30-12:15</span></th>
                 <th>6<span class="time-header">12:45-13:30</span></th>
                 <th>7<span class="time-header">13:35-14:20</span></th>
-                
+                 
             </tr>
         </thead>
         <tbody>
-            
+             
             <!-- PONDELOK - PÁRNY -->
             <tr>
                 <td class="day-cell">Po (Párny)</td>
@@ -145,7 +170,7 @@
                 </td>
                 <td></td><a href="https://docs.google.com/document/d/1HlKNXVxVW1XD5mHInHDqgqPva-8as-WY3KyqtdbMBks/edit?usp=drive_link">---</a>
             </tr>
-            
+             
             <!-- PONDELOK - NEPÁRNY -->
             <tr>
                 <td class="day-cell">Po (nepárny)</td>
@@ -297,6 +322,12 @@
             </tr>
         </tbody>
     </table>
+</div>
+
+<!-- NEW BUTTONS ADDED HERE -->
+<div class="button-container">
+    <button class="custom-btn" onclick="alert('Button 1 Clicked!')">Gombík 1</button>
+    <button class="custom-btn" onclick="alert('Button 2 Clicked!')">Gombík 2</button>
 </div>
 
 </body>
