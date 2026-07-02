@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Učebné osnovy - Elektronické publikovanie (1. ročník)</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #000000;
+            margin: 0;
+            padding: 25px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .content-wrapper {
+            width: 100%;
+            max-width: 1200px;
+            background-color: #ffffff;
+            padding: 30px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+            border: 1px solid #e0e0e0;
+            border-radius: 4px;
+        }
+        h1, h2, h3 {
+            color: #111111;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        h1 { font-size: 22px; border-bottom: 2px solid #000000; padding-bottom: 10px; margin-bottom: 20px; }
+        h2 { font-size: 16px; margin-top: 30px; margin-bottom: 10px; background-color: #f5f5f5; padding: 8px; }
+        h3 { font-size: 14px; margin-top: 20px; margin-bottom: 5px; }
+        p, li {
+            font-size: 14px;
+            line-height: 1.6;
+            color: #333333;
+        }
+        ul { margin-top: 5px; padding-left: 20px; }
+        
+        /* Table Formatting */
+        .table-container {
+            width: 100%;
+            overflow-x: auto;
+            margin-top: 25px;
+            border: 2px solid #000000;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            text-align: left;
+        }
+        th, td {
+            padding: 12px 14px;
+            border: 1px solid #000000;
+            font-size: 13px;
+            vertical-align: top;
+            line-height: 1.5;
+        }
+        /* Top Header Row (Yellow Row) */
+        th {
+            background-color: #fff2cc; /* Soft Yellow */
+            font-weight: bold;
+            text-transform: uppercase;
+            font-size: 12px;
+            letter-spacing: 0.5px;
+        }
+        /* Section Header Rows (Blue Rows) */
+        .section-header {
+            background-color: #d9e1f2; /* Soft Blue */
+            font-weight: bold;
+            font-size: 13px;
+        }
+        .section-header td {
+            font-weight: bold;
+        }
+        tr:hover:not(.section-header) {
+            background-color: #fafafa;
+        }
+    </style>
+</head>
+<body>
+
+<div class="content-wrapper">
+
+    <h1>Charakteristika predmetu</h1>
+    <p>Učivo predmetu elektronické publikovanie oboznamuje žiakov so základmi elektronického publikovania informácií, so zameraním na tvorbu webových stránok a e-publikácií a naučí žiakov využívať počítač a vhodné programové vybavenie pre tvorbu digitálnych médií. Obsah učiva je rozdelený do všetkých štyroch ročníkov.</p>
+    <p>V prvom ročníku je učivo zamerané na základy tvorby webových stránok pomocou značkovacieho jazyka. Žiaci sa oboznámia s fungovaním internetovej služby WWW, programom pre tvorbu webových stránok, naučia sa vytvárať štruktúru dokumentu, hypertextové odkazy medzi webovými stránkami, vkladať grafické prvky do webovej stránky a vytvoriť jednoduché webové sídlo. Následne je učivo zamerané na pokročilejšie určovanie vzhľadu webových stránok pomocou jazyka štýlov (CSS). Žiaci sa oboznámia s nastavovaním vlastností písma a textu, vlastnosťami a umiestňovaním blokových prvkov stránky, ich využitím pri tvorbe lakotu webovej stránky, ako aj s tvorbou pokročilých navigačných a grafických prvkov webovej stránky.</p>
+    <p>V druhom ročníku je učivo zamerané na pokročilejšie techniky vzhľadu responzívnych webových stránok pomocou jazyka štýlov (CSS) a na implementáciu efektov pomocou jQuery skriptov. Následne je učivo zamerané na základy tvorby dynamických webových stránok pomocou serverového skriptovacieho jazyka.</p>
+    <p>V treťom ročníku je učivo zamerané na pokročilejšie techniky tvorby dynamických webových stránok ako sú ochrana údajov na webovej stránke pomocou heslovania obsahu, systém prihlasovania do chránenej zóny webovej stránky, implementácia rôznych dynamických skriptov (funkcií) fungujúcich v závislosti na splnení danej podmienky. Následne je učivo zamerané na základnú prácu s databázovým systémom a databázovými tabuľkami ako úložiskom obsahu webovej stránky. Učivo predmetu je doplnené o redakčné systémy.</p>
+    <p>Vo štvrtom ročníku je učivo zamerané na pokročilejšie využívanie databázových systémov. Žiaci sa oboznámia s princípom správy obsahov webových stránok, vytvorením jednoduchého článkového systému a fotogalérie. V druhej časti je učivo zamerané na tvorbu a spracovanie interaktívnych e-publikácií, spôsoby ich publikovania na internete.</p>
+    <p>Vyučovanie predmetu elektronické publikovanie sa uskutočňuje v počítačovej učebni a môže mať formu cvičení, trieda sa môže deliť na skupiny podľa príslušných predpisov o bezpečnosti práce. Pri deľbe na skupiny odporúčame prihliadať na záujem a predchádzajúce vedomosti a zručnosti žiakov.</p>
+
+    <h1>Ciele vyučovacieho predmetu</h1>
+    <p>Cieľom vyučovacieho predmetu elektronické publikovanie počas štúdia študijného odboru grafik digitálnych médií je pochopiť základné pojmy súvisiace s problematikou webových stránok, webových aplikácií, prezentácií, e-publikácií, programovacích nástrojov, nástrojov pre tvorbu a úpravu webovej grafiky a textu, spracovania obrazu a zvuku, multimédií, pochopiť a osvojiť si základné programovacie postupy, Poznať základné princípy tvorby interaktívneho webu, orientovať sa v oblasti internetu a internetovej grafiky. Pri tvorbe digitálneho média ako takého sa aplikujú zásady ochrany životného prostredia – environmentálna výchova.</p>
+
+    <h1>Výchovné a vzdelávacie stratégie</h1>
+    <h3>Spôsobilosť interaktívne používať vedomosti, informačné a komunikačné technológie, komunikovať v materinskom a cudzom jazyku</h3>
+    <p>Absolvent má:</p>
+    <ul>
+        <li>identifikovať, vyhľadávať, triediť a spracovať rôzne informácie a informačné zdroje,</li>
+        <li>pracovať s rôznymi pokročilejšími informačnými a komunikačnými technológiami.</li>
+    </ul>
+
+    <h3>Metódy</h3>
+    <ul>
+        <li>Informačnoreceptívna – výklad</li>
+        <li>Reproduktívna – riadený rozhovor</li>
+        <li>Heuristická – riešenie úloh</li>
+    </ul>
+
+    <h3>Formy práce</h3>
+    <ul>
+        <li>Frontálna výučba</li>
+        <li>Frontálna a individuálna práca žiakov</li>
+        <li>Demonštrácia a pozorovanie</li>
+    </ul>
+
+    <h2>Rozpis učiva predmetu: ELEKTRONICKÉ PUBLIKOVANIE (1. ROČNÍK)</h2>
+
+    <div class="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th style="width: 30%;">Názov tematického celku / Témy</th>
+                    <th style="width: 35%;">Očakávané vzdelávacie výstupy</th>
+                    <th style="width: 35%;">Kritéria hodnotenia vzdelávacích výstupov</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="section-header">
+                    <td>Úvod do Internetu a služby WWW</td>
+                    <td>Žiak má:</td>
+                    <td>Žiak:</td>
+                </tr>
+                <tr>
+                    <td>Úvod do predmetu, Internet, služba WWW</td>
+                    <td>Oboznámiť sa s cieľmi a obsahom vyučovacieho predmetu.<br>Definovať pojem internet a služba WWW.</td>
+                    <td>Oboznámil sa s cieľmi a obsahom vyučovacieho predmetu.<br>Definoval pojem internet a služba WWW.</td>
+                </tr>
+                <tr>
+                    <td>Interaktívna komunikácia, Webové stránky</td>
+                    <td>Charakterizovať interaktívnu komunikáciu, vymenovať spôsoby interaktívnej komunikácie.<br>Vymenovať typy webových stránok, poznať význam a druhy prehliadačov webových stránok.</td>
+                    <td>Charakterizoval interaktívnu komunikáciu, vymenoval spôsoby interaktívnej komunikácie.<br>Vymenoval typy webových stránok, poznal význam a druhy prehliadačov webových stránok.</td>
+                </tr>
+
+                <tr class="section-header">
+                    <td>Úvod do tvorby webových stránok</td>
+                    <td>Žiak má:</td>
+                    <td>Žiak:</td>
+                </tr>
+                <tr>
+                    <td>Základná štruktúra web stránky, súbory web stránky</td>
+                    <td>Popísať elementy tvoriace základnú štruktúru web stránky.<br>Poznať spôsoby správneho pomenovania a ukladania súborov web stránky.</td>
+                    <td>Popísal elementy tvoriace základnú štruktúru web stránky.<br>Poznal spôsoby správneho pomenovania a ukladania súborov web stránky.</td>
+                </tr>
+                <tr>
+                    <td>Základy značkovacieho jazyka, komentáre</td>
+                    <td>Definovať všeobecný tvar značkovacieho príkazu, uviesť spôsoby zápisu komentárov v HTML dokumente.</td>
+                    <td>Definoval všeobecný tvar značkovacieho príkazu, uviedol spôsoby zápisu komentárov v HTML dokumente.</td>
+                </tr>
+                <tr>
+                    <td>Deklarácia kódovania, elementy, atribúty</td>
+                    <td>Poznať princípy kódovania jednotlivých elementov a priradenie vhodných atribútov elementom.</td>
+                    <td>Poznal princípy kódovania jednotlivých elementov a priradenie vhodných atribútov elementom.</td>
+                </tr>
+                <tr>
+                    <td>Meta značky, Kostra web stránky</td>
+                    <td>Popísať základné informácie o dokumente - typ dokumentu, meta značky, znaková sada.<br>Oboznámiť sa s funkciami nástrojov editora na tvorbu web stránok.<br>Ovládať postup vytvorenia a ukladania HTML dokumentu.</td>
+                    <td>Popísal základné informácie o dokumente, - typ dokumentu, meta značky, znaková sada.<br>Oboznámil sa s funkciami nástrojov editora na tvorbu web stránok.<br>Ovládal postup vytvorenia a ukladania HTML dokumentu.</td>
+                </tr>
+
+                <tr class="section-header">
+                    <td>Obsah web stránok</td>
+                    <td>Žiak má:</td>
+                    <td>Žiak:</td>
+                </tr>
+                <tr>
+                    <td>Sadzba textu, nadpisov, podnadpisov, odsekov</td>
+                    <td>Poznať značkovacie príkazy pre sadzbu textu, nadpisov , podnadpisov a odsekov.</td>
+                    <td>Poznal značkovacie príkazy pre sadzbu textu, nadpisov podnadpisov a odsekov.</td>
+                </tr>
+                <tr>
+                    <td>Základné formátovanie textu</td>
+                    <td>Poznať základné príkazy na formátovanie textu, vedieť ich vhodne aplikovať na text.</td>
+                    <td>Poznal základné príkazy na formátovanie textu, vedel ich vhodne aplikovať na text.</td>
+                </tr>
+                <tr>
+                    <td>Usporiadané a neusporiadané zoznamy</td>
+                    <td>Poznať značkovacie príkazy pre sadzbu zoznamov.</td>
+                    <td>Poznal značkovacie príkazy pre sadzbu zoznamov.</td>
+                </tr>
+                <tr>
+                    <td>Formáty obrázkov, vloženie obrázka do web stránky</td>
+                    <td>Poznať formáty obrázkov a postupy vkladania obrázkov do web stránky.</td>
+                    <td>Poznal formáty obrázkov a postupy vkladania obrázkov do web stránky.</td>
+                </tr>
+                <tr>
+                    <td>Formátovacie príkazy pre obrázky</td>
+                    <td>Poznať formátovacie príkazy pre umiestnenie a úpravu obrázkov.</td>
+                    <td>Poznal formátovacie príkazy pre umiestnenie a úpravu obrázkov.</td>
+                </tr>
+                <tr>
+                    <td>Pozadia web stránok</td>
+                    <td>Poznať možnosti nastavenia pozadia a vlastností blokových prvkov web stránky.</td>
+                    <td>Poznal možnosti nastavenia pozadia a vlastností blokových prvkov web stránky.</td>
+                </tr>
+
+                <tr class="section-header">
+                    <td>Základy práce s CSS štýlmi</td>
+                    <td>Žiak má:</td>
+                    <td>Žiak:</td>
+                </tr>
+                <tr>
+                    <td>Úvod do kaskádových štýlov, ich využitie, komentáre</td>
+                    <td>Charakterizovať štýl, šablóny štýlov a CSS dokument.<br>Popísať spôsoby zápisu komentárov v CSS dokumente.</td>
+                    <td>Charakterizoval štýl, šablóny štýlov a CSS dokument.<br>Popísal spôsoby zápisu komentárov v CSS dokumente.</td>
+                </tr>
+                <tr>
+                    <td>Pravidlo štýlu, vlastnosti a ich hodnoty</td>
+                    <td>Určiť pravidlo štýlu, nastaviť vlastnosti a hodnotu pre konkrétny element web stránky.</td>
+                    <td>Určil pravidlo štýlu, nastavil vlastnosti a hodnotu pre konkrétny element web stránky.</td>
+                </tr>
+                <tr>
+                    <td>Konštruovanie selektora, Selektory značiek, Selektory triedy, Selektory identifikátorov, Selektory potomkov</td>
+                    <td>Poznať pravidlá zostavenia selektora, určiť špecifiká jednotlivých druhov selektorov.<br>Skonštruovať selektory a vedieť ich správne aplikovať v zdrojovom kóde.</td>
+                    <td>Poznal pravidlá zostavenia selektora, určil špecifiká jednotlivých druhov selektorov.<br>Skonštruoval selektory a vedel ich správne aplikovať v zdrojovom kóde.</td>
+                </tr>
+                <tr>
+                    <td>Viac stĺpcový layout web stránky</td>
+                    <td>Poznať značkovacie príkazy pre vytvorenie rozvrhnutia a navigácie web stránky.<br>Použiť tabuľky na vytvorenie rozvrhnutia (layoutu) web stránky.</td>
+                    <td>Poznal značkovacie príkazy pre vytvorenie rozvrhnutia a navigácie web stránky.<br>Použil tabuľky na vytvorenie rozvrhnutia (layoutu) web stránky.</td>
+                </tr>
+                <tr>
+                    <td>Úprava textového obsahu pomocou kaskádových štýlov</td>
+                    <td>Ovládať spôsoby úpravy rôzneho textového obsahu web stránky pomocou CSS.</td>
+                    <td>Ovládal spôsoby úpravy rôzneho textového obsahu web stránky pomocou CSS.</td>
+                </tr>
+                <tr>
+                    <td>Úprava netextového obsahu pomocou kaskádových štýlov</td>
+                    <td>Ovládať spôsoby úpravy rôzneho netextového obsahu web stránky pomocou CSS.</td>
+                    <td>Ovládal spôsoby úpravy rôzneho netextového obsahu web stránky pomocou CSS.</td>
+                </tr>
+
+                <tr class="section-header">
+                    <td>Pokročilé využívanie kaskádových štýlov</td>
+                    <td>Žiak má:</td>
+                    <td>Žiak:</td>
+                </tr>
+                <tr>
+                    <td>Tabuľky vo web stránke</td>
+                    <td>Poznať značkovacie príkazy pre sadzbu tabuliek vo web stránke.</td>
+                    <td>Poznal značkovacie príkazy pre sadzbu tabuliek vo web stránke.</td>
+                </tr>
+                <tr>
+                    <td>Formátovanie tabuliek pomocou CSS</td>
+                    <td>Ovládať príkazy a postupy pokročilého formátovania tabuliek pomocou CSS.</td>
+                    <td>Ovládal príkazy a postupy pokročilého formátovania tabuliek pomocou CSS.</td>
+                </tr>
+                <tr>
+                    <td>Formuláre vo web stránke</td>
+                    <td>Poznať základnú štruktúru a prvky formulára.<br>Ovládať značkovacie a formátovacie príkazy pre sadzbu a editáciu formulárov vo web stránke.</td>
+                    <td>Poznal základnú štruktúru a prvky formulára.<br>Ovládal značkovacie a formátovacie príkazy pre sadzbu a editáciu formulárov vo web stránke.</td>
+                </tr>
+                <tr>
+                    <td>Úprava formulára pomocou CSS</td>
+                    <td>Ovládať príkazy a postupy úpravy formulára pomocou CSS.</td>
+                    <td>Ovládal príkazy a pokročilé úpravy navigačného menu pomocou CSS.</td>
+                </tr>
+                <tr>
+                    <td>Aplikácia grafických efektov na elementy web stránky</td>
+                    <td>Poznať spôsoby aplikovania rôznych grafických efektov na elementy web stránky.</td>
+                    <td>Poznal spôsoby aplikovania rôznych grafických efektov na elementy web stránky.</td>
+                </tr>
+                <tr>
+                    <td>Aplikácia efektu animovania na elementy web stránky</td>
+                    <td>Poznať spôsoby aplikovania rôznych efektov animovania na elementy web stránky.</td>
+                    <td>Poznal spôsoby aplikovania rôznych efektov animovania na elementy web stránky.</td>
+                </tr>
+
+                <tr class="section-header">
+                    <td>Navigácia a odkazy vo web stránke</td>
+                    <td>Žiak má:</td>
+                    <td>Žiak:</td>
+                </tr>
+                <tr>
+                    <td>Absolútne a relatívne adresy URL, vytváranie kotiev</td>
+                    <td>Formulovať všeobecný tvar adresy v sieti internet, rozlíšiť relatívne a absolútne URL adresy.</td>
+                    <td>Formuloval všeobecný tvar adresy v sieti internet, rozlíšil relatívne a absolútne URL adresy.</td>
+                </tr>
+                <tr>
+                    <td>Hypertextové odkazy, menné odkazy, Iné typy odkazov</td>
+                    <td>Vysvetliť pojem hypertextový odkaz.<br>Poznať značkovacie príkazy pre hypertextové odkazy a menné odkazy.<br>Poznať príkazy na vytvorenie rôznych odkazov na súbory, email, iné stránky a pod.</td>
+                    <td>Vysvetlil pojem hypertextový odkaz.<br>Poznal značkovacie príkazy pre hypertextové odkazy a menné odkazy.<br>Poznal príkazy na vytvorenie rôznych odkazov na súbory, email, iné stránky a pod.</td>
+                </tr>
+                <tr>
+                    <td>Navigácia v rámci web stránky</td>
+                    <td>Ovládať postup tvorby rôznych typov navigácie (vodorovná, zvislá, drobková...).</td>
+                    <td>Ovládal postup tvorby rôznych typov navigácie (vodorovná, zvislá, drobková...).</td>
+                </tr>
+                <tr>
+                    <td>Úprava navigačného menu pomocou CSS</td>
+                    <td>Ovládať príkazy a pokročilé úpravy navigačného menu pomocou CSS.</td>
+                    <td>Ovládal príkazy a pokročilé úpravy navigačného menu pomocou CSS.</td>
+                </tr>
+
+                <tr class="section-header">
+                    <td>Multimediálny obsah webových stránok</td>
+                    <td>Žiak má:</td>
+                    <td>Žiak:</td>
+                </tr>
+                <tr>
+                    <td>Druhy multimédií pre web stránky</td>
+                    <td>Poznať druhy multimédií a formáty multimediálnych súborov pre web stránky.</td>
+                    <td>Poznal druhy multimédií a formáty multimediálnych súborov pre web stránky.</td>
+                </tr>
+                <tr>
+                    <td>Vloženie Flash animácie, MP3 nahrávky, video súbor</td>
+                    <td>Vložiť flash animácie, MP3 nahrávky, video súbor do web stránky.</td>
+                    <td>Vložil flash animácie, MP3 nahrávky, video súbor do web stránky.</td>
+                </tr>
+                <tr>
+                    <td>Odkazy na multimédiá</td>
+                    <td>Poznať postup vytvorenia odkazov na multimédiá.</td>
+                    <td>Poznal postup vytvorenia odkazov na multimédiá.</td>
+                </tr>
+
+                <tr class="section-header">
+                    <td>Vývoj responzívnych webových stránok</td>
+                    <td>Žiak má:</td>
+                    <td>Žiak:</td>
+                </tr>
+                <tr>
+                    <td>Tvorba responzívneho layoutu</td>
+                    <td>Charakterizovať responzívny web, vytvoriť responzívny layout web stránky.</td>
+                    <td>Charakterizoval responzívny web, vytvoril responzívny layout web stránky.</td>
+                </tr>
+                <tr>
+                    <td>Responzívne menu</td>
+                    <td>Poznať formátovacie príkazy na tvorbu responzívneho menu.<br>Vytvoriť responzívne menu v editore na tvorbu web stránok.</td>
+                    <td>Poznal formátovacie príkazy na tvorbu responzívneho menu.<br>Vytvoril responzívne menu v editore na tvorbu web stránok.</td>
+                </tr>
+                <tr>
+                    <td>Responzívna tabuľka</td>
+                    <td>Poznať formátovacie príkazy na tvorbu responzívnej tabuľky.<br>Vytvoriť responzívnu tabuľku v editore na tvorbu web stránok.</td>
+                    <td>Poznal formátovacie príkazy na tvorbu responzívnej tabuľky.<br>Vytvoril responzívnu tabuľku v editore na tvorbu web stránok.</td>
+                </tr>
+                <tr>
+                    <td>Responzívny formulár</td>
+                    <td>Poznať formátovacie príkazy na tvorbu responzívneho formulára.<br>Vytvoriť responzívny formulár v editore na tvorbu web stránok.</td>
+                    <td>Poznal formátovacie príkazy na tvorbu responzívneho formulára.<br>Vytvoril responzívny formulár v editore na tvorbu web stránok.</td>
+                </tr>
+                <tr>
+                    <td>Responzívny textový obsah web stránok</td>
+                    <td>Poznať formátovacie príkazy na tvorbu responzívneho textového obsahu web stránok.</td>
+                    <td>Poznal formátovacie príkazy na tvorbu responzívneho textového obsahu web stránok.</td>
+                </tr>
+                <tr>
+                    <td>Responzívny netextový obsah web stránok</td>
+                    <td>Poznať formátovacie príkazy na tvorbu responzívneho netextového obsahu web stránok.</td>
+                    <td>Poznal formátovacie príkazy na tvorbu responzívneho netextového obsahu web stránok.</td>
+                </tr>
+
+                <tr class="section-header">
+                    <td>Aplikácia jQuery do webovej stránky</td>
+                    <td>Žiak má:</td>
+                    <td>Žiak:</td>
+                </tr>
+                <tr>
+                    <td>Úvod do jQuery, princíp fungovania, využitie, knižnice</td>
+                    <td>Charakterizovať jQuery, vysvetliť ich princíp fungovania a použitia vo web stránke.<br>Vysvetliť význam používania jQuerových knižníc.</td>
+                    <td>Charakterizoval jQuery, vysvetlil ich princíp fungovania a použitia vo web stránke.<br>Vysvetlil význam používania jQuerových knižníc.</td>
+                </tr>
+                <tr>
+                    <td>Metódy k zmene obsahu</td>
+                    <td>Poznať základnú charakteristiku a použitie jednotlivých metód na zmenu obsahu.</td>
+                    <td>Poznal základnú charakteristiku a použitie jednotlivých metód na zmenu obsahu.</td>
+                </tr>
+                <tr>
+                    <td>Tvorba elementov, udalostí</td>
+                    <td>Poznať príkazy na tvorbu elementov a udalostí.</td>
+                    <td>Poznal príkazy na tvorbu elementov a udalostí.</td>
+                </tr>
+                <tr>
+                    <td>Grafické efekty jQuery v elementoch web stránky</td>
+                    <td>Vytvoriť grafické efekty jQuery v elementoch web stránky.</td>
+                    <td>Vytvoril grafické efekty jQuery v elementoch web stránky.</td>
+                </tr>
+
+                <tr class="section-header">
+                    <td>Optimalizácia webových stránok</td>
+                    <td>Žiak má:</td>
+                    <td>Žiak:</td>
+                </tr>
+                <tr>
+                    <td>Úvod do SEO optimalizácie</td>
+                    <td>Charakterizovať SEO optimalizáciu a jej využitie pri tvorbe web stránok.</td>
+                    <td>Charakterizoval SEO optimalizáciu a jej využitie pri tvorbe web stránok.</td>
+                </tr>
+                <tr>
+                    <td>Analýza web stránky, predpríprava na SEO</td>
+                    <td>Poznať spôsoby a význam analýzy webu a predprípravu na SEO optimalizáciu webových stránok.</td>
+                    <td>Poznal spôsoby a význam analýzy webu a predprípravu na SEO optimalizáciu webových stránok.</td>
+                </tr>
+                <tr>
+                    <td>Stanovenie cieľov SEO kampane</td>
+                    <td>Charakterizovať SEO kampaň, určiť ciele SEO kampane.</td>
+                    <td>Charakterizoval SEO kampaň, určil ciele SEO kampane.</td>
+                </tr>
+                <tr>
+                    <td>Stratégia a tvorba SEO plánu</td>
+                    <td>Poznať základy určenia stratégie a tvorby SEO plánu.<br>Zhrnúť a reprodukovať osvojené učivo tematického celku.</td>
+                    <td>Poznal základy určenia stratégie a tvorby SEO plánu.<br>Zhrnul a reprodukoval osvojené učivo tematického celku.</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+</body>
+</html>
