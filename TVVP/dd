@@ -1,0 +1,1340 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <title>Učebné osnovy predmetu Odborný výcvik</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; color: #333; background-color: #f9f9f9; }
+        h1 { color: #2c3e50; text-align: center; border-bottom: 2px solid #2c3e50; padding-bottom: 10px; text-transform: uppercase; }
+        h2 { color: #34495e; margin-top: 40px; border-bottom: 1px solid #ddd; padding-bottom: 5px; text-transform: uppercase; }
+        h3 { color: #2980b9; font-size: 1.3em; margin-top: 25px; margin-bottom: 15px; border-left: 5px solid #2980b9; padding-left: 10px; }
+        p, ul { margin-bottom: 15px; text-align: justify; }
+        ul { padding-left: 20px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 15px; margin-bottom: 35px; background-color: #fff; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+        th, td { border: 1px solid #bbb; padding: 10px; text-align: left; vertical-align: top; }
+        th { background-color: #f2f2f2; color: #2c3e50; }
+        tr.header-yellow { background-color: #fff2cc; font-weight: bold; }
+        tr.topic-blue { background-color: #d9e1f2; font-weight: bold; }
+        tr.row-plain { background-color: #ffffff; }
+        .center { text-align: center; }
+        ul.bullet-list { margin: 0; padding-left: 15px; }
+    </style>
+</head>
+<body>
+
+    <h1>Učebné osnovy predmetu Odborný výcvik</h1>
+    
+    <h2>Charakteristika predmetu</h2>
+    <p>Predmet odborný výcvik umožňuje žiakom získať odborné vedomosti, zručnosti a návyky, potrebné pri spracovaní digitálnych médií ako je webová stránka, e-publikácie a pod. Žiaci sa naučia používať grafické programy, pravidlá spracovania textovej a obrazovej časti digitálnych médií, ako aj postupy elektronického publikovania na internete.</p>
+    
+    <h2>Ciele vyučovacieho predmetu</h2>
+    <p>Cieľom predmetu odborný výcvik grafika digitálnych médií je poskytnúť žiakom súbor vedomostí, zručností a kompetencií v používaní fotografických prístrojov, spracovaní fotografického obrazového materiálu a následne v spracovaní a úprave obrazových predlôh pomocou bitmapových a vektorových grafických programov.</p>
+    
+    <h2>Výchovné a vzdelávacie stratégie</h2>
+    <p>Spôsobilosť interaktívne používať vedomosti, informačné a komunikačné technológie, komunikovať v materinskom a cudzom jazyku.</p>
+    
+    <h2>Metódy a formy práce</h2>
+    <ul>
+        <li>Informačnoreceptívna – výklad, reproduktívna – riadený rozhovor, heuristická – riešenie úloh.</li>
+        <li>Frontálna výučba, frontálna a individuálna práca žiakov, demonštrácia a pozorovanie.</li>
+    </ul>
+
+    <h2>Prvý ročník</h2>
+
+    <h3>1. PRVÝ ROČNÍK - Grafika (99 hodín)</h3>
+    <table>
+        <thead>
+            <tr class="header-yellow">
+                <th style="width: 30%;">Názov tematického celku / Témy</th>
+                <th style="width: 8%;">Hod.</th>
+                <th style="width: 31%;">Očakávané vzdelávacie výstupy</th>
+                <th style="width: 31%;">Kritériá hodnotenia vzdelávacích výstupov</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="topic-blue">
+                <td>Spracovanie obrázkov (BOZP, Fotografia, Photoshop)</td>
+                <td class="center">99</td>
+                <td>Žiak má:</td>
+                <td>Žiak:</td>
+            </tr>
+            <tr class="row-plain">
+                <td>Úvod do predmetu, BOZP, prvá pomoc pri úrazoch</td>
+                <td class="center">2</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Oboznámiť sa s cieľom a obsahom predmetu.</li>
+                        <li>Pochopiť význam dodržiavania zásad BOZP a ochrany životného prostredia.</li>
+                        <li>Osvojiť si predpisy BOZP a poskytovania prvej pomoci.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Oboznámil sa s cieľom a obsahom vyučovacieho predmetu a tematického celku.</li>
+                        <li>Pochopil význam dodržiavania zásad BOZP v podniku a význam ochrany životného prostredia.</li>
+                        <li>Osvojil si predpisy BOZP, poskytovania prvej pomoci pri úrazoch.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Fotografické laboratórium, materiály, vývojky a ustaľovače</td>
+                <td class="center">4</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Klasifikovať fotografické materiály a ich vlastnosti.</li>
+                        <li>Poznať vlastnosti negatívnych, pozitívnych a inverzných materiálov.</li>
+                        <li>Poznať zásady práce s vývojkou a ustaľovačom.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Klasifikoval fotografické materiály, ich vlastnosti a bezpečnostné pravidlá.</li>
+                        <li>Poznal vlastnosti a zásady práce s negatívnym, pozitívnym a inverzným materiálom.</li>
+                        <li>Poznal zásady práce s vývojkou, demonštroval postup vyvolávacieho a ustaľovacieho procesu.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Fyzikálne vlastnosti svetla a teória farieb vo fotografii</td>
+                <td class="center">3</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Porozumieť zákonitostiam a fyzikálnym vlastnostiam svetla.</li>
+                        <li>Ovládať teóriu farieb, popísať farebný kruh a význam farieb.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Porozumel zákonitostiam a fyzikálnym vlastnostiam svetla vo fotografii.</li>
+                        <li>Ovládal teóriu farieb, popísal farebný kruh a význam farieb z psychologického hľadiska.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Konštrukcia prístroja, objektívy, digitálna fotografia</td>
+                <td class="center">13</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vysvetlit systém prenosu obrazu Camerou obscurou.</li>
+                        <li>Popísať konštrukciu fotografického prístroja, objektívu a príslušenstva.</li>
+                        <li>Definovať pojem digitálna fotografia a formáty ukladania.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vysvetlil systém prenosu obrazu Camerou obscury, stručne opísal jej vývoj.</li>
+                        <li>Popísal vývoj fotografických prístrojov, konštrukciu a základné časti.</li>
+                        <li>Definoval pojem digitálna fotografia, uviedol formáty ukladania pre spracovanie.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Fotografovanie (portrét, kompozícia, krajina, pohyb)</td>
+                <td class="center">17</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Osvojiť si základy fotografovania portrétu, krajiny a pohybu.</li>
+                        <li>Rozlíšiť rozdiely vo fotografickej kompozícii a zlatom reze.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Osvojil si základy fotografovania portrétu, detailu portrétu, krajiny a pohybu.</li>
+                        <li>Rozlíšil rozdiely vo fotografickej kompozícii, symetrii, asymetrii a zlatom reze.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Skenovanie obrázkov a prenos snímky do počítača</td>
+                <td class="center">4</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Popísať systémy digitálneho záznamu obrazovej informácie.</li>
+                        <li>Vysvetliť pojem skenovanie a konštrukciu skenerov.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Popísal systémy digitálneho záznamu obrazovej informácie.</li>
+                        <li>Vysvetlil pojem skenovanie, popísal konštrukciu a princíp fungovania skenerov.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Adobe Photoshop (pracovné prostredie, nástroje, palety)</td>
+                <td class="center">14</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Porozumieť spracovaniu obrázkov v bitmapovom programe.</li>
+                        <li>Ovládať nastavenie pracovnej plochy a palety nástrojov.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Porozumel spracovaniu obrázkov v grafickom bitmapovom programe.</li>
+                        <li>Ovládal nastavenie pracovnej plochy programu a nástrojov pri tvorbe rastrovej grafiky.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Práca s vrstvami a parametre obrazu</td>
+                <td class="center">9</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Opísať delenie a význam používania vrstiev.</li>
+                        <li>Charakterizovať základné parametre obrazu a možnosti nastavenia.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Opísal delenie a význam používania vrstiev, vedel ich spravovať a usporiadať.</li>
+                        <li>Charakterizoval základné parametre obrazu a nastavenia v programe.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Farebné režimy, globálne a farebné úpravy, export</td>
+                <td class="center">23</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vysvetliť úlohu rastra a vymenovať druhy farebných režimov.</li>
+                        <li>Osvojiť si postupy základných farebných a globálnych úprav.</li>
+                        <li>Poznať postup importu a exportu prvkov.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vysvetlil úlohu a význam rastra v počítačovej grafike.</li>
+                        <li>Objasnil využitie farebných režimov pri tvorbe elektronických a tlačových výstupov.</li>
+                        <li>Osvojil si postupy základných farebných úprav a importu/exportu prvkov.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Plánovanie, príjem a práca (NŠFG) + Ročníková práca</td>
+                <td class="center">10</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Preukázať nadobudnuté vedomosti v zadanej téme.</li>
+                        <li>Vysvetliť postup založenia a vzniku živnosti.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Preukázal nadobudnuté vedomosti v zadanej téme vyučujúcim.</li>
+                        <li>Vysvetlil postup založenia a vzniku živnosti alebo iného subjektu.</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>2. PRVÝ ROČNÍK - Animácie (99 hodín)</h3>
+    <table>
+        <thead>
+            <tr class="header-yellow">
+                <th>Názov tematického celku / Témy</th>
+                <th>Hod.</th>
+                <th>Očakávané vzdelávacie výstupy</th>
+                <th>Kritériá hodnotenia vzdelávacích výstupov</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="topic-blue">
+                <td>Základy tvorby 2D animácií (Adobe Animate)</td>
+                <td class="center">99</td>
+                <td>Žiak má:</td>
+                <td>Žiak:</td>
+            </tr>
+            <tr class="row-plain">
+                <td>Úvod do 2D animácie, história, princípy animovania</td>
+                <td class="center">15</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Poznať historický vývoj animácie a základné techniky.</li>
+                        <li>Pochopiť koncept snímkovej frekvencie (fps) a časovania.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vysvetlil princípy tradičnej a digitálnej animácie.</li>
+                        <li>Správne nastavil parametre dokumentu pre plynulý beh animácie.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Pracovné prostredie Adobe Animate, časová os, panely</td>
+                <td class="center">24</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Zorientovať sa v rozhraní programu, ovládať časovú os a vrstvy.</li>
+                        <li>Používať základné kresliace nástroje pre tvorbu objektov.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Prispôsobil si pracovné prostredie a efektívne spravoval vrstvy na časovej osi.</li>
+                        <li>Vytvoril vlastné grafické prvky vhodné pre následnú animáciu.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Typy kľúčových snímok (Keyframes) a základný pohyb</td>
+                <td class="center">30</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Pochopiť rozdiel medzi kľúčovou, prázdnou a bežnou snímkou.</li>
+                        <li>Vytvoriť klasickú animáciu metódou snímka po snímke (frame-by-frame).</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Správne aplikoval kľúčové snímky na dosiahnutie požadovanej zmeny.</li>
+                        <li>Vytvoril plynulú ručne kreslenú sekvenciu pohybu objektu.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Interpolácia pohybu (Shape tween a Classic tween)</td>
+                <td class="center">30</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Definovať a aplikovať tvarovú interpoláciu (tvarovanie vektorov).</li>
+                        <li>Využívať klasickú interpoláciu pre pohyb, rotáciu a zmenu mierky.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Zrealizoval plynulú transformáciu jedného tvaru na druhý pomocou shape tween.</li>
+                        <li>Vytvoril komplexnejšiu scénu s lineárnym pohybom viacerých elementov.</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>3. PRVÝ ROČNÍK - Web (99 hodín)</h3>
+    <table>
+        <thead>
+            <tr class="header-yellow">
+                <th>Názov tematického celku / Témy</th>
+                <th>Hod.</th>
+                <th>Očakávané vzdelávacie výstupy</th>
+                <th>Kritériá hodnotenia vzdelávacích výstupov</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="topic-blue">
+                <td>Tvorba webových stránok (HTML5 a CSS3 v Adobe Dreamweaver)</td>
+                <td class="center">99</td>
+                <td>Žiak má:</td>
+                <td>Žiak:</td>
+            </tr>
+            <tr class="row-plain">
+                <td>Úvod do celku, BOZP, Ergonómia práce s PC</td>
+                <td class="center">3</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Poznať význam, cieľ a obsah tematického celku.</li>
+                        <li>Vysvetliť pojem ergonómia a zásady fyziológie práce s PC.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Poznal význam, cieľ a obsah tematického celku.</li>
+                        <li>Vysvetlil pojem ergonómia, význam ergonomických pomôcok a zásady fyziológie práce.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Základy práce s editorom web stránok (Dreamweaver)</td>
+                <td class="center">3</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vysvetliť funkciu panela Files pre správu súborov a priečinkov.</li>
+                        <li>Používať nástroje na vkladanie objektov (Panel Insert, CSS Designer).</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vysvetlil funkciu panela pre správu súborov, ovládal vkladanie priečinkov.</li>
+                        <li>Používal nástroje na vkladanie objektov do HTML dokumentu a popísal panel CSS.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Základy HTML, syntax, štruktúra a značky hlavy</td>
+                <td class="center">3</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Ovládať postup vytvárania základnej štruktúry stránky a deklarácie.</li>
+                        <li>Popísať druhy značiek definovaných v hlave dokumentu.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Poznal možnosti nastavenia parametrov stránky, ovládal postup vytvárania štruktúry.</li>
+                        <li>Vysvetlil význam deklarácie typu dokumentu a popísal značky v hlave.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Drôtový model webovej stránky (Wireframe) a layout</td>
+                <td class="center">4</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vysvetliť pojem mapa webového sídla.</li>
+                        <li>Navrhnúť a nakresliť model webovej stránky (wireframe).</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vysvetlil pojem mapa webového sídla a navrhol model wireframe.</li>
+                        <li>Aplikoval základné HTML značky pre rozvrhnutie štruktúry kódu.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>HTML Prvky (Text, Špeciálne znaky, Bloky, Zoznamy)</td>
+                <td class="center">5</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Aplikovať do kódu textové prvky, špeciálne znaky a blokové značky.</li>
+                        <li>Vytvoriť usporiadané a neusporiadané zoznamy.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Aplikoval do zdrojového kódu HTML textové prvky, špeciálne znaky a bloky.</li>
+                        <li>Správne implementoval značky pre vloženie viacúrovňových zoznamov.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>HTML Objekty (Obrázky, Tabuľky, Formuláre)</td>
+                <td class="center">9</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Ovládať spôsoby vkladania, editácie a umiestnenia obrázkov.</li>
+                        <li>Aplikovať značky pre vloženie tabuľky a formulárových polí.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Ovládal vkladanie obrázkov a ich alternatívnych popisov.</li>
+                        <li>Úspešne vytvoril štruktúrovanú HTML tabuľku a funkčné formulárové prvky.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Základy CSS, syntax, pravidlá a dedičnosť</td>
+                <td class="center">6</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Charakterizovať CSS a objasniť syntax a pravidlá písania štýlov.</li>
+                        <li>Objasniť princíp dedenia vlastností elementov.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Charakterizoval CSS a opísal ich význam pri formovaní vzhľadu.</li>
+                        <li>Demonštroval využitie dedičnosti elementov na konkrétnom príklade.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Rozvrhnutie stránky (Layout) a text pomocou CSS</td>
+                <td class="center">12</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Aplikovať správne postupy formátovania layoutu pomocou CSS.</li>
+                        <li>Vhodne aplikovať CSS štýly na text (nadpisy, odseky).</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Aplikoval správne postupy formátovania rozvrhnutia stránky pomocou CSS.</li>
+                        <li>Efektívne ostyloval textové prvky, zmenil rezy písma, farby a riadkovanie.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Tvorba kompletnej grafickej šablóny webu</td>
+                <td class="center">54</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Prepojiť nadobudnuté znalosti HTML a CSS do uceleného projektu.</li>
+                        <li>Vytvoriť kompletné responzívne webové sídlo na lokálnom serveri.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Samostatne navrhol, nakódoval a otestoval funkčné statické webové sídlo.</li>
+                        <li>Zabezpečil správne prepojenie podstránok prostredníctvom navigačného menu.</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Druhý ročník</h2>
+
+    <h3>4. DRUHÝ ROČNÍK - Grafika (105 hodín)</h3>
+    <table>
+        <thead>
+            <tr class="header-yellow">
+                <th>Názov tematického celku / Témy</th>
+                <th>Hod.</th>
+                <th>Očakávané vzdelávacie výstupy</th>
+                <th>Kritériá hodnotenia vzdelávacích výstupov</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="topic-blue">
+                <td>Pokročilá vektorová grafika a ilustrácie (Adobe Illustrator)</td>
+                <td class="center">105</td>
+                <td>Žiak má:</td>
+                <td>Žiak:</td>
+            </tr>
+            <tr class="row-plain">
+                <td>Úvod do vektorovej grafiky, princípy, formáty (AI, EPS, SVG)</td>
+                <td class="center">15</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vysvetliť rozdiel medzi rastrovou a vektorovou grafikou.</li>
+                        <li>Poznať základné vektorové formáty a ich využitie.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Správne definoval výhody vektorov z hľadiska zmeny mierky bez straty kvality.</li>
+                        <li>Zvolil vhodný formát pre export finálneho grafického diela.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Kreslenie ciest, nástroj Pero (Pen tool), Beziérove krivky</td>
+                <td class="center">30</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Ovládať prácu s nástrojom pero, kresliť priame a zakrivené segmenty.</li>
+                        <li>Manipulovať s kotevnými bodmi a smerovými čiarami.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Presne obkreslil a zdigitalizoval rastrovanú predlohu pomocou kriviek.</li>
+                        <li>Upravil zložité tvary modifikáciou kotevných bodov.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Kombinovanie tvarov (Cestovateľ / Pathfinder, Nástroj na tvorbu tvarov)</td>
+                <td class="center">30</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Aplikovať logické operácie na objekty (zlúčenie, orezanie, rázcestie).</li>
+                        <li>Efektívne vytvárať zložité tvary z jednoduchých geometrických základov.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Použil panel Pathfinder na vytvorenie čistých ikon a piktogramov.</li>
+                        <li>Urýchlil proces tvorby dizajnu správnym spájaním a orezávaním plôch.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Práca s farbou, prechody, vzory a typografia vo vektore</td>
+                <td class="center">30</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vytvárať a aplikovať lineárne a radiálne prechody (Gradients).</li>
+                        <li>Pracovať s textom na ceste a transformovať písmo na obrysy.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vytvoril moderné logo s využitím pokročilých prechodov a prispôsobeného textu.</li>
+                        <li>Pretransformoval textové objekty do kriviek pre bezproblémovú tlač.</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>5. DRUHÝ ROČNÍK - Animácie (105 hodín)</h3>
+    <table>
+        <thead>
+            <tr class="header-yellow">
+                <th>Názov tematického celku / Témy</th>
+                <th>Hod.</th>
+                <th>Očakávané vzdelávacie výstupy</th>
+                <th>Kritériá hodnotenia vzdelávacích výstupov</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="topic-blue">
+                <td>Pokročilá digitálna animácie a efekty (Adobe Animate / After Effects)</td>
+                <td class="center">105</td>
+                <td>Žiak má:</td>
+                <td>Žiak:</td>
+            </tr>
+            <tr class="row-plain">
+                <td>Tvorba a správa knižnice, transformácia na symboly</td>
+                <td class="center">20</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Rozlišovať typy symbolov (Grafika, Filmový klip, Tlačidlo).</li>
+                        <li>Efektívne organizovať assety v paneli Knižnica (Library).</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Správne skonvertoval kresby na symboly pre opakované použitie.</li>
+                        <li>Vytvoril interaktívne tlačidlo so štyrmi stavmi (Up, Over, Down, Hit).</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Kostrová animácia (Nástroj Kosť / Bone tool) a inverzná kinematika</td>
+                <td class="center">35</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Pochopiť princípy armatúry a prepájania uzlov (kinematika).</li>
+                        <li>Vytvoriť kostru pre postavu a realizovať prirodzený pohyb končatín.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Úspešne aplikoval inverznú kinematiku na rozhýbanie dvojnohej postavy.</li>
+                        <li>Vytvoril plynulý cyklus chôdze (Walk cycle) s využitím prepojených kostí.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Práca s maskami a vodiacimi linkami pohybu (Motion Guide)</td>
+                <td class="center">25</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vytvoriť maskovaciu vrstvu pre lokálne odhalenie obsahu.</li>
+                        <li>Animovať objekty pozdĺž komplexnej krivkovej dráhy.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Zrealizoval efekt reflektora pohybujúceho sa po texte pomocou masky.</li>
+                        <li>Prichytil objekt k vodiacej linke a animoval ho po krivej trajektórii.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Optimalizácia animácií a export pre web (HTML5 Canvas, GIF)</td>
+                <td class="center">25</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Poznať limity dátovej náročnosti animácií pre internet.</li>
+                        <li>Exportovať animáciu do formátu pripraveného pre webovú implementáciu.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Znížil veľkosť výsledného súboru kompresiou rastrových zložiek.</li>
+                        <li>Vyexportoval projekt ako plne funkčný balík HTML5 Canvas / JS.</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>6. DRUHÝ ROČNÍK - Web (105 hodín)</h3>
+    <table>
+        <thead>
+            <tr class="header-yellow">
+                <th>Názov tematického celku / Témy</th>
+                <th>Hod.</th>
+                <th>Očakávané vzdelávacie výstupy</th>
+                <th>Kritériá hodnotenia vzdelávacích výstupov</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="topic-blue">
+                <td>Pokročilé CSS3 a responzívny webdizajn (Flexbox, Media Queries)</td>
+                <td class="center">105</td>
+                <td>Žiak má:</td>
+                <td>Žiak:</td>
+            </tr>
+            <tr class="row-plain">
+                <td>CSS Poziciovanie (Static, Relative, Absolute, Fixed)</td>
+                <td class="center">20</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Pochopiť správanie elementov pri zmene toku dokumentu.</li>
+                        <li>Využiť absolútne a fixné poziciovanie pre prvky rozhrania.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vytvoril fixné navigačné menu, ktoré zostáva na vrchu stránky pri rolovaní.</li>
+                        <li>Presne rozmiestnil prekrývajúce sa grafické prvky pomocou z-indexu.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Moderný layout pomocou CSS Flexbox</td>
+                <td class="center">30</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Ovládať vlastnosti flex-containera a flex-items.</li>
+                        <li>Zarovnávať a distribuovať priestor medzi položkami flexibilne.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Navrhol kompletnú štruktúru stránky (header, main, sidebar, footer) cez Flexbox.</li>
+                        <li>Zabezpečil vertikálne a horizontálne centrovanie obsahu bez zložitého dopočítavania paddingov.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Responzivita, princíp Mobile-First a CSS Media Queries</td>
+                <td class="center">35</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vysvetliť dôležitosť prispôsobenia webu pre mobilné zariadenia.</li>
+                        <li>Definovať zlomové body (Breakpoints) v CSS kóde pomocou @media.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Upravil zobrazenie trojstĺpcového layoutu na jednostĺpcový pre displeje smartfónov.</li>
+                        <li>Zabezpečil čitateľnosť textov a optimálnu veľkosť klikateľných plôch na mobile.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>CSS Transformácie, prechody (Transitions) a jednoduché animácie</td>
+                <td class="center">20</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Aplikovať zmeny stavu elementov (hover) plynule, nie skokovo.</li>
+                        <li>Používať transformácie pre otočenie, posun a zmenu mierky.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vytvoril interaktívne animované produktové karty s hladkým efektom priblíženia.</li>
+                        <li>Ostyloval vstupné polia formulárov s hladkou zmenou farby obrysu pri zameraní.</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Tretí ročník</h2>
+
+    <h3>7. TRETÍ ROČNÍK - Grafika (175 hodín)</h3>
+    <table>
+        <thead>
+            <tr class="header-yellow">
+                <th>Názov tematického celku / Témy</th>
+                <th>Hod.</th>
+                <th>Očakávané vzdelávacie výstupy</th>
+                <th>Kritériá hodnotenia vzdelávacích výstupov</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="topic-blue">
+                <td>Sadzba, zalamovanie textov a predpredajová príprava (Adobe InDesign)</td>
+                <td class="center">175</td>
+                <td>Žiak má:</td>
+                <td>Žiak:</td>
+            </tr>
+            <tr class="row-plain">
+                <td>Úvod do Adobe InDesign, nastavenia viacstránkového dokumentu</td>
+                <td class="center">25</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Poznať prostredie programu InDesign a nastavenie tlačového dokumentu.</li>
+                        <li>Definovať spadavku (Bleed), okraje a stĺpcovú mriežku.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Správne pripravil prázdny dokument pre brožúru s ohľadom na orezanie.</li>
+                        <li>Rozvrhol základnú kompozíciu stránok pomocou vodiacich čiar.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Typografia, odsekové a znakové štýly (Paragraph and Character Styles)</td>
+                <td class="center">45</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Importovať a formátovať rozsiahle textové súbory.</li>
+                        <li>Vytvárať a hierarchicky mazať odsekové a znakové štýly.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Zabezpečil jednotný vzhľad nadpisov a textu naprieč celým dokumentom cez štýly.</li>
+                        <li>Automatizoval formátovanie iniciálok a odrážok pomocou predvolených štýlov.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Vznik a správa Master Pages (Vzorové stránky), automatické číslovanie</td>
+                <td class="center">35</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vysvetliť funkciu a efektivitu používania vzorových stránok.</li>
+                        <li>Nastaviť automatické číslovanie stránok a záhlavie/zápätie.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vytvoril stabilné rozloženie prvkov (bežiaca hlava, čísla strán) na Master Page.</li>
+                        <li>Správne vynechal číslovanie na úvodných a kapitolových stranách publikácie.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Automatické generovanie Obsahu (Table of Contents) a indexov</td>
+                <td class="center">35</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Konfigurovať parametre pre automatický zber nadpisov do obsahu.</li>
+                        <li>Ostylovať vygenerovaný obsah vrátane vodiacich bodiek a čísel strán.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vygeneroval presný a plne funkčný Obsah (TOC) na základe odsekových štýlov.</li>
+                        <li>Aktualizoval štruktúru obsahu po presune kapitol na iné stránky.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Predtlačová kontrola (Preflight), vyradenie strán a export do PDF/X</td>
+                <td class="center">35</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Identifikovať chyby v dokumente (chýbajúce fonty, pretečený text, nízke rozlíšenie).</li>
+                        <li>Exportovať dokument v medzinárodnom tlačovom štandarde PDF/X.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Odstránil všetky chyby nahlásené panelom Preflight pred odoslaním do tlače.</li>
+                        <li>Vyexportoval tlačové PDF so spadavkami, orezovými značkami a vo farebnosti CMYK.</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>8. TRETÍ ROČNÍK - Animácie (175 hodín)</h3>
+    <table>
+        <thead>
+            <tr class="header-yellow">
+                <th>Názov tematického celku / Témy</th>
+                <th>Hod.</th>
+                <th>Očakávané vzdelávacie výstupy</th>
+                <th>Kritériá hodnotenia vzdelávacích výstupov</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="topic-blue">
+                <td>Základy 3D modelovania, textúrovania a scén (Blender)</td>
+                <td class="center">175</td>
+                <td>Žiak má:</td>
+                <td>Žiak:</td>
+            </tr>
+            <tr class="row-plain">
+                <td>Úvod do programu Blender, 3D priestor, navigácia</td>
+                <td class="center">25</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Orientovať sa v trojrozmernom prostredí a zobrazeniach (Viewport).</li>
+                        <li>Ovládať transformácie objektov (posun, rotácia, zmena mierky).</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Plynule manipuloval s pohľadmi kamery a transformoval základné 3D primitives.</li>
+                        <li>Zorganizoval scény pomocou kolekcií na paneli Outliner.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Techniky polygonálneho modelovania (Edit Mode, Extrude, Inset, Bevel)</td>
+                <td class="center">45</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Pracovať v editačnom móde s vrcholmi (vertices), hranami (edges) a plochami (faces).</li>
+                        <li>Používať kľúčové modelovacie nástroje pre úpravu topológie geometrie.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vymodeloval mechanický objekt strednej zložitosti (napr. hrnček, stôl) s čistou sieťou.</li>
+                        <li>Použil funkcie Extrude a Loop Cut na pridanie detailov do geometrie.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Používanie modifikátorov (Subdivision Surface, Mirror, Boolean)</td>
+                <td class="center">35</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vysvetliť výhody nedeštruktívneho upravovania geometrie pomocou modifikátorov.</li>
+                        <li>Kombinovať modifikátory pre urýchlenie práce.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vymodeloval symetrický objekt s využitím modifikátora Mirror.</li>
+                        <li>Vyhladil povrch modelu pomocou Subdivision Surface a správne ošetril ostré hrany.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Materiály, Shading a základy UV mapovania</td>
+                <td class="center">35</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Priraďovať materiály jednotlivým častiam modelov pomocou Principled BSDF.</li>
+                        <li>Pochopiť princíp rozbalenia 3D objektu do 2D plochy (UV Unwrapping).</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vytvoril realistické materiály (kov, sklo, plast) pomocou uzlov (Nodes).</li>
+                        <li>Správne rozbalil kocku/valec a aplikoval obrázkovú textúru bez deformácie.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Osvetlenie scény, nastavenie Kamery a finálny Rendering</td>
+                <td class="center">35</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Rozlišovať typy svetiel (Point, Sun, Spot, Area) a ich nastavenia.</li>
+                        <li>Porovnať renderovacie systémy Eevee a Cycles.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Nasvietil trojbodovým systémom (Three-point lighting) produktovú scénu.</li>
+                        <li>Nastavil parametre kamery (ohnisková vzdialenosť) a vyrenderoval čistý statický obraz.</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>9. TRETÍ ROČNÍK - Web (175 hodín)</h3>
+    <table>
+        <thead>
+            <tr class="header-yellow">
+                <th>Názov tematického celku / Témy</th>
+                <th>Hod.</th>
+                <th>Očakávané vzdelávacie výstupy</th>
+                <th>Kritériá hodnotenia vzdelávacích výstupov</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="topic-blue">
+                <td>Inštalácia, správa a vývoj webov na redakčných systémoch (WordPress)</td>
+                <td class="center">175</td>
+                <td>Žiak má:</td>
+                <td>Žiak:</td>
+            </tr>
+            <tr class="row-plain">
+                <td>Príprava lokálneho servera (XAMPP), databáza MySQL a inštalácia</td>
+                <td class="center">30</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Spustiť a nakonfigurovať lokálne prostredie Apache a MySQL cez XAMPP.</li>
+                        <li>Vytvoriť prázdnu databázu v phpMyAdmin a nastaviť prístupové práva.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Úspešne nainštaloval redakčný systém WordPress do lokálneho prostredia.</li>
+                        <li>Prepojil inštalačný skript s vytvorenou MySQL databázou.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Administrácia WordPressu, konfigurácia, príspevky vs. stránky</td>
+                <td class="center">45</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Zorientovať sa v ovládacom paneli, nastaviť trvalé odkazy (Permalinks).</li>
+                        <li>Rozlišovať štrukturálny rozdiel medzi statickou stránkou a dynamickým príspevkom.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Kompletne nakonfiguroval základné nastavenia webu, vypol komentáre.</li>
+                        <li>Vytvoril štruktúru menu, priradil kategórie a publikoval prvé články s multimédiami.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Práca s témami vzhľadu (Themes) a blokovým editorom Gutenberg</td>
+                <td class="center">35</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vyhľadať, nainštalovať a prispôsobiť vhodnú tému vzhľadu.</li>
+                        <li>Ovládať tvorbu vizuálne bohatého obsahu pomocou blokov (Gutenberg).</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Zmenil celkový vizuál webu inštaláciou modernej šablóny a nastavil widgety.</li>
+                        <li>Vytvoril komplexnú vstupnú stránku (Landing page) kombináciou stĺpcov, textov a galérií.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Rozšírenie funkčnosti pomocou Zásuvných modulov (Plugins)</td>
+                <td class="center">35</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Definovať účel pluginov, vyhľadávať bezpečné a aktualizované moduly.</li>
+                        <li>Implementovať kontaktné formuláre, SEO nástroje a bezpečnostné pluginy.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Nainštaloval a sprevádzkoval kontaktný formulár vrátane validácie polí.</li>
+                        <li>Zabezpečil základnú optimalizáciu webu pre vyhľadávače pomocou dedikovaného pluginu.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Zálohovanie, migráciu dát a export lokálneho webu na produkčný hosting</td>
+                <td class="center">30</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Poznať postupy kompletnej zálohy webu (databáza + súbory wp-content).</li>
+                        <li>Uskutočniť export lokálne vyvinutého webu na vzdialený internetový hosting.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vygeneroval záložný archív databázy a importoval ho na reálny server.</li>
+                        <li>Úspešne zmigroval webovú lokalitu a upravil cesty v databáze, aby web fungoval online.</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>Štvrtý ročník</h2>
+
+    <h3>10. ŠTVRTÝ ROČNÍK - Grafika (210 hodín)</h3>
+    <table>
+        <thead>
+            <tr class="header-yellow">
+                <th>Názov tematického celku / Témy</th>
+                <th>Hod.</th>
+                <th>Očakávané vzdelávacie výstupy</th>
+                <th>Kritériá hodnotenia vzdelávacích výstupov</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="topic-blue">
+                <td>Firemná identita, dizajn obalov a komplexný branding (Creative Cloud)</td>
+                <td class="center">210</td>
+                <td>Žiak má:</td>
+                <td>Žiak:</td>
+            </tr>
+            <tr class="row-plain">
+                <td>Corporate Identity, Corporate Design a tvorba Logomanuálu</td>
+                <td class="center">50</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Definovať filozofiu a zložky korporátnej identity značky.</li>
+                        <li>Navrhnúť profesionálne vektorové logo vrátane jeho variantov.</li>
+                        <li>Zostaviť komplexný logomanuál (zakázané úpravy, ochranná zóna, farby).</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vytvoril originálny koncept firemnej identity pre vybraný podnik.</li>
+                        <li>Spracoval reprezentatívny logomanuál s definíciou farieb pre web (RGB) a tlač (CMYK, Pantone).</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Návrh merkantilných tlačovín (vizitky, hlavičkové papiere, obálky)</td>
+                <td class="center">45</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Aplikovať pravidlá corporate designu na firemné dokumenty.</li>
+                        <li>Dodržiavať normy pre rozloženie textových blokov na úradných listoch.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Navrhol obojstrannú vizitku a hlavičkový papier plne rešpektujúci identitu firmy.</li>
+                        <li>Pripravil súbory do tlače vrátane korektného nastavenia rozmerov.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Dizajn obalových materiálov (Packaging) a konštrukčné výseky</td>
+                <td class="center">55</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Pochopiť anatómiu obalu, pracovať s výsekovými formulármi (Dielines).</li>
+                        <li>Navrhnúť grafiku pre trojrozmerný obal (napr. krabička, etiketa).</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Navrhol rozloženú sieť krabičky a umiestnil grafiku tak, aby po zložení nadväzovala.</li>
+                        <li>Správne oddelil grafickú vrstvu od technickej vrstvy výseku v súbore.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Aplikácia identity na reklamné predmety, tvorba Mockupov</td>
+                <td class="center">30</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Prezentovať grafické návrhy klientovi v reálnom prostredí.</li>
+                        <li>Vytvárať a upravovať fotorealistické mockupy prostredníctvom smart objektov vo Photoshope.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Aplikoval firemné logo na tričká, perá a autá pomocou deformačných nástrojov a tieňovania.</li>
+                        <li>Pripravil profesionálne portfólio vizuálnej identity na vysokej estetickej úrovni.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Komplexná absolventská ročníková práca, kalkulácia nákladov</td>
+                <td class="center">30</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Preukázať samostatnosť pri komplexnom spracovaní reálnej zákazky.</li>
+                        <li>Zostaviť ekonomický rozpočet nákladov na výrobu a tlač propagačných materiálov.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Samostatne vypracoval a odprezentoval finálnu prácu zahŕňajúcu kompletný branding.</li>
+                        <li>Vysvetlil tvorbu ceny na základe materiálových nákladov, strojového času a DPH.</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>11. ŠTVRTÝ ROČNÍK - Animácie (210 hodín)</h3>
+    <table>
+        <thead>
+            <tr class="header-yellow">
+                <th>Názov tematického celku / Témy</th>
+                <th>Hod.</th>
+                <th>Očakávané vzdelávacie výstupy</th>
+                <th>Kritériá hodnotenia vzdelávacích výstupov</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="topic-blue">
+                <td>Spracovanie a strih videa, postprodukcia a master zvuk (DaVinci Resolve)</td>
+                <td class="center">210</td>
+                <td>Žiak má:</td>
+                <td>Žiak:</td>
+            </tr>
+            <tr class="row-plain">
+                <td>Import videa, organizácia súborov, kódovanie a proxy</td>
+                <td class="center">30</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Pochopiť význam video kodekov, kontajnerov a snímkových frekvencií.</li>
+                        <li>Vytvárať Proxy súbory pre plynulý strih na menej výkonných počítačoch.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Zorganizoval surový materiál v paneli Media Pool pomocou inteligentných priečinkov (Bins).</li>
+                        <li>Nastavil správne parametre projektu (Resolution, Frame rate) zhodné so zdrojovým videom.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Nelineárny strih na časovej osi (Timeline), techniky rezu</td>
+                <td class="center">50</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Ovládať nástroje pre strih (Trim, Blade, Slip, Slide).</li>
+                        <li>Uplatňovať základné pravidlá filmovej reči (strih na pohyb, os záberu).</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Zostavil hrubý strih (Rough cut) reportáže a doladil ho na čistý strih (Fine cut).</li>
+                        <li>Efektívne eliminoval hluché miesta a zachoval kontinuitu deja medzi zábermi.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Videonahrávky, prechody, efekty a implementácia 2D/3D grafiky</td>
+                <td class="center">45</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Aplikovať video prechody (Dissolves, Wipes) s ohľadom na žáner diela.</li>
+                        <li>Vkladať a animovať textové titulky, logá a grafické prvky do videa.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vytvoril moderné úvodné intro vrátane animovaných spodných tretín (Lower thirds).</li>
+                        <li>Skomponoval kombinovaný záber videa s vloženým transparentným vektorovým logom.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Farebné korekcie a grading (Color page, Nodes, LUTs)</td>
+                <td class="center">45</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Rozlišovať medzi farebnou korekciou (vyváženie bielej, expozícia) a umeleckým gradingom.</li>
+                        <li>Pracovať s uzlami (Serial, Parallel Nodes) a analyzovať video cez Scopes (Waveform, Vectorscope).</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Zjednotil expozíciu a farebnosť záberov z dvoch rôznych kamier v scéne.</li>
+                        <li>Dodal videu filmový vzhľad (Teal and Orange) pomocou kreatívneho gradingu.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Strih a mixáž zvuku, konečné úpravy a mastering videa</td>
+                <td class="center">40</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Spracovať zvukové stopy, odšumiť nahrávku a nastaviť správne úrovne hlasitosti (LUFS).</li>
+                        <li>Exportovať video do rôznych výstupných formátov optimalizovaných pre web (YouTube, Vimeo).</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Zmixoval hovorené slovo s hudobným podmazom tak, aby bola zachovaná zrozumiteľnosť.</li>
+                        <li>Vyexportoval finálne video vo formáte MP4 (H.264/H.265) s optimálnym dátovým tokom.</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>12. ŠTVRTÝ ROČNÍK - Web (210 hodín)</h3>
+    <table>
+        <thead>
+            <tr class="header-yellow">
+                <th>Názov tematického cellku / Témy</th>
+                <th>Hod.</th>
+                <th>Očakávané vzdelávacie výstupy</th>
+                <th>Kritériá hodnotenia vzdelávacích výstupov</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="topic-blue">
+                <td>Tvorba E-shopov, základy PHP a pokročilá správa webhostingu</td>
+                <td class="center">210</td>
+                <td>Žiak má:</td>
+                <td>Žiak:</td>
+            </tr>
+            <tr class="row-plain">
+                <td>Elektronická komercia, inštalácia a nastavenie WooCommerce</td>
+                <td class="center">45</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Pochopiť architektúru internetového obchodu a legislatívne náležitosti.</li>
+                        <li>Transformovať základný WordPress na plnohodnotný e-shop pomocou modulu WooCommerce.</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Nainštaloval WooCommerce, nakonfiguroval menu, meny, dane a dopravné zóny.</li>
+                        <li>Vytvoril katalóg produktov vrátane jednoduchých a variabilných (veľkosť, farba) položiek.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Správa objednávok, platobné brány, zákaznícky servis</td>
+                <td class="center">45</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Simulovať nákupný proces a spravovať životný cyklus objednávky v administrácii.</li>
+                        <li>Implementovať možnosti platieb (dobierka, prevod, testovací režim platobnej karty).</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Úspešne vybavil testovaciu objednávku, vygeneroval faktúru a odoslal notifikačný e-mail.</li>
+                        <li>Integroval modul pre výber odberných miest kuriérskych služieb.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Základy PHP pre úpravu šablón WordPressu, syntax</td>
+                <td class="center">40</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Poznať základnú syntax jazyka PHP, premenné, podmienky a cykly.</li>
+                        <li>Pochopiť štruktúru súborov témy WordPressu (header.php, footer.php, functions.php).</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Vytvoril odvodenú tému (Child Theme) na bezpečné úpravy zdrojového kódu.</li>
+                        <li>Vložil vlastnú PHP funkciu do functions.php na modifikáciu správania šablóny.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Bezpečnosť, optimalizácia rýchlosti webu (Caching) a SEO audit</td>
+                <td class="center">40</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Zabezpečiť web proti útokom (zmena prihlasovacej URL, limity pokusov o prihlásenie).</li>
+                        <li>Optimalizovať rýchlosť načítania e-shopu (caching, minifikácia CSS/JS, kompresia WebP).</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Zvýšil skóre rýchlosti webu v nástroji PageSpeed Insights aplikovaním cache pluginu.</li>
+                        <li>Vykonal SEO audit, vygeneroval sitemap.xml a pripravil web na prepojenie s Google Search Console.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr class="row-plain">
+                <td>Správa reálneho FTP, DNS záznamy, nasadenie SSL certifikátu</td>
+                <td class="center">40</td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Pracovať s FTP klientom (FileZilla) na priamu správu súborov na servery.</li>
+                        <li>Vysvetliť funkciu DNS záznamov (A, CNAME, MX) a nasadiť HTTPS protokol (SSL certifikát).</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul class="bullet-list">
+                        <li>Sprovozdajnil šifrované HTTPS pripojenie na produkčnom hostingu.</li>
+                        <li>Nakonfiguroval súbor .htaccess na automatické presmerovanie z HTTP na zabezpečené HTTPS.</li>
+                    </ul>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
