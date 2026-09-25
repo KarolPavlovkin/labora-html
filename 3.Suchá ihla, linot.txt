@@ -1,0 +1,386 @@
+# Príprava na vyučovaciu hodinu – 45 minút
+
+**Predmet:** Grafický dizajn digitálnych médií  
+**Ročník:** 2. ročník  
+**Tematický celok:** Klasické grafické techniky  
+**Téma hodiny:** Techniky ručnej grafiky – linoryt a suchá ihla  
+**Časová dotácia:** 45 minút  
+**Typ hodiny:** Výkladovo-demonštračná hodina s aktivizáciou žiakov  
+**Nadväznosť:** Príprava na vytvorenie vlastného jednoduchého návrhu a následnú tlač z matrice.
+
+---
+
+## Vzdelávacie ciele
+
+### Hlavný cieľ
+Žiak charakterizuje základné princípy ručnej grafiky a rozlíši techniku linorytu od techniky suchej ihly.
+
+### Kognitívne ciele
+Žiak:
+
+- vysvetlí pojem **ručná grafika** a **grafická matrica**,
+- rozlíši princíp tlače z výšky a tlače z hĺbky,
+- charakterizuje techniku **linorytu**,
+- charakterizuje techniku **suchej ihly**,
+- pomenuje základné nástroje a materiály používané pri oboch technikách,
+- uvedie rozdiel medzi pozitívom a negatívom pri grafickej tlači,
+- vysvetlí, prečo je pri práci s matracou dôležité zrkadlové obrátenie návrhu.
+
+### Psychomotorické ciele
+Žiak:
+
+- vytvorí krátky porovnávací zápis alebo jednoduchú schému,
+- navrhne jednoduchý motív vhodný na spracovanie linorytom alebo suchou ihlou,
+- dodržiava zásady bezpečnej práce s ostrými nástrojmi.
+
+### Afektívne ciele
+Žiak:
+
+- vníma hodnotu remeselnej a autorskej grafickej práce,
+- rozvíja cit pre líniu, kontrast, plochu a štruktúru,
+- pristupuje zodpovedne k používaniu pracovných nástrojov.
+
+---
+
+## Kľúčové pojmy
+
+- ručná grafika  
+- matrica  
+- tlač z výšky  
+- tlač z hĺbky  
+- linoryt / linoleum  
+- suchá ihla  
+- rydlo  
+- grafická farba  
+- valček  
+- otlačok  
+- pozitív / negatív  
+- zrkadlové obrátenie  
+- reliéf  
+
+---
+
+## Metódy a formy práce
+
+**Metódy:**
+
+- motivačný rozhovor,
+- výklad s obrazovou prezentáciou,
+- demonštrácia pomôcok alebo ukážok,
+- porovnávanie techník,
+- krátka samostatná práca,
+- otázky a odpovede.
+
+**Formy práce:**
+
+- frontálna práca,
+- individuálna práca,
+- práca vo dvojiciach pri porovnávaní techník.
+
+---
+
+## Pomôcky
+
+- prezentácia s ukážkami linorytov a suchej ihly,
+- ukážky hotových grafických listov, ak sú k dispozícii,
+- kus linolea alebo ukážková linorytová matrica,
+- rydlá na linoryt,
+- kovová alebo plastová platňa / ukážka suchej ihly,
+- ihla na suchú ihlu,
+- valček, grafická farba, papier – aspoň na ukážku,
+- ceruzky, papiere alebo pracovný list.
+
+---
+
+# Časový plán hodiny
+
+| Čas | Fáza hodiny | Činnosť učiteľa | Činnosť žiakov |
+|---|---|---|---|
+| 0–3 min. | Organizačná časť | Privítanie, zápis témy hodiny, kontrola prítomnosti. | Pripravia si pomôcky, zapíšu si tému. |
+| 3–7 min. | Motivácia | Ukáže dva rozdielne grafické otlačky. Pýta sa: „Ako podľa vás vznikli?“ „Kde je farba – na povrchu alebo v ryhách?“ | Pozorujú ukážky, odpovedajú, formulujú predpoklady. |
+| 7–15 min. | Výklad: ručná grafika | Vysvetlí pojem ručná grafika, matrica, otlačok a základné rozdelenie tlačových techník. | Robia si stručné poznámky. |
+| 15–24 min. | Výklad: linoryt | Charakterizuje tlač z výšky, materiál, postup práce, princíp pozitívu a negatívu, zrkadlové obrátenie. | Sledujú ukážky, odpovedajú na otázky. |
+| 24–32 min. | Výklad: suchá ihla | Vysvetlí tlač z hĺbky, ryhu, otrep – „ihlu“, nanášanie a zotieranie farby. Porovná so spôsobom linorytu. | Dopĺňajú porovnávaciu tabuľku / diskutujú. |
+| 32–38 min. | Aktivita | Zadá úlohu: Žiaci určia, či ide pri zobrazených ukážkach o linoryt alebo suchú ihlu, a uvedú dôvod. Prípadne navrhnú jednoduchý motív na budúcu matricu. | Samostatne alebo vo dvojiciach riešia úlohu. |
+| 38–42 min. | Bezpečnosť a príprava na ďalšiu hodinu | Zdôrazní bezpečnú manipuláciu s ihlou a rydlami. Oznámi materiál na nasledujúcu hodinu. | Zapíšu si pomôcky a pokyny. |
+| 42–45 min. | Zhrnutie a hodnotenie | Overí vedomosti otázkami. Zhrnie rozdiely medzi technikami. | Odpovedajú na záverečné otázky, sebahodnotenie. |
+
+---
+
+# Obsah výkladu pre učiteľa
+
+## 1. Ručná grafika
+
+Ručná grafika je výtvarná technika, pri ktorej autor nevytvára obraz priamo na výsledný papier, ale najprv pripraví **matricu**. Matrica je nosič obrazu – napríklad linoleum, drevo, kovová platňa alebo iný materiál. Z matrice sa potom pomocou farby vytvorí jeden alebo viac otlačkov na papier.
+
+Každá grafická technika má vlastný spôsob, ako sa farba dostáva na papier. Základný rozdiel je v tom, či farbu zachytávajú:
+
+- **vyvýšené miesta matrice** – tlač z výšky,
+- alebo **vyhĺbené ryhy a línie** – tlač z hĺbky.
+
+---
+
+## 2. Linoryt
+
+Linoryt je technika **tlače z výšky**. Matricou je linoleum. Autor rydlom vyrezáva miesta, ktoré majú po vytlačení zostať biele. Farba sa valčekom nanáša na nevyrezaný, vyvýšený povrch linolea.
+
+Pri tlači sa preto na papier prenesú iba vyvýšené časti matrice. Vyrezané ryhy a plochy farbu neprijmú, a na výslednej grafike sa zobrazia ako svetlé alebo biele.
+
+Pre linoryt sú typické:
+
+- výrazný kontrast čiernej a bielej,
+- jasné plochy,
+- silné línie,
+- zjednodušený motív,
+- dekoratívnosť a štylizácia.
+
+Dôležité je myslieť na to, že vytlačený obraz môže byť oproti návrhu **zrkadlovo otočený**. Pri symetrických motívoch to nemusí byť podstatné, ale pri texte, číslach alebo profile tváre áno.
+
+---
+
+## 3. Suchá ihla
+
+Suchá ihla je technika **tlače z hĺbky**. Do kovovej alebo plastovej platne sa ostrou ihlou ryjú línie. Pri rytí vznikne ryha a často aj jemný vyzdvihnutý okraj, ktorý sa nazýva **otrepa** alebo „ihla“.
+
+Farba sa pri tejto technike vtláča do vyrytých rýh. Povrch platne sa potom opatrne zotrie, aby farba zostala najmä v drážkach. Keď sa platňa pritlačí na navlhčený papier, papier vtiahne farbu z rýh.
+
+Pre suchú ihlu sú typické:
+
+- jemné, živé a expresívne línie,
+- mäkší charakter kresby,
+- možnosť tieňovania hustotou čiar,
+- často mierne rozpitý alebo zamatový okraj línie,
+- reliéfny otlačok okrajov platne v papieri pri tlači na lise.
+
+---
+
+## 4. Základné porovnanie
+
+| Linoryt | Suchá ihla |
+|---|---|
+| Tlač z výšky | Tlač z hĺbky |
+| Matrica: linoleum | Matrica: kovová alebo plastová platňa |
+| Vyrezávajú sa biele miesta | Ryjú sa línie, ktoré sa vytlačia |
+| Farba je na vyvýšenom povrchu | Farba zostáva v ryhách |
+| Výrazné plochy a kontrast | Jemná lineárna kresba |
+| Používa sa rydlo | Používa sa ostrá ihla |
+| Farba sa nanáša valčekom | Farba sa vtiera do rýh a povrch sa zotiera |
+
+---
+
+# Aktivita pre žiakov – 6 minút
+
+## Úloha: „Ktorá technika to je?“
+
+Premietnite alebo ukážte žiakom 2 až 4 grafické ukážky. Ich úlohou je pri každej rozhodnúť:
+
+1. Ide o **linoryt** alebo **suchú ihlu**?
+2. Podľa ktorých znakov to rozpoznali?
+3. Kde sa nachádzala farba na matrice – na povrchu alebo v ryhách?
+
+### Očakávané odpovede
+
+- **Linoryt:** veľké čierne plochy, ostrý kontrast, zjednodušené tvary, jasne ohraničené línie.
+- **Suchá ihla:** jemné čiary, šrafovanie, kresbový charakter, mäkšie okraje línií.
+
+---
+
+# Bezpečnostné pokyny
+
+- Rydlo aj ihlu vždy smerujeme **od tela a od ruky**, ktorá drží materiál.
+- Materiál držíme pevne, ideálne na protišmykovej podložke.
+- Nástroje neprenášame hrotom dopredu.
+- Pri práci sa nesmieme ponáhľať ani rozptyľovať spolužiakov.
+- Ostré nástroje odkladáme na určené miesto.
+- Grafické farby nepoužívame na pokožku ani na odev; po práci si umyjeme ruky.
+
+---
+
+# Informácia pre žiakov na budúcu hodinu
+
+Na ďalšiu praktickú hodinu si žiaci prinesú:
+
+- **menší kus gumolitu** (odporúčaný formát približne A6 alebo A5),
+- **ihlu / ryciu ihlu** na vytváranie línií a reliéfu,
+- ceruzku a gumu,
+- jednoduchý vlastný motív alebo fotografickú predlohu s výrazným kontrastom.
+
+**Odporúčanie k motívu:** Motív by mal byť jednoduchý, bez množstva drobných detailov. Vhodné sú napríklad list, zviera v siluete, oko, tvár v profile, iniciála, jednoduchý symbol, rastlinný motív alebo mestská architektúra.
+
+> Poznámka pre učiteľa: Ak budú žiaci pracovať s gumolitom a ihlou, je vhodné vopred určiť, či pôjde o reliéfnu tlač z vyvýšených plôch, alebo o kresbu do ryhy podobnú suchej ihle. Pri reliéfnej tlači sa bežne používajú aj rydlá alebo rezbárske nástroje; samotná ihla je vhodná najmä na jemné línie a štruktúry.
+
+---
+
+# Záverečné overovacie otázky
+
+1. Čo je grafická matrica?  
+2. Do ktorej skupiny patrí linoryt – tlač z výšky alebo z hĺbky?  
+3. Kde sa pri linoryte nachádza farba?  
+4. Kde sa pri suchej ihle nachádza farba pred tlačou?  
+5. Aký nástroj používame pri linoryte a aký pri suchej ihle?  
+6. Prečo si pri grafickom návrhu musíme všímať zrkadlové obrátenie?  
+7. Ktorá technika je vhodnejšia na výrazné čierne plochy a ktorá na jemnú kresbu?
+
+---
+
+# Text do prezentácie
+
+---
+
+## SLIDE 1 – TÉMA HODINY
+
+**TECHNIKY RUČNEJ GRAFIKY**  
+**Linoryt a suchá ihla**
+
+- ručná tvorba grafického obrazu,
+- matrica a otlačok,
+- tlač z výšky a tlač z hĺbky,
+- línia, plocha, kontrast a štruktúra.
+
+---
+
+## SLIDE 2 – ČO JE RUČNÁ GRAFIKA?
+
+Ručná grafika je výtvarná technika, pri ktorej umelec vytvára obraz prostredníctvom **matrice**.
+
+**Matrica** je nosič obrazu, z ktorého sa prenáša farba na papier.
+
+Postup:
+
+1. vytvorenie návrhu,  
+2. spracovanie matrice,  
+3. nanesenie farby,  
+4. otlačenie na papier.
+
+Jedna matrica môže vytvoriť viac originálnych otlačkov.
+
+---
+
+## SLIDE 3 – ZÁKLADNÉ DRUHY TLAČE
+
+### Tlač z výšky
+Farba sa nachádza na vyvýšených miestach matrice.
+
+**Príklady:**  
+- drevorez,  
+- drevoryt,  
+- linoryt.
+
+### Tlač z hĺbky
+Farba zostáva vo vyrytých alebo vyhĺbených líniách.
+
+**Príklady:**  
+- suchá ihla,  
+- lept,  
+- rytina.
+
+---
+
+## SLIDE 4 – LINORYT
+
+**Linoryt** je grafická technika tlače z výšky.
+
+Matrica je vytvorená z linolea.
+
+- Rydlom vyrezávame miesta, ktoré zostanú na papieri biele.
+- Farba sa valčekom nanáša na nevyrezaný povrch.
+- Na papier sa vytlačia vyvýšené, nevyrezané časti matrice.
+
+Typické znaky linorytu:
+
+- silný kontrast,
+- výrazné čierne plochy,
+- jasné línie,
+- zjednodušený motív.
+
+---
+
+## SLIDE 5 – POSTUP PRI LINORYTE
+
+1. Vytvoríme jednoduchý návrh.  
+2. Návrh prenesieme na linoleum.  
+3. Rydlom vyrežeme biele miesta.  
+4. Valčekom nanesieme farbu na povrch matrice.  
+5. Priložíme papier.  
+6. Papier pritlačíme rukou, lyžicou alebo lisom.  
+7. Vznikne grafický otlačok.
+
+**Pozor:** Výsledný otlačok môže byť zrkadlovo obrátený.
+
+---
+
+## SLIDE 6 – SUCHÁ IHLA
+
+**Suchá ihla** je grafická technika tlače z hĺbky.
+
+Do kovovej alebo plastovej platne sa ostrou ihlou ryjú línie.
+
+- Farba sa vtiera do vyrytých rýh.
+- Povrch platne sa zotrie.
+- Farba zostane najmä v ryhách.
+- Pri tlači sa farba prenesie na navlhčený papier.
+
+Typické znaky suchej ihly:
+
+- jemná kresba,
+- šrafovanie,
+- expresívna línia,
+- mäkký, zamatový charakter čiar.
+
+---
+
+## SLIDE 7 – LINORYT A SUCHÁ IHLA: POROVNANIE
+
+| LINORYT | SUCHÁ IHLA |
+|---|---|
+| tlač z výšky | tlač z hĺbky |
+| linoleum | kovová alebo plastová platňa |
+| rydlo | ostrá ihla |
+| farba na povrchu | farba v ryhách |
+| výrazné plochy | jemné línie |
+| kontrast čiernej a bielej | kresbový a šrafovaný charakter |
+
+---
+
+## SLIDE 8 – BEZPEČNOSŤ PRI PRÁCI
+
+- Ostré nástroje smerujeme vždy od tela.  
+- Materiál držíme pevne a bezpečne.  
+- Nástrojmi nemávame a neobraciame ich hrotom k spolužiakom.  
+- Pracujeme pomaly a sústredene.  
+- Po práci nástroje očistíme a odložíme.  
+- Grafickú farbu nenechávame na rukách ani na odeve.
+
+---
+
+## SLIDE 9 – PRÍPRAVA NA ĎALŠIU HODINU
+
+Priniesť si:
+
+- kus gumolitu, ideálne formát A6 alebo A5,
+- ihlu alebo ryciu ihlu,
+- ceruzku a gumu,
+- jednoduchý čiernobiely motív.
+
+Vhodný motív:
+
+- list,
+- iniciála,
+- jednoduchý symbol,
+- oko,
+- silueta zvieraťa,
+- rastlinný motív,
+- jednoduchá architektúra.
+
+**Motív musí byť jednoduchý, kontrastný a bez príliš malých detailov.**
+
+---
+
+## SLIDE 10 – ZHRNUTIE
+
+- Ručná grafika pracuje s matricou a otlačkom.  
+- Linoryt je tlač z výšky.  
+- Suchá ihla je tlač z hĺbky.  
+- Linoryt využíva plochu a kontrast.  
+- Suchá ihla využíva líniu a šrafovanie.  
+- Pri oboch technikách je dôležitý premyslený návrh a bezpečná práca s nástrojmi.
