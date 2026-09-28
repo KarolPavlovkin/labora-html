@@ -1,0 +1,672 @@
+PRÍPRAVA NA VYUČOVANIE  
+Predmet: Spracovanie obrazu a textu  
+Odbor: Grafik digitálnych médií  
+Ročník: 1. ročník  
+Tematický celok: 1. Pracovné prostredie a základné kroky v bitmapovom programe  
+Témy TVVP:  
+1.1 Úvod do predmetu  
+1.2 Základná charakteristika programu a nastavenie pracovného prostredia  
+1.3 Základné funkcie programu – vytvorenie, otvorenie a uzatvorenie dokumentu, história, prehľad formátov, optimalizácia pre web  
+
+Časová dotácia: 2 × 45 minút  
+Forma vyučovania: kombinovaná – výklad, demonštrácia, riadené praktické cvičenie  
+Miesto: počítačová učebňa  
+Softvér: Adobe Photoshop (odporúčaná aktuálna verzia)
+
+Poznámka k TVVP:  
+Téma 1.3 je v TVVP plánovaná na dve vyučovacie hodiny. Počas dnešného dvojhodinového bloku sa žiaci oboznámia so základmi práce s dokumentom, najmä s vytvorením, otvorením, uložením a zatvorením súboru. História úprav, detailnejší prehľad formátov a optimalizácia pre web môžu byť rozvinuté na nasledujúcej hodine.
+
+======================================================================
+1. VYUČOVACIA HODINA (45 MINÚT)
+TÉMA: Úvod do predmetu a pracovné prostredie Adobe Photoshop
+TVVP: 1.1, 1.2
+======================================================================
+
+NÁZOV HODINY:
+Úvod do spracovania obrazu a orientácia v programe Adobe Photoshop
+
+HLAVNÝ CIEĽ:
+Žiak sa oboznámi s obsahom predmetu, významom spracovania obrazu v odbore grafik digitálnych médií a so základným pracovným prostredím programu Adobe Photoshop.
+
+VÝKONOVÉ ŠTANDARDY – ŽIAK:
+- vysvetlí, čo je bitmapová grafika,
+- uvedie oblasti použitia programu Adobe Photoshop,
+- spustí program Adobe Photoshop,
+- orientuje sa v základných častiach pracovného prostredia,
+- vie nájsť panel nástrojov, panel vrstiev, horné menu a panel vlastností,
+- prispôsobí si pracovnú plochu pomocou pracovného priestoru (Workspace).
+
+OBSAHOVÝ ŠTANDARD:
+- význam predmetu Spracovanie obrazu a textu,
+- bitmapová/rastrová grafika,
+- Adobe Photoshop a jeho využitie,
+- základné prvky pracovného prostredia,
+- pracovné priestory programu,
+- základné pravidlá práce a organizácie súborov.
+
+POMÔCKY A MATERIÁL:
+- počítač pre každého žiaka,
+- nainštalovaný Adobe Photoshop,
+- dataprojektor alebo interaktívna tabuľa,
+- pripravený priečinok na prácu žiakov, napr.:
+  SOT_1rocnik/Meno_Priezvisko/Photoshop,
+- prípadne ukážkové fotografie a grafické návrhy.
+
+METÓDY:
+- motivačný rozhovor,
+- výklad s prezentáciou,
+- názorná demonštrácia v programe,
+- riadené praktické cvičenie,
+- priebežné otázky a odpovede.
+
+ORGANIZAČNÉ FORMY:
+- frontálna práca,
+- individuálna práca pri počítači.
+
+--------------------------------------------------
+ČASOVÝ PLÁN HODINY
+--------------------------------------------------
+
+0 – 5 minút: Organizačná časť a motivácia
+
+Činnosť učiteľa:
+- Privíta žiakov.
+- Oboznámi ich s predmetom a so spôsobom práce na hodinách.
+- Položí motivačné otázky:
+  - Kde sa dnes stretávame s upravenými fotografiami?
+  - Aký je rozdiel medzi obyčajnou fotografiou a reklamnou fotografiou?
+  - Kde môže grafik použiť Photoshop?
+- Vysvetlí, že Photoshop nie je určený iba na „skrášľovanie fotiek“, ale aj na tvorbu reklamných materiálov, plagátov, bannerov, koláží, grafiky na sociálne siete či prípravu obrazových podkladov.
+
+Činnosť žiakov:
+- Odpovedajú na otázky.
+- Uvádzajú príklady z internetu, sociálnych sietí, reklamy, obalov produktov alebo školských projektov.
+
+5 – 12 minút: Úvod do predmetu Spracovanie obrazu a textu
+
+Činnosť učiteľa:
+- Predstaví tematické oblasti, ktorým sa budú počas roka venovať:
+  - pracovné prostredie,
+  - vrstvy,
+  - selekcie,
+  - transformácie,
+  - retuš,
+  - maľovanie,
+  - text,
+  - masky,
+  - globálne úpravy,
+  - filtre.
+- Vysvetlí, že žiaci budú pracovať prakticky a budú vytvárať vlastné grafické výstupy.
+- Upozorní na dôležitosť pravidelného ukladania práce a správneho pomenovávania súborov.
+
+Činnosť žiakov:
+- Sledujú prezentáciu.
+- Zapisujú si základné informácie alebo si ich ukladajú do elektronických poznámok.
+
+12 – 20 minút: Bitmapová grafika a Photoshop
+
+Činnosť učiteľa:
+- Vysvetlí pojem bitmapová (rastrová) grafika.
+- Priblíži, že digitálna fotografia je zložená z množstva malých obrazových bodov – pixelov.
+- Uvedie, že pri výraznom zväčšení bitmapového obrázka sa môže prejaviť rozpixelovanie.
+- Porovná bitmapovú a vektorovú grafiku len základne, bez veľkého detailu.
+
+Činnosť žiakov:
+- Sledujú ukážku zväčšenej fotografie.
+- Odpovedajú na otázku: „Čo sa stane s fotografiou, ak ju príliš zväčšíme?“
+
+20 – 35 minút: Demonštrácia pracovného prostredia Adobe Photoshop
+
+Činnosť učiteľa:
+- Spustí Adobe Photoshop cez projektor.
+- Pomenuje a ukáže základné časti programu:
+  - horné menu,
+  - panel možností nástroja,
+  - panel nástrojov,
+  - pracovná plocha/dokumentové okno,
+  - panely v pravej časti obrazovky,
+  - panel Layers (Vrstvy),
+  - panel Properties (Vlastnosti),
+  - panel Color (Farba),
+  - panel History (História).
+- Ukáže, ako sa dajú panely presúvať, zatvárať a znovu zobrazovať cez menu Window/Okno.
+- Vysvetlí pojem pracovný priestor (Workspace).
+- Nastaví pracovný priestor Essentials/Podstatné alebo Photography/Fotografia podľa verzie programu.
+
+Činnosť žiakov:
+- Spustia Photoshop.
+- Vyhľadajú jednotlivé časti prostredia vo svojom programe.
+- Nastavia si pracovný priestor podľa pokynov učiteľa.
+
+35 – 42 minút: Krátke praktické cvičenie
+
+Zadanie pre žiakov:
+1. Spusť Adobe Photoshop.
+2. Nastav pracovný priestor Essentials/Podstatné.
+3. Skontroluj, či vidíš panel Tools/Nástroje a Layers/Vrstvy.
+4. Ak panel Vrstvy nevidíš, otvor ho cez Window > Layers.
+5. Nájdite aspoň tri nástroje v ľavom paneli a skús pomenovať ich význam:
+   - Move Tool/Nástroj Presun,
+   - Brush Tool/Štetec,
+   - Type Tool/Text,
+   - Crop Tool/Orezanie,
+   - Zoom Tool/Lupa.
+
+42 – 45 minút: Záver a priebežné overenie
+
+Otázky na záver:
+- Čo je bitmapová grafika?
+- Ako sa nazýva najmenší bod digitálneho obrázka?
+- Kde nájdeme panel Vrstvy?
+- Na čo slúži pracovný priestor v Photoshope?
+- Uveď aspoň dve oblasti, v ktorých sa používa Photoshop.
+
+HODNOTENIE:
+- slovné hodnotenie aktivity,
+- kontrola, či má žiak otvorený a správne nastavený pracovný priestor,
+- priebežné otázky.
+
+======================================================================
+2. VYUČOVACIA HODINA (45 MINÚT)
+TÉMA: Základné funkcie programu – vytvorenie, otvorenie, uloženie a uzatvorenie dokumentu
+TVVP: 1.3 – úvod
+======================================================================
+
+NÁZOV HODINY:
+Prvý dokument v Adobe Photoshop – vytvorenie, otvorenie, uloženie a zatvorenie
+
+HLAVNÝ CIEĽ:
+Žiak dokáže vytvoriť nový dokument, otvoriť existujúci obrázok, správne uložiť rozpracovaný súbor vo formáte PSD, exportovať jednoduchý výstup do formátu JPG alebo PNG a bezpečne dokument zatvoriť.
+
+VÝKONOVÉ ŠTANDARDY – ŽIAK:
+- vytvorí nový dokument so zadanými rozmermi,
+- rozlišuje základné nastavenia nového dokumentu,
+- otvorí obrázok z priečinka,
+- uloží rozpracovaný dokument vo formáte PSD,
+- exportuje obrázok do vhodného formátu,
+- zatvorí dokument bez straty práce,
+- vysvetlí základný rozdiel medzi PSD, JPG a PNG.
+
+OBSAHOVÝ ŠTANDARD:
+- vytvorenie nového dokumentu,
+- otvorenie existujúceho obrázka,
+- základné parametre dokumentu: rozmery, jednotky, rozlíšenie, farebný režim,
+- uloženie a export,
+- základné formáty PSD, JPG/JPEG, PNG,
+- zatvorenie dokumentu a kontrola uloženia.
+
+POMÔCKY A MATERIÁL:
+- počítače s Adobe Photoshop,
+- pripravená fotografia pre každého žiaka,
+- projektor,
+- zdieľaný priečinok alebo školské úložisko.
+
+--------------------------------------------------
+ČASOVÝ PLÁN HODINY
+--------------------------------------------------
+
+0 – 5 minút: Opakovanie predchádzajúcej hodiny
+
+Otázky:
+- Čo je Photoshop?
+- Aký typ grafiky spracovávame vo Photoshope najčastejšie?
+- Kde nájdeme nástroje?
+- Kde sa nachádzajú vrstvy?
+
+Nadviazanie:
+„Dnes začneme pracovať s vlastným dokumentom. Naučíme sa vytvoriť grafiku, otvoriť fotografiu a správne ju uložiť.“
+
+5 – 15 minút: Vytvorenie nového dokumentu
+
+Činnosť učiteľa:
+- Ukáže postup File > New/Súbor > Nový.
+- Vysvetlí základné položky v dialógovom okne:
+  - Width/Šírka,
+  - Height/Výška,
+  - Units/Jednotky,
+  - Resolution/Rozlíšenie,
+  - Color Mode/Farebný režim,
+  - Background Contents/Pozadie.
+- Vytvorí ukážkový dokument pre sociálne siete.
+
+Odporúčané zadanie:
+- šírka: 1080 px,
+- výška: 1080 px,
+- rozlíšenie: 72 ppi,
+- farebný režim: RGB Color,
+- pozadie: White/Biela.
+
+Dôležité vysvetlenie:
+- Pre obrazovky a web používame rozmery najčastejšie v pixeloch.
+- Pre tlač sa často pracuje v milimetroch a s vyšším rozlíšením.
+- Na začiatku budú žiaci používať najmä farebný režim RGB.
+
+Činnosť žiakov:
+- Vytvoria nový dokument podľa zadania.
+- Skontrolujú, či má dokument správny štvorcový formát.
+
+15 – 25 minút: Otvorenie fotografie a základná orientácia v dokumente
+
+Činnosť učiteľa:
+- Ukáže postup File > Open/Súbor > Otvoriť.
+- Otvorí pripravenú fotografiu.
+- Vysvetlí, že otvorené dokumenty môžu byť zobrazené na kartách v hornej časti pracovnej plochy.
+- Ukáže prepínanie medzi otvorenými dokumentmi.
+- Ukáže zväčšenie a zmenšenie náhľadu:
+  - Ctrl + plus,
+  - Ctrl + mínus,
+  - Ctrl + 0 – prispôsobenie dokumentu oknu,
+  - nástroj Zoom/Lupa.
+
+Činnosť žiakov:
+- Otvoria pripravenú fotografiu.
+- Prepínajú sa medzi novým dokumentom a otvorenou fotografiou.
+- Vyskúšajú si zmenu priblíženia.
+
+25 – 35 minút: Ukladanie dokumentu a základné formáty
+
+Činnosť učiteľa:
+- Vysvetlí rozdiel medzi ukladaním pracovného súboru a exportom hotového výstupu.
+- Ukáže uloženie cez File > Save As/Súbor > Uložiť ako.
+- Vysvetlí formáty:
+  - PSD – pracovný formát Photoshopu; zachováva vrstvy a možnosti ďalšej úpravy,
+  - JPG/JPEG – bežný formát fotografie; vhodný pre fotografie a web, nezachováva vrstvy,
+  - PNG – vhodný pre grafiku, text, logá a obrázky s priehľadným pozadím.
+- Ukáže export cez File > Export > Export As.
+- Zdôrazní správne pomenovanie súborov.
+
+Odporúčané pomenovanie:
+Meno_Priezvisko_prvy_dokument.psd  
+Meno_Priezvisko_prvy_dokument.jpg
+
+Činnosť žiakov:
+- Uložia svoj nový dokument vo formáte PSD.
+- Exportujú ho aj vo formáte JPG.
+- Overia, či sa oba súbory nachádzajú v správnom priečinku.
+
+35 – 41 minút: Samostatná úloha
+
+ZADANIE:
+1. Vytvor nový dokument 1080 × 1080 px.
+2. Nastav farebný režim RGB.
+3. Ulož dokument ako:
+   Meno_Priezvisko_prvy_dokument.psd
+4. Otvor pripravenú fotografiu.
+5. Ulož alebo exportuj jednu verziu fotografie ako:
+   Meno_Priezvisko_fotografia.jpg
+6. Skontroluj, či sú súbory uložené v tvojom priečinku.
+
+Rozširujúca úloha pre rýchlejších žiakov:
+- Do nového dokumentu vlož jednoduchý text so svojím menom pomocou nástroja Type/Text.
+- Dokument znovu ulož vo formáte PSD.
+
+41 – 45 minút: Záver, kontrola a reflexia
+
+Otázky:
+- Aký formát použijeme, ak chceme dokument neskôr upravovať vo vrstvách?
+- Aký formát je vhodný na bežné zdieľanie fotografie?
+- Kedy môže byť vhodnejší formát PNG?
+- Aký je rozdiel medzi uložením a exportom?
+- Prečo je dôležité súbory pomenovávať zrozumiteľne?
+
+HODNOTENIE:
+- kontrola vytvoreného PSD súboru,
+- kontrola exportovaného JPG súboru,
+- hodnotenie samostatnosti a dodržania pokynov,
+- slovná spätná väzba.
+
+======================================================================
+TEXT DO PREZENTÁCIE
+======================================================================
+
+PREZENTÁCIA – ODPORÚČANÁ ŠTRUKTÚRA SLIDOV
+
+--------------------------------------------------
+SLIDE 1 – Názov
+--------------------------------------------------
+
+SPRACOVANIE OBRAZU A TEXTU
+
+Úvod do Adobe Photoshopu  
+1. ročník – Grafik digitálnych médií
+
+Dnes sa naučíme:
+- na čo slúži Adobe Photoshop,
+- čo je bitmapová grafika,
+- ako sa orientovať v programe,
+- ako vytvoriť, otvoriť a uložiť dokument.
+
+--------------------------------------------------
+SLIDE 2 – Čo budeme v predmete robiť?
+--------------------------------------------------
+
+SPRACOVANIE OBRAZU A TEXTU
+
+Počas roka sa budeme venovať:
+- úprave digitálnych fotografií,
+- práci s vrstvami,
+- selekciám a maskám,
+- retušovaniu,
+- práci s textom,
+- tvorbe plagátov, bannerov a príspevkov na sociálne siete,
+- farebným úpravám,
+- filtrom a exportu grafiky.
+
+Cieľom je vytvárať kvalitné obrazové a grafické výstupy.
+
+--------------------------------------------------
+SLIDE 3 – Kde sa používa Adobe Photoshop?
+--------------------------------------------------
+
+ADOBE PHOTOSHOP V PRAXI
+
+Photoshop sa používa napríklad pri:
+- úprave fotografií,
+- retuši portrétov,
+- tvorbe plagátov a letákov,
+- reklamnej grafike,
+- grafike na sociálne siete,
+- tvorbe koláží a fotomontáží,
+- príprave webovej grafiky,
+- tvorbe digitálnych návrhov.
+
+Photoshop je nástroj. Dôležitý je nápad, cit pre obraz a správny postup práce.
+
+--------------------------------------------------
+SLIDE 4 – Bitmapová grafika
+--------------------------------------------------
+
+BITMAPOVÁ (RASTROVÁ) GRAFIKA
+
+Bitmapový obrázok je vytvorený z množstva malých bodov.
+
+Tieto body nazývame pixely.
+
+Príklady bitmapovej grafiky:
+- digitálna fotografia,
+- obrázok z mobilu,
+- screenshot,
+- naskenovaný obrázok.
+
+Pri prílišnom zväčšení bitmapového obrázka môžeme vidieť jednotlivé pixely.
+
+--------------------------------------------------
+SLIDE 5 – Pixel a rozlíšenie
+--------------------------------------------------
+
+PIXEL A ROZLÍŠENIE
+
+Pixel = najmenší obrazový bod digitálneho obrázka.
+
+Rozmery obrázka sa často uvádzajú v pixeloch:
+- 1920 × 1080 px,
+- 1080 × 1080 px,
+- 1080 × 1920 px.
+
+Viac pixelov zvyčajne znamená viac obrazových informácií.
+
+Dôležité:
+Veľký obrázok nemožno bez straty kvality ľubovoľne zväčšovať.
+
+--------------------------------------------------
+SLIDE 6 – Bitmapová a vektorová grafika
+--------------------------------------------------
+
+BITMAPOVÁ A VEKTOROVÁ GRAFIKA
+
+Bitmapová grafika:
+- skladá sa z pixelov,
+- vhodná pre fotografie,
+- pri zväčšení môže stratiť kvalitu.
+
+Vektorová grafika:
+- skladá sa z matematicky definovaných tvarov,
+- vhodná pre logá, ikony a ilustrácie,
+- dá sa zväčšovať bez viditeľnej straty kvality.
+
+Adobe Photoshop pracuje najmä s bitmapovou grafikou.
+
+--------------------------------------------------
+SLIDE 7 – Pracovné prostredie Photoshopu
+--------------------------------------------------
+
+ZÁKLADNÉ ČASTI PRACOVNÉHO PROSTREDIA
+
+1. Horné menu
+2. Panel možností nástroja
+3. Panel nástrojov
+4. Pracovná plocha – otvorený dokument
+5. Panely
+6. Panel Vrstvy
+7. Panel Vlastnosti
+8. Panel História
+
+Každý nástroj má vlastné nastavenia v paneli možností.
+
+--------------------------------------------------
+SLIDE 8 – Panel nástrojov
+--------------------------------------------------
+
+PANEL NÁSTROJOV
+
+Medzi základné nástroje patria:
+
+Move Tool – Presun  
+Crop Tool – Orezanie  
+Brush Tool – Štetec  
+Eraser Tool – Guma  
+Type Tool – Text  
+Zoom Tool – Lupa  
+Hand Tool – Ruka
+
+Nástroje majú často ďalšie skryté varianty.
+
+--------------------------------------------------
+SLIDE 9 – Panely vpravo
+--------------------------------------------------
+
+DÔLEŽITÉ PANELY
+
+Layers / Vrstvy
+- slúžia na organizáciu jednotlivých prvkov grafiky.
+
+Properties / Vlastnosti
+- zobrazujú nastavenia vybraného objektu alebo nástroja.
+
+Color / Farba
+- umožňuje nastaviť farbu popredia a pozadia.
+
+History / História
+- zaznamenáva vykonané kroky.
+
+Panely zobrazíme cez menu:
+Window / Okno
+
+--------------------------------------------------
+SLIDE 10 – Pracovný priestor
+--------------------------------------------------
+
+WORKSPACE – PRACOVNÝ PRIESTOR
+
+Pracovný priestor určuje rozloženie panelov v programe.
+
+Nájdeme ho v:
+Window > Workspace
+
+Odporúčané pracovné priestory:
+- Essentials / Podstatné,
+- Photography / Fotografia.
+
+Pracovný priestor si môžeme upraviť podľa vlastných potrieb.
+
+--------------------------------------------------
+SLIDE 11 – Vytvorenie nového dokumentu
+--------------------------------------------------
+
+NOVÝ DOKUMENT
+
+Postup:
+File > New
+Súbor > Nový
+
+Pri vytváraní dokumentu nastavujeme:
+- šírku,
+- výšku,
+- jednotky,
+- rozlíšenie,
+- farebný režim,
+- pozadie.
+
+Príklad pre štvorcový príspevok na sociálne siete:
+1080 × 1080 px  
+RGB Color  
+72 ppi
+
+--------------------------------------------------
+SLIDE 12 – Otvorenie dokumentu
+--------------------------------------------------
+
+OTVORENIE OBRÁZKA
+
+Postup:
+File > Open
+Súbor > Otvoriť
+
+Klávesová skratka:
+Ctrl + O
+
+Otvorený obrázok sa zobrazí ako karta v hornej časti pracovnej plochy.
+
+Medzi otvorenými dokumentmi sa môžeme prepínať kliknutím na ich kartu.
+
+--------------------------------------------------
+SLIDE 13 – Ukladanie práce
+--------------------------------------------------
+
+UKLADANIE DOKUMENTU
+
+Pracovný súbor ukladáme vo formáte PSD.
+
+PSD:
+- zachováva vrstvy,
+- zachováva text a úpravy,
+- umožňuje pokračovať v práci neskôr.
+
+Odporúčané pomenovanie:
+Meno_Priezvisko_nazov_prace.psd
+
+Príklad:
+Jana_Novakova_prvy_dokument.psd
+
+--------------------------------------------------
+SLIDE 14 – Základné formáty
+--------------------------------------------------
+
+ZÁKLADNÉ FORMÁTY SÚBOROV
+
+PSD
+- pracovný formát Adobe Photoshopu,
+- zachováva vrstvy,
+- vhodný na ďalšie úpravy.
+
+JPG alebo JPEG
+- vhodný najmä pre fotografie,
+- má malú veľkosť súboru,
+- nezachováva vrstvy,
+- nepodporuje priehľadnosť.
+
+PNG
+- vhodný pre grafiku, text, ikony a logá,
+- podporuje priehľadné pozadie,
+- nezachováva vrstvy Photoshopu.
+
+--------------------------------------------------
+SLIDE 15 – Uloženie a export
+--------------------------------------------------
+
+ULOŽENIE ≠ EXPORT
+
+Uloženie:
+File > Save alebo Save As
+- vytvorí pracovný súbor, najčastejšie PSD.
+
+Export:
+File > Export > Export As
+- vytvorí súbor určený na zdieľanie alebo publikovanie,
+- napríklad JPG alebo PNG.
+
+Odporúčaný postup:
+1. Pracuj vo formáte PSD.
+2. Priebežne ukladaj.
+3. Na konci exportuj hotový výstup do JPG alebo PNG.
+
+--------------------------------------------------
+SLIDE 16 – Klávesové skratky
+--------------------------------------------------
+
+UŽITOČNÉ KLÁVESOVÉ SKRATKY
+
+Ctrl + N – nový dokument  
+Ctrl + O – otvoriť dokument  
+Ctrl + S – uložiť  
+Ctrl + Shift + S – uložiť ako  
+Ctrl + W – zatvoriť dokument  
+Ctrl + + – priblížiť  
+Ctrl + - – oddialiť  
+Ctrl + 0 – prispôsobiť dokument oknu  
+Ctrl + Z – krok späť
+
+--------------------------------------------------
+SLIDE 17 – Dnešná úloha
+--------------------------------------------------
+
+PRAKTICKÁ ÚLOHA
+
+1. Spusť Adobe Photoshop.
+2. Nastav pracovný priestor Essentials.
+3. Vytvor nový dokument:
+   1080 × 1080 px, RGB, 72 ppi.
+4. Ulož dokument ako PSD:
+   Meno_Priezvisko_prvy_dokument.psd
+5. Otvor pripravenú fotografiu.
+6. Exportuj ju vo formáte JPG.
+7. Skontroluj, či máš súbory uložené vo svojom priečinku.
+
+--------------------------------------------------
+SLIDE 18 – Zhrnutie
+--------------------------------------------------
+
+DNES SME SA NAUČILI
+
+- Photoshop slúži na spracovanie bitmapovej grafiky.
+- Bitmapový obrázok je tvorený pixelmi.
+- Poznáme základné časti pracovného prostredia.
+- Vieme vytvoriť a otvoriť dokument.
+- PSD je pracovný formát.
+- JPG a PNG používame najmä pre hotové výstupy.
+- Prácu pravidelne ukladáme.
+
+======================================================================
+DOPLNKOVÉ POZNÁMKY PRE UČITEĽA
+======================================================================
+
+ODPORÚČANÉ PRAVIDLÁ PRÁCE, KTORÉ JE VHODNÉ ZAVIESŤ HNEĎ NA ZAČIATKU:
+
+1. Každý žiak pracuje vo vlastnom priečinku.
+2. Súbory musia mať zrozumiteľné názvy.
+3. Žiaci ukladajú rozpracovanú prácu vo formáte PSD.
+4. Hotové práce exportujú do požadovaného formátu.
+5. Prácu ukladajú priebežne, nie až na konci hodiny.
+6. Pri práci s obrázkami rešpektujú autorské práva a používajú vlastné, školské alebo legálne dostupné zdroje.
+7. Pred zatvorením Photoshopu vždy skontrolujú, či je práca uložená.
+
+MOŽNÁ DOMÁCA ÚLOHA:
+
+Nájdi a prines na nasledujúcu hodinu:
+- jednu vlastnú fotografiu z mobilu,
+- jednu reklamnú alebo grafickú ukážku, ktorá ťa zaujala.
+
+K obom ukážkam si priprav krátku odpoveď:
+- Čo sa ti na obrázku páči?
+- Je to fotografia, grafika alebo kombinácia oboch?
+- Aké úpravy podľa teba autor použil?
