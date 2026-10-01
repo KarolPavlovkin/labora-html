@@ -1,0 +1,767 @@
+```txt
+PRÍPRAVA NA VYUČOVACIU HODINU č. 1
+
+Predmet: Spracovanie obrazu a textu
+Ročník / odbor: 4. ročník – grafik digitálnych médií
+Tematický celok: Základné práce s programom na tvorbu 3D
+Téma: 1.1 Úvod do 3D grafiky
+Časová dotácia: 1 vyučovacia hodina (45 minút)
+
+Poznámka k nadväznosti:
+Žiaci už majú skúsenosť so základmi 3D grafiky a animácie v programe Blender.
+V tomto školskom roku budú princípy 3D grafiky aplikovať vo vektorovom editore
+Adobe Illustrator, najmä pomocou funkcií 3D and Materials.
+
+Výchovno-vzdelávací cieľ:
+Žiak pozná základnú problematiku 3D grafiky, rozlišuje 2D a 3D grafiku,
+pozná základné oblasti využitia 3D grafiky a orientuje sa v editoroch
+určených na tvorbu 3D obsahu. Chápe rozdiel medzi klasickým 3D programom
+a možnosťami 3D nástrojov v Adobe Illustratori.
+
+Výkonový štandard:
+Žiak:
+- vysvetlí vlastnými slovami, čo je 3D grafika,
+- uvedie základný rozdiel medzi 2D a 3D grafikou,
+- uvedie aspoň tri oblasti použitia 3D grafiky,
+- pomenuje vybrané programy na tvorbu 3D grafiky,
+- vysvetlí, na čo možno použiť 3D funkcie v Adobe Illustratori.
+
+Obsahový štandard:
+- pojem 3D grafika,
+- rozdiel medzi 2D a 3D priestorom,
+- osi priestoru X, Y, Z,
+- využitie 3D grafiky,
+- editory 3D grafiky,
+- Blender a Adobe Illustrator,
+- základné možnosti panelu 3D and Materials v Adobe Illustratori.
+
+Medzipredmetové vzťahy:
+- odborný výcvik,
+- počítačová grafika,
+- tvorba digitálnych médií,
+- animácia,
+- dizajn a vizuálna komunikácia.
+
+Kompetencie:
+Žiak rozvíja:
+- digitálne kompetencie pri práci s grafickým softvérom,
+- odborné kompetencie v oblasti počítačovej grafiky,
+- komunikačné kompetencie pri prezentovaní vlastného názoru,
+- schopnosť porovnávať nástroje a voliť vhodný grafický program.
+
+Metódy:
+- informačnoreceptívna metóda – výklad,
+- riadený rozhovor,
+- demonštrácia práce v Adobe Illustratori,
+- heuristická metóda – samostatné riešenie krátkej úlohy.
+
+Formy práce:
+- frontálna práca,
+- individuálna práca pri počítači,
+- spoločná diskusia.
+
+Pomôcky:
+- počítač s Adobe Illustratorom,
+- dataprojektor alebo interaktívna tabuľa,
+- pripravená prezentácia,
+- internet (voliteľne),
+- pripravený súbor s jednoduchými vektorovými tvarmi,
+- pracovný priečinok pre žiakov.
+
+Organizácia hodiny:
+
+1. Úvodná organizačná časť – 2 minúty
+- Privítanie, kontrola prítomnosti.
+- Príprava pracovného prostredia.
+- Žiaci si spustia Adobe Illustrator.
+
+2. Motivácia a aktivizácia predchádzajúcich vedomostí – 5 minút
+Otázky pre žiakov:
+- S akým programom na tvorbu 3D ste pracovali minulý rok?
+- Aké objekty alebo animácie ste vytvárali v Blenderi?
+- Čo podľa vás odlišuje 3D objekt od 2D kresby?
+- Kde sa s 3D grafikou stretávate v bežnom živote?
+
+Učiteľ nadviaže na skúsenosti žiakov s Blenderom a vysvetlí, že Adobe
+Illustrator nie je plnohodnotný 3D modelovací program, ale obsahuje nástroje,
+ktoré umožňujú vytvárať 3D vzhľad z vektorových objektov.
+
+3. Výklad nového učiva – 12 minút
+Učiteľ vysvetlí:
+- 2D grafika pracuje najmä so šírkou a výškou.
+- 3D grafika pracuje so šírkou, výškou a hĺbkou.
+- Priestor sa vyjadruje osami X, Y a Z.
+- 3D grafika sa používa v reklame, hrách, architektúre, dizajne výrobkov,
+  filme, animácii, vizualizáciách, AR/VR a produktových prezentáciách.
+- Medzi známe 3D programy patria Blender, Cinema 4D, 3ds Max, Maya,
+  SketchUp, ZBrush alebo Fusion 360.
+- Adobe Illustrator je primárne vektorový editor. Jeho 3D nástroje sú vhodné
+  najmä na tvorbu obalov, ikon, logotypov, typografie, jednoduchých objektov
+  a produktových vizualizácií.
+
+4. Demonštrácia v Adobe Illustratori – 10 minút
+Postup demonštrácie:
+1. Učiteľ vytvorí nový dokument.
+2. Nakreslí obdĺžnik alebo kruh.
+3. Označí objekt.
+4. Otvorí panel: Window / 3D and Materials.
+5. Ukáže základné efekty:
+   - Extrude – vytvorenie hĺbky z plochého tvaru,
+   - Revolve – vytvorenie rotačného telesa z profilu,
+   - Inflate – nafúknutý, priestorový vzhľad.
+6. Učiteľ stručne ukáže manipuláciu s otočením objektu a svetlom.
+7. Upozorní na rozdiel:
+   - Blender umožňuje detailné modelovanie, animáciu a prácu so scénou.
+   - Illustrator využíva vektorové tvary a vytvára najmä štylizovaný
+     alebo produktový 3D vzhľad.
+
+5. Samostatná práca žiakov – 11 minút
+Zadanie:
+V Adobe Illustratori vytvor jednoduchý objekt, ktorý bude mať 3D vzhľad.
+
+Postup:
+1. Vytvor nový dokument.
+2. Nakresli vlastný jednoduchý tvar: kruh, hviezdu, písmeno alebo obdĺžnik.
+3. Otvor panel 3D and Materials.
+4. Použi aspoň jeden 3D efekt.
+5. Uprav otočenie objektu alebo intenzitu svetla.
+6. Súbor ulož pod názvom:
+   Priezvisko_uvod_3D.ai
+
+Rozširujúca úloha pre rýchlejších žiakov:
+Vytvoria dva rozdielne 3D objekty a porovnajú, ktorý efekt bol použitý
+a aký je výsledný rozdiel.
+
+6. Zhrnutie a overenie vedomostí – 4 minúty
+Otázky:
+- Aký je rozdiel medzi 2D a 3D grafikou?
+- Ktoré tri rozmery opisujú 3D priestor?
+- Uveďte aspoň dva programy na tvorbu 3D grafiky.
+- Na aké typy grafiky je vhodný Adobe Illustrator?
+- Ktorý nástroj v Illustratori vytvorí hĺbku z plochého tvaru?
+
+7. Záverečná časť – 1 minúta
+- Zhodnotenie práce žiakov.
+- Uloženie súborov do určeného priečinka.
+- Oznámenie ďalšej témy: Základné pojmy v 3D grafike.
+
+Hodnotenie:
+Formatívne hodnotenie počas práce:
+- aktivita v diskusii,
+- správne pomenovanie rozdielu medzi 2D a 3D,
+- schopnosť otvoriť panel 3D and Materials,
+- vytvorenie jednoduchého objektu s 3D efektom,
+- správne uloženie súboru.
+
+Kritériá úspešnosti:
+Žiak splnil úlohu, ak:
+- vytvoril aspoň jeden vektorový objekt,
+- použil naň 3D efekt,
+- dokáže pomenovať použitý efekt,
+- vie vysvetliť, že Illustrator používa 3D efekty nad vektorovými tvarmi.
+
+Domáca úloha (voliteľná):
+Nájdite tri príklady využitia 3D grafiky v reklame, obaloch, hrách alebo
+na sociálnych sieťach. Ku každému príkladu napíšte, na aký účel 3D grafika
+slúži.
+```
+
+```txt
+PRÍPRAVA NA VYUČOVACIU HODINU č. 2
+
+Predmet: Spracovanie obrazu a textu
+Ročník / odbor: 4. ročník – grafik digitálnych médií
+Tematický celok: Základné práce s programom na tvorbu 3D
+Téma: 1.2 Základné pojmy v 3D grafike
+Časová dotácia: 1 vyučovacia hodina (45 minút)
+
+Výchovno-vzdelávací cieľ:
+Žiak charakterizuje 3D grafiku a správne používa základné pojmy z oblasti
+3D grafiky. Dokáže pomenovať základné prvky 3D objektu a vysvetliť ich
+význam pri tvorbe grafiky v Adobe Illustratori.
+
+Výkonový štandard:
+Žiak:
+- charakterizuje 3D grafiku,
+- vysvetlí pojmy objekt, model, scéna, os X/Y/Z, perspektíva a kamera,
+- rozlišuje pojmy plocha, hrana a vrchol,
+- vysvetlí pojmy materiál, textúra, svetlo a render,
+- aplikuje vybrané pojmy pri práci s jednoduchým 3D objektom v Illustratori.
+
+Obsahový štandard:
+- 3D objekt a 3D model,
+- osová sústava X, Y, Z,
+- vrchol, hrana, plocha,
+- scéna,
+- kamera a pohľad,
+- perspektíva,
+- svetlo a tieň,
+- materiál a textúra,
+- renderovanie,
+- extrúzia, rotácia, nafúknutie,
+- 3D and Materials v Adobe Illustratori.
+
+Medzipredmetové vzťahy:
+- odborný výcvik,
+- dizajn,
+- fotografia,
+- animácia,
+- fyzika – svetlo, priestor a tieň.
+
+Metódy:
+- výklad s názornou ukážkou,
+- riadený rozhovor,
+- demonštrácia,
+- samostatná praktická činnosť,
+- opakovanie formou otázok.
+
+Formy práce:
+- frontálna práca,
+- individuálna práca pri počítači,
+- práca vo dvojiciach pri kontrole pojmov.
+
+Pomôcky:
+- počítače s Adobe Illustratorom,
+- dataprojektor alebo interaktívna tabuľa,
+- prezentácia,
+- pripravený súbor s jednoduchými tvarmi alebo písmenami,
+- kartičky s pojmami (voliteľné).
+
+Organizácia hodiny:
+
+1. Úvodná organizačná časť – 2 minúty
+- Privítanie, kontrola prítomnosti.
+- Spustenie Adobe Illustratora.
+- Pripomenutie predchádzajúcej hodiny.
+
+2. Opakovanie predchádzajúceho učiva – 5 minút
+Otázky:
+- Čo je 3D grafika?
+- Aký je rozdiel medzi Blenderom a Adobe Illustratorom?
+- Aké 3D efekty sme videli v Illustratori?
+- Čo robí efekt Extrude?
+
+Krátka aktivita:
+Učiteľ premietne dva obrázky – 2D ikonu a 3D vizualizáciu. Žiaci určia,
+ktorý obrázok je 2D, ktorý 3D a svoje rozhodnutie zdôvodnia.
+
+3. Výklad nového učiva – 15 minút
+Učiteľ postupne vysvetľuje pojmy:
+
+3D objekt / 3D model:
+Digitálne vytvorený priestorový predmet. Môže predstavovať napríklad fľašu,
+logo, nábytok, postavu alebo obal výrobku.
+
+Os X:
+Vodorovný smer – pohyb doľava a doprava.
+
+Os Y:
+Zvislý smer – pohyb hore a dole.
+
+Os Z:
+Hĺbka priestoru – pohyb dopredu a dozadu.
+
+Vrchol (vertex):
+Bod, z ktorého je vytvorený tvar alebo sieť objektu.
+
+Hrana (edge):
+Spojenie dvoch vrcholov.
+
+Plocha / polygón (face):
+Časť povrchu objektu ohraničená hranami.
+
+Scéna:
+Celkové prostredie 3D návrhu. Zahŕňa objekty, svetlá, kameru a pozadie.
+
+Kamera:
+Určuje, z akého pohľadu vidíme scénu alebo objekt.
+
+Perspektíva:
+Spôsob zobrazenia priestoru, pri ktorom sa vzdialenejšie objekty javia menšie.
+
+Svetlo:
+Zdroj osvetlenia, ktorý ovplyvňuje viditeľnosť, tiene a celkovú atmosféru.
+
+Tieň:
+Tmavšia časť objektu alebo priestoru, do ktorej nedopadá svetlo priamo.
+
+Materiál:
+Vlastnosti povrchu objektu, napríklad farba, lesk, drsnosť alebo kovový vzhľad.
+
+Textúra:
+Obrázok alebo vzor aplikovaný na povrch objektu, napríklad drevo, kov,
+papier, látka alebo kameň.
+
+Renderovanie:
+Proces výpočtu a vytvorenia výsledného obrázka 3D scény alebo objektu.
+
+Extrude:
+Vytvorenie hĺbky z plochého vektorového tvaru.
+
+Revolve:
+Vytvorenie rotačného telesa otáčaním profilu okolo osi.
+
+Inflate:
+Vytvorenie nafúknutého, mäkkého a priestorového vzhľadu.
+
+Dôležité upozornenie:
+V Illustratori budeme s týmito pojmami pracovať najmä pri tvorbe 3D vzhľadu
+vektorových objektov. Detailné modelovanie sieťou, pokročilé simulácie či
+animovanie patria viac do programov ako Blender.
+
+4. Demonštrácia v Adobe Illustratori – 8 minút
+Učiteľ vytvorí jednoduchý objekt, napríklad kruh alebo písmeno.
+
+Demonštračný postup:
+1. Nakreslí kruh.
+2. Použije efekt Extrude alebo Inflate.
+3. Nastaví otočenie objektu v priestore.
+4. Ukáže smer svetla a zmenu tieňa.
+5. Otvorí časť Materials a ukáže rozdiel medzi matným a lesklým povrchom.
+6. Vysvetlí, že výsledný náhľad predstavuje zjednodušený render objektu.
+
+5. Samostatná práca žiakov – 10 minút
+Zadanie:
+Vytvor 3D ikonu alebo jednoduchý produktový objekt z vektorového tvaru.
+
+Povinné podmienky:
+- použi jeden základný tvar alebo písmeno,
+- aplikuj efekt Extrude, Revolve alebo Inflate,
+- nastav objekt do iného uhla pohľadu,
+- uprav svetlo alebo materiál,
+- do pracovnej plochy vlož textové popisky:
+  1. použitý 3D efekt,
+  2. typ materiálu alebo vzhľadu,
+  3. smer svetla.
+
+Návrhy objektov:
+- 3D písmeno vlastného mena,
+- ikona kocky,
+- lopta,
+- jednoduchá nádoba alebo pohár vytvorený pomocou Revolve,
+- tlačidlo s nafúknutým vzhľadom.
+
+Názov súboru:
+Priezvisko_zakladne_pojmy_3D.ai
+
+6. Kontrola a upevnenie učiva – 4 minúty
+Žiaci si vo dvojiciach vymenia miesta alebo krátko ukážu svoju prácu susedovi.
+Každý žiak pomenuje pri práci spolužiaka:
+- použitý 3D efekt,
+- materiál alebo povrchový vzhľad,
+- zdroj svetla alebo smer svetla.
+
+7. Záverečné zhrnutie – 1 minúta
+Učiteľ zopakuje:
+- 3D priestor má osi X, Y a Z,
+- objekt má tvar, povrch, svetlo a pohľad,
+- v Illustratori vytvárame 3D vzhľad nad vektorovými tvarmi,
+- základom dobrej 3D vizualizácie je tvar, uhol, svetlo a materiál.
+
+Hodnotenie:
+Formatívne hodnotenie:
+- správne používanie odborných pojmov,
+- aktivita pri odpovediach,
+- vytvorenie objektu s 3D efektom,
+- schopnosť vysvetliť vlastné nastavenie,
+- správne uloženie súboru.
+
+Kritériá úspešnosti:
+Žiak:
+- pomenuje aspoň päť základných pojmov z 3D grafiky,
+- vysvetlí význam osí X, Y a Z,
+- vytvorí jednoduchý objekt s 3D efektom,
+- uvedie použitý efekt a opíše úpravu svetla alebo materiálu.
+
+Domáca úloha (voliteľná):
+Vytvorte si krátky slovník 10 pojmov z 3D grafiky. Ku každému pojmu napíšte
+jednovetové vysvetlenie vlastnými slovami.
+```
+
+---
+
+```txt
+TEXT DO PREZENTÁCIE – TÉMA 1.1 ÚVOD DO 3D GRAFIKY
+```
+
+```txt
+SLIDE 1 – NÁZOV TÉMY
+
+Úvod do 3D grafiky
+
+Spracovanie obrazu a textu
+4. ročník – grafik digitálnych médií
+```
+
+```txt
+SLIDE 2 – ČO JE 3D GRAFIKA?
+
+3D grafika je tvorba a zobrazovanie objektov v priestore.
+
+3D objekt má:
+- šírku,
+- výšku,
+- hĺbku.
+
+Vďaka tomu môže pôsobiť reálnejšie než bežná plochá kresba.
+```
+
+```txt
+SLIDE 3 – 2D A 3D GRAFIKA
+
+2D grafika:
+- šírka a výška,
+- plochý obraz,
+- napríklad fotografia, plagát, ikona alebo kresba.
+
+3D grafika:
+- šírka, výška a hĺbka,
+- priestorový objekt,
+- možnosť otáčania, osvetlenia a zobrazenia z rôznych uhlov.
+```
+
+```txt
+SLIDE 4 – OSI V 3D PRIESTORE
+
+3D priestor opisujeme tromi osami:
+
+X – pohyb doľava a doprava
+Y – pohyb hore a dole
+Z – pohyb dopredu a dozadu
+
+Objekt môžeme v priestore posúvať, otáčať a meniť jeho veľkosť.
+```
+
+```txt
+SLIDE 5 – KDE SA POUŽÍVA 3D GRAFIKA?
+
+3D grafika sa používa napríklad v oblastiach:
+
+- počítačové hry,
+- filmy a animácie,
+- architektúra,
+- reklama a produktový dizajn,
+- obaly výrobkov,
+- vizualizácie interiérov,
+- medicína a technika,
+- virtuálna a rozšírená realita.
+```
+
+```txt
+SLIDE 6 – PROGRAMY NA TVORBU 3D GRAFIKY
+
+Príklady programov:
+
+- Blender
+- Cinema 4D
+- Autodesk Maya
+- 3ds Max
+- SketchUp
+- ZBrush
+- Fusion 360
+- Adobe Illustrator
+
+Každý program je vhodný na trochu iný typ práce.
+```
+
+```txt
+SLIDE 7 – BLENDER A ADOBE ILLUSTRATOR
+
+Blender:
+- plnohodnotný 3D program,
+- modelovanie, materiály, svetlá, animácia a renderovanie,
+- vhodný na komplexné 3D scény.
+
+Adobe Illustrator:
+- primárne vektorový editor,
+- umožňuje vytvoriť 3D vzhľad z vektorových tvarov,
+- vhodný na 3D logá, ikony, obaly, typografiu a jednoduché vizualizácie.
+```
+
+```txt
+SLIDE 8 – 3D V ADOBE ILLUSTRATORI
+
+V Illustratori používame panel:
+
+Window > 3D and Materials
+
+Základné 3D efekty:
+
+- Extrude – pridanie hĺbky,
+- Revolve – vytvorenie rotačného telesa,
+- Inflate – nafúknutý priestorový vzhľad.
+```
+
+```txt
+SLIDE 9 – EXTRUDE
+
+Extrude = vytlačenie tvaru do hĺbky.
+
+Z plochého objektu dokáže vytvoriť priestorový tvar.
+
+Príklady použitia:
+- 3D text,
+- kocka,
+- priestorové logo,
+- ikona aplikácie.
+```
+
+```txt
+SLIDE 10 – REVOLVE A INFLATE
+
+Revolve:
+- otáča profil okolo osi,
+- vhodný napríklad na pohár, fľašu, vázu alebo guľatý predmet.
+
+Inflate:
+- vytvorí mäkký a nafúknutý vzhľad,
+- vhodný na moderné ikony, tlačidlá alebo 3D text.
+```
+
+```txt
+SLIDE 11 – ÚLOHA
+
+V Adobe Illustratori vytvor jednoduchý objekt s 3D vzhľadom.
+
+Postup:
+1. Nakresli kruh, obdĺžnik, hviezdu alebo písmeno.
+2. Otvor panel 3D and Materials.
+3. Použi efekt Extrude, Revolve alebo Inflate.
+4. Uprav otočenie alebo svetlo.
+5. Ulož súbor:
+   Priezvisko_uvod_3D.ai
+```
+
+```txt
+SLIDE 12 – ZHRNUTIE
+
+Zapamätaj si:
+
+- 3D grafika pracuje so šírkou, výškou a hĺbkou.
+- 3D priestor má osi X, Y a Z.
+- Blender je plnohodnotný 3D editor.
+- Illustrator umožňuje vytvárať 3D vzhľad z vektorových objektov.
+- Základné 3D efekty: Extrude, Revolve, Inflate.
+```
+
+---
+
+```txt
+TEXT DO PREZENTÁCIE – TÉMA 1.2 ZÁKLADNÉ POJMY V 3D GRAFIKE
+```
+
+```txt
+SLIDE 1 – NÁZOV TÉMY
+
+Základné pojmy v 3D grafike
+
+Spracovanie obrazu a textu
+4. ročník – grafik digitálnych médií
+```
+
+```txt
+SLIDE 2 – OPAKOVANIE
+
+Čo už vieme?
+
+- 3D grafika pracuje v priestore.
+- Má šírku, výšku a hĺbku.
+- Priestor opisujeme osami X, Y a Z.
+- V Adobe Illustratori vytvárame 3D vzhľad z vektorových tvarov.
+```
+
+```txt
+SLIDE 3 – 3D OBJEKT A 3D MODEL
+
+3D objekt:
+Digitálny priestorový predmet.
+
+3D model:
+Digitálne spracovaný tvar objektu.
+
+Príklady:
+- fľaša,
+- logo,
+- postava,
+- automobil,
+- budova,
+- obal výrobku.
+```
+
+```txt
+SLIDE 4 – OSI X, Y, Z
+
+X – doľava / doprava
+Y – hore / dole
+Z – dopredu / dozadu
+
+Pomocou osí môžeme objekt:
+- posúvať,
+- otáčať,
+- zväčšovať a zmenšovať.
+```
+
+```txt
+SLIDE 5 – ZÁKLADNÉ PRVKY 3D MODELU
+
+Vrchol (vertex):
+Bod v priestore.
+
+Hrana (edge):
+Spojenie dvoch vrcholov.
+
+Plocha alebo polygón (face):
+Časť povrchu medzi hranami.
+
+Tieto prvky sú základom sieťového 3D modelu.
+```
+
+```txt
+SLIDE 6 – SCÉNA
+
+3D scéna je prostredie, v ktorom sa nachádza 3D objekt.
+
+Scéna môže obsahovať:
+- objekty,
+- kameru,
+- svetlá,
+- materiály,
+- pozadie,
+- tiene.
+```
+
+```txt
+SLIDE 7 – KAMERA A POHĽAD
+
+Kamera určuje, z akého miesta vidíme objekt alebo scénu.
+
+Zmena kamery ovplyvňuje:
+- uhol pohľadu,
+- veľkosť objektu v obraze,
+- kompozíciu,
+- perspektívu.
+```
+
+```txt
+SLIDE 8 – PERSPEKTÍVA
+
+Perspektíva vytvára dojem hĺbky.
+
+Pri perspektívnom zobrazení:
+- vzdialené objekty vyzerajú menšie,
+- blízke objekty vyzerajú väčšie,
+- rovnobežné línie sa môžu opticky približovať.
+
+Perspektíva pomáha vytvoriť realistický priestor.
+```
+
+```txt
+SLIDE 9 – SVETLO A TIEŇ
+
+Svetlo ovplyvňuje, ako objekt vidíme.
+
+Svetlo určuje:
+- svetlé miesta,
+- tmavé miesta,
+- tieň,
+- atmosféru,
+- čitateľnosť tvaru.
+
+Bez vhodného svetla môže 3D objekt pôsobiť plocho.
+```
+
+```txt
+SLIDE 10 – MATERIÁL A TEXTÚRA
+
+Materiál:
+Vlastnosti povrchu objektu.
+
+Materiál môže byť:
+- matný,
+- lesklý,
+- kovový,
+- priehľadný,
+- drsný.
+
+Textúra:
+Obrázok alebo vzor na povrchu objektu.
+
+Príklady textúr:
+drevo, kov, kameň, látka, papier.
+```
+
+```txt
+SLIDE 11 – RENDEROVANIE
+
+Renderovanie je proces vytvorenia výsledného obrázka 3D objektu alebo scény.
+
+Pri renderovaní sa vypočíta napríklad:
+- tvar objektu,
+- materiál,
+- svetlo,
+- tiene,
+- odrazy,
+- pohľad kamery.
+```
+
+```txt
+SLIDE 12 – 3D EFEKTY V ILLUSTRATORI
+
+Extrude:
+Pridá plochému tvaru hĺbku.
+
+Revolve:
+Vytvorí objekt otáčaním profilu okolo osi.
+
+Inflate:
+Vytvorí nafúknutý, mäkký a priestorový vzhľad.
+
+Panel nájdeme cez:
+Window > 3D and Materials
+```
+
+```txt
+SLIDE 13 – PRAKTICKÁ ÚLOHA
+
+Vytvor 3D ikonu alebo jednoduchý produktový objekt.
+
+Podmienky:
+- použi základný vektorový tvar alebo písmeno,
+- aplikuj Extrude, Revolve alebo Inflate,
+- nastav otočenie objektu,
+- uprav svetlo alebo materiál,
+- dopíš použitý efekt a materiál.
+
+Uloženie:
+Priezvisko_zakladne_pojmy_3D.ai
+```
+
+```txt
+SLIDE 14 – KONTROLNÉ OTÁZKY
+
+1. Čo je 3D model?
+2. Čo znamenajú osi X, Y a Z?
+3. Aký je rozdiel medzi vrcholom, hranou a plochou?
+4. Čo obsahuje 3D scéna?
+5. Aký význam má svetlo?
+6. Čo je materiál?
+7. Čo je renderovanie?
+8. Aký je rozdiel medzi Extrude, Revolve a Inflate?
+```
+
+```txt
+SLIDE 15 – ZHRNUTIE
+
+Základné pojmy 3D grafiky:
+
+- objekt a model,
+- osi X, Y, Z,
+- vrchol, hrana, plocha,
+- scéna a kamera,
+- perspektíva,
+- svetlo a tieň,
+- materiál a textúra,
+- renderovanie.
+
+Dobrý 3D výsledok závisí od tvaru, pohľadu, svetla a povrchu objektu.
+```
