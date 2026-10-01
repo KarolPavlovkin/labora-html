@@ -1,0 +1,549 @@
+PRÍPRAVA NA VYUČOVANIE – 1. vyučovacia hodina
+
+Predmet: Spracovanie obrazu a textu  
+Ročník/odbor: 2. ročník, grafik digitálnych médií  
+Tematický celok: Pracovné prostredie a základné kroky vo vektorovom programe  
+Téma: Význam a vlastnosti vrstiev v programe Adobe Illustrator  
+Časová dotácia: 45 minút  
+Typ hodiny: Kombinovaná hodina – výklad, demonštrácia, praktické precvičenie  
+Softvér: Adobe Illustrator  
+
+Vzdelávacie ciele:
+
+Žiak:
+- vysvetlí pojem vrstva vo vektorovom programe;
+- uvedie, prečo sa vrstvy používajú pri tvorbe grafiky;
+- otvorí a orientuje sa v paneli Layers (Vrstvy);
+- rozlíši základné vlastnosti vrstvy;
+- vytvorí novú vrstvu;
+- premenuje vrstvu;
+- nastaví viditeľnosť a uzamknutie vrstvy;
+- uvedomí si význam prehľadnej organizácie grafického dokumentu.
+
+Kľúčové kompetencie:
+- digitálna kompetencia;
+- schopnosť riešiť praktické úlohy v grafickom programe;
+- schopnosť organizovať vlastnú prácu;
+- rozvoj estetického cítenia a presnosti.
+
+Medzipredmetové vzťahy:
+- Informatika – práca so súbormi, organizácia údajov;
+- Odborná prax – príprava grafických návrhov;
+- Výtvarná príprava – kompozícia a organizácia prvkov.
+
+Pomôcky:
+- počítač pre každého žiaka;
+- Adobe Illustrator;
+- dataprojektor alebo interaktívna tabuľa;
+- pripravený ukážkový súbor Illustratoru;
+- prezentácia k téme vrstvy.
+
+Metódy:
+- motivačný rozhovor;
+- názorná ukážka;
+- výklad;
+- demonštrácia práce v programe;
+- samostatná praktická činnosť;
+- priebežná kontrola.
+
+Organizačné formy:
+- frontálna výučba;
+- individuálna práca žiakov;
+- krátka spoločná diskusia.
+
+Priebeh vyučovacej hodiny:
+
+1. Organizačná časť – 2 minúty
+
+- Privítanie žiakov.
+- Kontrola prítomnosti.
+- Príprava pracovného prostredia a spustenie programu Adobe Illustrator.
+- Žiaci si pripravia nový dokument alebo otvoria učiteľom pripravený súbor.
+
+2. Motivácia – 5 minút
+
+Učiteľ položí žiakom otázky:
+
+- Čo sa stane, keď je v grafike veľa objektov na jednom mieste?
+- Ako by sme upravili pozadie bez toho, aby sme nechtiac posunuli text alebo logo?
+- Ako by sme mohli oddeliť text, ilustrácie a pozadie?
+
+Učiteľ vysvetlí prirovnanie:
+
+„Vrstvy si môžeme predstaviť ako priehľadné fólie položené na sebe. Na každej fólii môže byť iná časť grafiky. Keď fólie položíme na seba, vznikne výsledný obrázok.“
+
+3. Výklad a demonštrácia – 15 minút
+
+Učiteľ otvorí panel vrstiev cez:
+
+Window > Layers  
+Okno > Vrstvy
+
+Vysvetlí základný význam vrstiev:
+
+- vrstva slúži na organizovanie objektov v dokumente;
+- každá vrstva môže obsahovať samostatné objekty, napríklad pozadie, text, logo alebo ilustrácie;
+- vrstva môže byť viditeľná alebo skrytá;
+- vrstva môže byť uzamknutá;
+- vrstvy pomáhajú predchádzať nechcenému posunutiu či úprave objektov;
+- prehľadné pomenovanie vrstiev zrýchľuje prácu grafika.
+
+Demonštrácia základných vlastností vrstvy v paneli Layers:
+
+1. Názov vrstvy
+- Každá vrstva by mala mať výstižný názov.
+- Nevhodný názov: Layer 1, Layer 2.
+- Vhodný názov: Pozadie, Text, Logo, Ilustrácia.
+
+2. Viditeľnosť vrstvy
+- Ikona oka určuje, či sa vrstva zobrazí.
+- Po kliknutí na ikonu oka sa vrstva skryje alebo opäť zobrazí.
+- Skrytá vrstva sa nezobrazuje, ale v dokumente zostáva.
+
+3. Uzamknutie vrstvy
+- Ikona zámku zabraňuje úprave objektov na vrstve.
+- Uzamknutú vrstvu nie je možné náhodne posunúť, odstrániť ani editovať.
+- Uzamknutie je vhodné najmä pri pozadí alebo hotových prvkoch.
+
+4. Poradie vrstiev
+- Vrstva umiestnená vyššie v zozname sa zobrazuje pred vrstvou, ktorá je nižšie.
+- Ak je text na vyššej vrstve ako pozadie, text je viditeľný.
+- Ak je pozadie nad textom, môže text prekryť.
+
+5. Farba vrstvy
+- Každá vrstva môže mať pridelenú vlastnú farbu.
+- Farba pomáha rozlíšiť objekty a ich označenie pri práci v dokumente.
+
+4. Riadené praktické cvičenie – 15 minút
+
+Zadanie pre žiakov:
+
+Vytvorte nový dokument a pripravte tri vrstvy:
+
+1. Pozadie
+2. Tvary
+3. Text
+
+Postup:
+
+- V paneli Layers vytvorte tri vrstvy.
+- Vrstvy premenujte.
+- Na vrstvu Pozadie vytvorte farebný obdĺžnik cez celú pracovnú plochu.
+- Vrstva Pozadie musí byť uzamknutá.
+- Na vrstvu Tvary vytvorte aspoň tri jednoduché geometrické tvary.
+- Na vrstvu Text napíšte svoje meno alebo krátky nadpis.
+- Skryte a znova zobrazte vrstvu Tvary.
+- Overte, že pozadie nie je možné upravovať, pretože je uzamknuté.
+
+Učiteľ priebežne kontroluje prácu žiakov a pomáha žiakom, ktorí majú problém s orientáciou v paneli vrstiev.
+
+5. Zhrnutie a hodnotenie – 6 minút
+
+Opakovacie otázky:
+
+- Čo je vrstva?
+- Prečo vrstvy používame?
+- Ktorá ikona slúži na skrytie vrstvy?
+- Ktorá ikona slúži na uzamknutie vrstvy?
+- Prečo je vhodné vrstvy pomenovať?
+- Čo sa stane, ak je vrstva s pozadím nad vrstvou s textom?
+
+Hodnotenie:
+
+Učiteľ hodnotí najmä:
+- správne vytvorenie troch vrstiev;
+- vhodné pomenovanie vrstiev;
+- uzamknutie vrstvy Pozadie;
+- schopnosť skryť a zobraziť vrstvu;
+- samostatnosť pri práci.
+
+Domáca úloha / dobrovoľná úloha:
+
+Navrhnite, aké vrstvy by ste vytvorili pri tvorbe plagátu na školské podujatie. Zapíšte minimálne päť názvov vrstiev.
+
+Príklad:
+- Pozadie
+- Fotografia
+- Ilustrácie
+- Hlavný nadpis
+- Doplňujúci text
+- Logo školy
+
+
+------------------------------------------------------------
+
+
+PRÍPRAVA NA VYUČOVANIE – 2. vyučovacia hodina
+
+Predmet: Spracovanie obrazu a textu  
+Ročník/odbor: 2. ročník, grafik digitálnych médií  
+Tematický celok: Pracovné prostredie a základné kroky vo vektorovom programe  
+Téma: Význam a vlastnosti vrstiev v programe Adobe Illustrator – praktická aplikácia  
+Časová dotácia: 45 minút  
+Typ hodiny: Praktická hodina – upevňovanie a aplikácia učiva  
+Softvér: Adobe Illustrator  
+
+Vzdelávacie ciele:
+
+Žiak:
+- zopakuje základné vlastnosti vrstiev;
+- vhodne organizuje grafický dokument pomocou vrstiev;
+- vytvorí grafický návrh s viacerými vrstvami;
+- správne pomenuje jednotlivé vrstvy;
+- použije viditeľnosť, uzamknutie a poradie vrstiev;
+- uvedomí si, že vrstvy zvyšujú prehľadnosť a bezpečnosť práce;
+- uloží dokument vo formáte AI.
+
+Kľúčové kompetencie:
+- digitálna kompetencia;
+- samostatné riešenie praktickej úlohy;
+- schopnosť organizovať pracovný postup;
+- prezentačné a komunikačné schopnosti pri obhajobe vlastnej práce.
+
+Pomôcky:
+- počítač;
+- Adobe Illustrator;
+- dataprojektor alebo interaktívna tabuľa;
+- pracovné zadanie;
+- prípadne pripravené obrázky alebo logá na vloženie.
+
+Metódy:
+- opakovanie;
+- demonštrácia;
+- samostatná praktická práca;
+- individuálne usmerňovanie;
+- prezentácia výsledkov;
+- slovné hodnotenie.
+
+Organizačné formy:
+- frontálna práca;
+- individuálna práca;
+- spoločné hodnotenie.
+
+Priebeh vyučovacej hodiny:
+
+1. Organizačná časť – 2 minúty
+
+- Privítanie a kontrola prítomnosti.
+- Spustenie Adobe Illustratoru.
+- Príprava nového dokumentu vo formáte A4 na výšku alebo na šírku.
+
+2. Opakovanie učiva – 7 minút
+
+Učiteľ zopakuje základné pojmy formou otázok:
+
+- Čo predstavuje vrstva?
+- Kde nájdeme panel Layers?
+- Ako vytvoríme novú vrstvu?
+- Na čo slúži ikona oka?
+- Na čo slúži ikona zámku?
+- Prečo je dôležité vrstvy pomenovať?
+- Ako ovplyvňuje poradie vrstiev výsledný vzhľad grafiky?
+
+Krátka praktická ukážka:
+
+Učiteľ vytvorí tri objekty na rôznych vrstvách a ukáže:
+- prekrytie objektov;
+- skrytie jednej vrstvy;
+- uzamknutie pozadia;
+- presunutie vrstvy vyššie alebo nižšie.
+
+3. Vysvetlenie praktickej úlohy – 6 minút
+
+Zadanie:
+
+Vytvorte jednoduchý plagát s názvom „DIGITÁLNA TVORBA“.
+
+Plagát musí obsahovať minimálne tieto vrstvy:
+
+1. Pozadie
+2. Dekoratívne tvary
+3. Hlavný nadpis
+4. Doplňujúci text
+5. Logo alebo symbol
+
+Požiadavky:
+
+- Každá vrstva musí mať správny a výstižný názov.
+- Vrstva Pozadie musí byť uzamknutá.
+- Žiak musí aspoň raz skryť jednu vrstvu a následne ju opäť zobraziť.
+- Nadpis musí byť nad pozadím a musí byť dobre čitateľný.
+- Dekoratívne tvary nesmú prekryť hlavný nadpis.
+- Dokument musí byť uložený vo formáte AI.
+
+Odporúčaný text na plagát:
+
+DIGITÁLNA TVORBA  
+Tvoríme grafiku vo vektorovom programe  
+2. ročník – grafik digitálnych médií
+
+4. Samostatná praktická práca – 22 minút
+
+Odporúčaný pracovný postup pre žiakov:
+
+1. Vytvorte nový dokument A4.
+2. Otvorte panel Layers.
+3. Vytvorte päť vrstiev.
+4. Premenujte ich podľa zadania.
+5. Vytvorte pozadie a uzamknite vrstvu.
+6. Na samostatnej vrstve vytvorte dekoratívne geometrické tvary.
+7. Na vrstve Hlavný nadpis vytvorte text „DIGITÁLNA TVORBA“.
+8. Na vrstve Doplňujúci text doplňte krátky text.
+9. Na poslednej vrstve vytvorte jednoduchý symbol, napríklad kruh, hviezdu, ikonu monitora alebo vlastné logo.
+10. Skontrolujte poradie vrstiev.
+11. Skryte vrstvu Dekoratívne tvary a opäť ju zobrazte.
+12. Uložte súbor pod názvom:
+
+Priezvisko_vrstvy.ai
+
+Učiteľ počas práce:
+- kontroluje pomenovanie vrstiev;
+- upozorňuje na zbytočné ponechávanie názvov Layer 1, Layer 2;
+- pomáha s presúvaním vrstiev;
+- vedie žiakov k pravidelnému ukladaniu práce.
+
+5. Prezentácia a záverečné hodnotenie – 8 minút
+
+Vybraní žiaci stručne ukážu svoj panel Layers a odpovedia:
+
+- Koľko vrstiev si použil/a?
+- Ktorú vrstvu si uzamkol/a a prečo?
+- Ktorú vrstvu by si skryl/a pri kontrole návrhu?
+- Prečo je dôležité poradie vrstiev?
+
+Kritériá hodnotenia praktickej úlohy:
+
+1. Správny počet a pomenovanie vrstiev – 3 body
+2. Správne použitie uzamknutia pozadia – 2 body
+3. Správne poradie vrstiev – 2 body
+4. Použitie viditeľnosti vrstvy – 1 bod
+5. Estetická a prehľadná úprava plagátu – 2 body
+
+Celkom: 10 bodov
+
+Záver hodiny:
+
+Učiteľ zdôrazní:
+
+„Vrstvy nie sú iba technická funkcia programu. Sú dôležitým nástrojom organizácie práce. Čím je grafický návrh zložitejší, tým dôležitejšie je správne používanie, pomenovanie a usporiadanie vrstiev.“
+
+
+============================================================
+TEXT DO PREZENTÁCIE – ROZDELENÝ NA SLIDY
+============================================================
+
+
+SLIDE 1 – Názov témy
+
+VÝZNAM A VLASTNOSTI VRSTIEV
+
+Adobe Illustrator  
+Spracovanie obrazu a textu  
+2. ročník – grafik digitálnych médií
+
+
+SLIDE 2 – Čo sa dnes naučíme?
+
+Po dnešnej hodine budem vedieť:
+
+- vysvetliť, čo je vrstva;
+- nájsť panel Vrstvy;
+- vytvoriť a pomenovať vrstvu;
+- skryť a zobraziť vrstvu;
+- uzamknúť vrstvu;
+- vysvetliť význam poradia vrstiev.
+
+
+SLIDE 3 – Čo je vrstva?
+
+Vrstva je samostatná pracovná plocha v dokumente.
+
+Vrstvy si môžeme predstaviť ako priehľadné fólie položené na sebe.
+
+Každá vrstva môže obsahovať iné objekty:
+
+- pozadie;
+- text;
+- fotografie;
+- logo;
+- ilustrácie;
+- dekoratívne tvary.
+
+
+SLIDE 4 – Prečo používame vrstvy?
+
+Vrstvy nám pomáhajú:
+
+- udržiavať poriadok v dokumente;
+- oddeliť jednotlivé časti grafiky;
+- zabrániť nechceným úpravám;
+- rýchlejšie nájsť konkrétny objekt;
+- skryť nepotrebné prvky počas práce;
+- správne usporiadať objekty nad sebou.
+
+
+SLIDE 5 – Príklad rozdelenia grafiky do vrstiev
+
+Príklad plagátu:
+
+Vrstva 1: Pozadie  
+Vrstva 2: Fotografia alebo ilustrácia  
+Vrstva 3: Dekoratívne tvary  
+Vrstva 4: Hlavný nadpis  
+Vrstva 5: Doplňujúci text  
+Vrstva 6: Logo
+
+Každá časť návrhu má svoje miesto.
+
+
+SLIDE 6 – Panel Layers v Adobe Illustratori
+
+Panel vrstiev otvoríme cez:
+
+Window > Layers
+
+Slovenské rozhranie:
+
+Okno > Vrstvy
+
+Skratka:
+
+F7
+
+
+SLIDE 7 – Názov vrstvy
+
+Každá vrstva má mať výstižný názov.
+
+Nevhodné názvy:
+
+- Layer 1
+- Layer 2
+- Layer 3
+
+Vhodné názvy:
+
+- Pozadie
+- Text
+- Logo
+- Fotografia
+- Ilustrácia
+
+Pomenované vrstvy zlepšujú prehľadnosť práce.
+
+
+SLIDE 8 – Viditeľnosť vrstvy
+
+Ikona oka určuje viditeľnosť vrstvy.
+
+Ak je oko zapnuté:
+vrstva je viditeľná.
+
+Ak oko vypneme:
+vrstva sa skryje.
+
+Skrytá vrstva sa neodstráni.  
+Len sa dočasne nezobrazuje.
+
+
+SLIDE 9 – Uzamknutie vrstvy
+
+Ikona zámku uzamkne vrstvu.
+
+Uzamknutú vrstvu nemôžeme:
+
+- posunúť;
+- upravovať;
+- odstrániť;
+- náhodne označiť.
+
+Uzamknutie používame napríklad pri hotovom pozadí.
+
+
+SLIDE 10 – Poradie vrstiev
+
+Vrstva, ktorá je vyššie v paneli Layers, sa zobrazuje pred vrstvou nižšie.
+
+Príklad:
+
+Text nad pozadím = text je viditeľný.
+
+Pozadie nad textom = pozadie môže text prekryť.
+
+Poradie vrstiev ovplyvňuje výsledný vzhľad grafiky.
+
+
+SLIDE 11 – Farba vrstvy
+
+Každá vrstva môže mať vlastnú farbu.
+
+Farba vrstvy pomáha rozlíšiť objekty pri označovaní.
+
+Farebné označenie je užitočné najmä pri dokumentoch s veľkým počtom objektov a vrstiev.
+
+
+SLIDE 12 – Zásady správnej práce s vrstvami
+
+Pri práci dodržiavame tieto pravidlá:
+
+- vrstvy pomenúvame;
+- nepoužívame zbytočne veľa vrstiev;
+- pozadie uzamkneme;
+- text umiestňujeme na samostatnú vrstvu;
+- kontrolujeme poradie vrstiev;
+- pravidelne ukladáme dokument.
+
+
+SLIDE 13 – Praktická úloha
+
+Vytvorte jednoduchý plagát s názvom:
+
+DIGITÁLNA TVORBA
+
+Použite minimálne päť vrstiev:
+
+- Pozadie
+- Dekoratívne tvary
+- Hlavný nadpis
+- Doplňujúci text
+- Logo alebo symbol
+
+Vrstva Pozadie musí byť uzamknutá.
+
+
+SLIDE 14 – Kontrolný zoznam
+
+Pred uložením práce skontroluj:
+
+- Mám vytvorené všetky vrstvy?
+- Sú vrstvy správne pomenované?
+- Je pozadie uzamknuté?
+- Je nadpis viditeľný?
+- Sú dekoratívne tvary pod textom?
+- Skúsil/a som skryť a zobraziť vrstvu?
+- Uložil/a som súbor vo formáte AI?
+
+
+SLIDE 15 – Opakovanie
+
+Odpovedz:
+
+1. Čo je vrstva?
+2. Kde otvoríme panel Layers?
+3. Na čo slúži ikona oka?
+4. Na čo slúži ikona zámku?
+5. Prečo pomenúvame vrstvy?
+6. Ako ovplyvňuje poradie vrstiev výsledný obrázok?
+
+
+SLIDE 16 – Zhrnutie
+
+Vrstvy sú dôležité pre:
+
+- poriadok v dokumente;
+- bezpečnú úpravu grafiky;
+- jednoduchšie označovanie objektov;
+- lepšiu organizáciu návrhu;
+- profesionálnu prácu grafika.
+
+Dobre organizované vrstvy = rýchlejšia a presnejšia práca.
