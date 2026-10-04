@@ -1,0 +1,473 @@
+```txt
+PRÍPRAVA NA VYUČOVACIU HODINU
+
+Predmet: Spracovanie sekvencií
+Ročník / odbor: 2. ročník – grafik digitálnych médií
+Tematický celok: Základy programovania animácií
+Téma vyučovacej hodiny: Panel Akcie a okno Script v programe Adobe Animate
+Časová dotácia: 45 minút
+Typ hodiny: Kombinovaná hodina – výklad, demonštrácia a praktické cvičenie
+
+NADVÄZNOSŤ NA PREDCHÁDZAJÚCU HODINU:
+Žiaci sa na predchádzajúcej hodine oboznámili so základmi skriptovacieho jazyka JavaScript a so základnými pravidlami syntaxe. Dnešná hodina ich naučí, kde sa JavaScript v prostredí Adobe Animate zapisuje, ako sa otvára panel Akcie a aký význam má okno Script.
+
+POZNÁMKA PRE UČITEĽA:
+JavaScript sa v Adobe Animate používa najmä pri dokumentoch typu HTML5 Canvas. Pri starších dokumentoch alebo dokumentoch typu ActionScript 3.0 sa používa jazyk ActionScript. Na tejto hodine pracujeme s dokumentom HTML5 Canvas a s JavaScriptom.
+
+VÝCHOVNO-VZDELÁVACIE CIELE:
+
+Hlavný cieľ:
+Žiak sa oboznámi s panelom Akcie a oknom Script v programe Adobe Animate a dokáže do nich vložiť jednoduchý JavaScriptový príkaz.
+
+Poznávacie ciele:
+Žiak:
+- vysvetlí, na čo slúži panel Akcie;
+- vie otvoriť panel Akcie;
+- rozpozná okno Script ako priestor na zápis programu;
+- vie priradiť skript ku konkrétnemu snímku na časovej osi;
+- rozlíši časovú os, pracovnú plochu a okno Script;
+- vloží jednoduchý príkaz JavaScriptu, napríklad console.log().
+
+Praktické ciele:
+Žiak:
+- vytvorí nový dokument HTML5 Canvas;
+- označí snímok na časovej osi;
+- otvorí panel Akcie pomocou ponuky Okno > Akcie alebo klávesu F9;
+- zapíše jednoduchý skript do okna Script;
+- otestuje dokument.
+
+Výchovné ciele:
+Žiak:
+- pracuje samostatne a systematicky;
+- dodržiava pravidlá práce s digitálnou technikou;
+- kontroluje chyby v zápise programu;
+- rozvíja presnosť pri práci so syntaxou.
+
+KĽÚČOVÉ KOMPETENCIE:
+- digitálna kompetencia;
+- riešenie problémov;
+- schopnosť používať odbornú terminológiu;
+- samostatná práca s grafickým a programovacím softvérom.
+
+METÓDY A FORMY PRÁCE:
+Metódy:
+- motivačný rozhovor;
+- výklad s prezentáciou;
+- názorná demonštrácia práce v Adobe Animate;
+- individuálne praktické cvičenie;
+- priebežné otázky a kontrola.
+
+Formy:
+- frontálna práca;
+- individuálna práca pri počítači;
+- prípadne práca vo dvojiciach pri nedostatku počítačov.
+
+POMÔCKY:
+- počítač pre učiteľa s Adobe Animate;
+- počítače pre žiakov s Adobe Animate;
+- dataprojektor alebo interaktívna tabuľa;
+- pripravená prezentácia;
+- prípadne pripravený súbor Adobe Animate vo formáte HTML5 Canvas;
+- internet nie je nevyhnutný.
+
+MEDZIPREDMETOVÉ VZŤAHY:
+- informatika;
+- tvorba webových stránok;
+- grafický dizajn;
+- multimediálna tvorba.
+
+
+--------------------------------------------------
+ČASOVÝ PLÁN HODINY – 45 MINÚT
+--------------------------------------------------
+
+1. ORGANIZAČNÁ ČASŤ – 2 minúty
+
+Činnosť učiteľa:
+- Privíta žiakov.
+- Skontroluje prítomnosť.
+- Pripraví žiakov na prácu v Adobe Animate.
+- Overí, či majú žiaci spustený program.
+
+Činnosť žiakov:
+- Pripravia si pracovné prostredie.
+- Spustia Adobe Animate.
+
+
+2. MOTIVÁCIA A OPAKOVANIE – 5 minút
+
+Otázky pre žiakov:
+- Čo je JavaScript?
+- Na čo slúži syntax v programovaní?
+- Čo sa môže stať, ak vynecháme zátvorku alebo úvodzovky?
+- Kde podľa vás budeme zapisovať JavaScript v programe Adobe Animate?
+
+Možná formulácia učiteľa:
+„Minulú hodinu sme sa učili základné pravidlá zápisu JavaScriptu. Dnes zistíme, kde sa tento kód zapisuje priamo v Adobe Animate a ako môžeme skript priradiť ku konkrétnemu miestu v animácii.“
+
+Prepojenie s praxou:
+„V budúcnosti pomocou skriptov vytvoríme tlačidlá, navigáciu, interaktívne prvky, ovládanie animácie, zvuk alebo jednoduché hry.“
+
+
+3. VÝKLAD A DEMONŠTRÁCIA – 13 minút
+
+Obsah výkladu:
+- Adobe Animate umožňuje vytvárať animácie a interaktívny obsah.
+- Pri dokumente HTML5 Canvas môžeme použiť JavaScript.
+- Skripty sa zapisujú do panelu Akcie.
+- Hlavnou časťou panelu Akcie je okno Script.
+- Skript môže byť pripojený napríklad ku konkrétnemu snímku na časovej osi.
+- Pri prehrávaní animácie Animate vykoná príkazy zapísané v danom snímku.
+
+Demonštrácia v Adobe Animate:
+
+Krok 1:
+Vytvoriť nový dokument:
+File > New > HTML5 Canvas.
+
+Krok 2:
+Ukázať hlavné časti pracovného prostredia:
+- Pracovná plocha (Stage) – miesto, kde vidíme grafiku a animáciu.
+- Časová os (Timeline) – miesto, kde organizujeme vrstvy a snímky.
+- Vrstvy (Layers) – pomáhajú oddeľovať objekty.
+- Panel Akcie (Actions) – miesto na prácu so skriptom.
+
+Krok 3:
+Kliknúť na snímok 1 na časovej osi.
+
+Krok 4:
+Otvoriť panel Akcie:
+Okno > Akcie
+alebo kláves F9.
+
+Poznámka:
+V závislosti od verzie a jazykového nastavenia programu sa môžu názvy položiek mierne odlišovať. Dôležité je nájsť panel Actions / Akcie.
+
+Krok 5:
+Ukázať okno Script:
+- Je to veľká textová plocha v paneli Akcie.
+- Sem zapisujeme JavaScriptový kód.
+- Kód zapisujeme presne, s dodržaním syntaxe.
+
+Krok 6:
+Zapísať jednoduchý skript:
+
+console.log("Ahoj z Adobe Animate!");
+
+Vysvetliť:
+- console.log() vypíše správu do konzoly pri testovaní.
+- Text musí byť uzavretý v úvodzovkách.
+- Príkaz ukončujeme bodkočiarkou.
+- Tento skript zatiaľ nevidíme priamo na ploche, ale slúži na kontrolu funkčnosti kódu.
+
+Krok 7:
+Otestovať animáciu:
+Control > Test
+alebo Ctrl + Enter.
+
+Poznámka:
+Ak žiaci nevidia výpis konzoly priamo v Animate, možno ich upozorniť, že pri HTML5 Canvas sa projekt testuje v internetovom prehliadači a správy sa môžu zobrazovať v konzole prehliadača. Na dnešnej hodine je najdôležitejšie pochopiť miesto zápisu skriptu, nie detailná diagnostika konzoly.
+
+
+4. RIADENÉ PRAKTICKÉ CVIČENIE – 15 minút
+
+Zadanie pre žiakov:
+1. Otvor Adobe Animate.
+2. Vytvor nový dokument typu HTML5 Canvas.
+3. Pomenuj súbor: Panel_Akcie_Meno.fla
+4. Na časovej osi označ snímok číslo 1.
+5. Otvor panel Akcie pomocou F9 alebo cez Okno > Akcie.
+6. Do okna Script vlož tento kód:
+
+console.log("Moja prvá správa v Adobe Animate!");
+
+7. Skontroluj, či sú správne použité:
+   - malé a veľké písmená;
+   - zátvorky;
+   - úvodzovky;
+   - bodkočiarka.
+8. Ulož súbor.
+9. Otestuj projekt pomocou Ctrl + Enter.
+
+Rozširujúca úloha pre rýchlejších žiakov:
+Do skriptu vložte viac správ:
+
+console.log("Spúšťa sa animácia.");
+console.log("Pracujem s panelom Akcie.");
+console.log("Používam JavaScript.");
+
+Alebo doplňte premennú:
+
+let meno = "Peter";
+console.log("Ahoj, " + meno + "!");
+
+Učiteľ počas práce:
+- kontroluje, či žiaci klikli na správny snímok;
+- upozorňuje na správnu syntax;
+- pomáha žiakom, ktorí nevedia nájsť panel Akcie;
+- pripomína, že kód sa píše do okna Script, nie priamo na pracovnú plochu.
+
+
+5. KONTROLA A UPEVNENIE UČIVA – 7 minút
+
+Spoločná kontrola:
+Učiteľ vyzve vybraných žiakov, aby ukázali:
+- kde sa otvára panel Akcie;
+- ktorý snímok majú označený;
+- kde sa nachádza okno Script;
+- aký skript zapísali.
+
+Otázky na záver:
+1. Na čo slúži panel Akcie?
+2. Ako otvoríme panel Akcie?
+3. Čo je okno Script?
+4. Prečo musíme pred zápisom skriptu označiť snímok?
+5. Aký jazyk používame pri dokumente HTML5 Canvas?
+6. Čo znamená chyba syntaxe?
+
+Očakávané odpovede:
+1. Panel Akcie slúži na pridávanie a úpravu skriptov.
+2. Pomocou Okno > Akcie alebo klávesom F9.
+3. Okno Script je miesto, kde píšeme programový kód.
+4. Pretože skript sa môže pripojiť ku konkrétnemu snímku animácie.
+5. JavaScript.
+6. Chyba syntaxe je nesprávny zápis príkazu podľa pravidiel programovacieho jazyka.
+
+
+6. ZÁVER HODINY – 3 minúty
+
+Zhrnutie učiteľa:
+„Dnes sme sa naučili, že JavaScript v Adobe Animate nepíšeme priamo na plochu animácie, ale do panelu Akcie. V paneli Akcie sa nachádza okno Script, do ktorého zapisujeme kód. Skript môžeme pripojiť ku konkrétnemu snímku časovej osi. Na ďalšej hodine budeme riešiť písanie, správu, komentovanie, import a export skriptov.“
+
+Hodnotenie:
+- slovná pochvala aktívnych žiakov;
+- priebežné hodnotenie samostatnosti;
+- kontrola uloženého súboru a správne zapísaného skriptu.
+
+DOMÁCA ÚLOHA / DOBROVOĽNÁ ÚLOHA:
+Napíš do zošita alebo textového súboru odpovede:
+1. Ako otvorím panel Akcie?
+2. Na čo slúži okno Script?
+3. Napíš jeden jednoduchý príkaz console.log(), ktorý by sa mohol použiť v Adobe Animate.
+
+
+--------------------------------------------------
+TEXT DO PREZENTÁCIE – ROZDELENÝ NA SLIDY
+--------------------------------------------------
+
+
+SLIDE 1 – NÁZOV HODINY
+
+Panel Akcie a okno Script
+Adobe Animate + JavaScript
+
+Predmet: Spracovanie sekvencií
+2. ročník – grafik digitálnych médií
+
+
+SLIDE 2 – ČO SME SA UČILI MINULE?
+
+Na minulej hodine sme sa venovali:
+- úvodu do JavaScriptu;
+- základným pravidlám syntaxe;
+- premenným;
+- príkazom;
+- zátvorkám, úvodzovkám a bodkočiarkam.
+
+Dnes sa naučíme, kde JavaScript zapisujeme v Adobe Animate.
+
+
+SLIDE 3 – CIEĽ HODINY
+
+Po dnešnej hodine budem vedieť:
+
+- otvoriť panel Akcie;
+- nájsť okno Script;
+- priradiť skript k snímku na časovej osi;
+- zapísať jednoduchý JavaScriptový príkaz;
+- otestovať projekt.
+
+
+SLIDE 4 – ADOBE ANIMATE A SKRIPTY
+
+Adobe Animate slúži na tvorbu:
+- animácií;
+- reklám;
+- prezentácií;
+- interaktívnych prvkov;
+- webového obsahu;
+- jednoduchých hier.
+
+Skripty pridávajú animácii správanie a interaktivitu.
+
+
+SLIDE 5 – AKÝ JAZYK POUŽIJEME?
+
+Pri dokumente HTML5 Canvas používame JavaScript.
+
+JavaScript môžeme využiť napríklad na:
+- ovládanie prehrávania animácie;
+- reakciu na kliknutie tlačidla;
+- navigáciu medzi snímkami;
+- zobrazovanie alebo skrývanie objektov;
+- prácu so zvukom.
+
+
+SLIDE 6 – HLAVNÉ ČASTI PROSTREDIA ADOBE ANIMATE
+
+Pracovná plocha (Stage)
+- miesto, kde vidíme animáciu a grafické objekty.
+
+Časová os (Timeline)
+- organizuje snímky, vrstvy a priebeh animácie.
+
+Vrstvy (Layers)
+- pomáhajú oddeľovať jednotlivé objekty.
+
+Panel Akcie (Actions)
+- miesto na písanie a úpravu skriptov.
+
+
+SLIDE 7 – ČO JE PANEL AKCIE?
+
+Panel Akcie slúži na:
+- zápis skriptov;
+- úpravu skriptov;
+- kontrolu kódu;
+- priradenie kódu k snímku alebo objektu.
+
+V paneli Akcie pracujeme s programovým kódom.
+
+
+SLIDE 8 – AKO OTVORIŤ PANEL AKCIE?
+
+Panel Akcie otvoríme:
+
+Okno > Akcie
+
+alebo klávesom:
+
+F9
+
+Postup:
+1. Označ snímok na časovej osi.
+2. Otvor panel Akcie.
+3. Zapíš kód do okna Script.
+
+
+SLIDE 9 – OKNO SCRIPT
+
+Okno Script je hlavná textová plocha v paneli Akcie.
+
+Do okna Script:
+- píšeme JavaScript;
+- upravujeme existujúci kód;
+- kontrolujeme syntax;
+- pridávame komentáre.
+
+Kód musí byť zapísaný presne.
+
+
+SLIDE 10 – SKRIPT PRIRADENÝ K SNÍMKU
+
+Skript môže byť priradený ku konkrétnemu snímku.
+
+Postup:
+1. Klikneme na vybraný snímok na časovej osi.
+2. Otvoríme panel Akcie.
+3. Zapíšeme skript.
+
+Pri prehrávaní animácie sa skript vykoná v danom snímku.
+
+
+SLIDE 11 – PRVÝ PRÍKLAD SKRIPTU
+
+console.log("Ahoj z Adobe Animate!");
+
+Význam:
+- console.log() vypíše správu;
+- text je v úvodzovkách;
+- príkaz ukončuje bodkočiarka.
+
+Pozor na správnu syntax!
+
+
+SLIDE 12 – ČASTÉ CHYBY PRI ZÁPISE
+
+Nesprávne:
+
+console.log(Ahoj);
+console.log("Ahoj")
+Console.log("Ahoj");
+
+Správne:
+
+console.log("Ahoj");
+
+Chyby môžu vzniknúť pri:
+- chýbajúcich úvodzovkách;
+- chýbajúcej zátvorke;
+- nesprávnych veľkých písmenách;
+- nesprávnom názve príkazu.
+
+
+SLIDE 13 – TESTOVANIE PROJEKTU
+
+Projekt otestujeme:
+
+Control > Test
+
+alebo klávesovou skratkou:
+
+Ctrl + Enter
+
+Testovanie nám pomáha zistiť, či sa projekt spustí bez chyby.
+
+
+SLIDE 14 – PRAKTICKÁ ÚLOHA
+
+Vytvor dokument HTML5 Canvas.
+
+1. Klikni na snímok 1.
+2. Otvor panel Akcie pomocou F9.
+3. Do okna Script zapíš:
+
+console.log("Moja prvá správa v Adobe Animate!");
+
+4. Ulož súbor.
+5. Otestuj projekt pomocou Ctrl + Enter.
+
+
+SLIDE 15 – ROZŠIRUJÚCA ÚLOHA
+
+Zapíš viac správ:
+
+console.log("Spúšťa sa animácia.");
+console.log("Pracujem s panelom Akcie.");
+console.log("Používam JavaScript.");
+
+Alebo vytvor premennú:
+
+let meno = "Peter";
+console.log("Ahoj, " + meno + "!");
+
+
+SLIDE 16 – ZHRNUTIE
+
+Dnes sme sa naučili:
+
+- Panel Akcie otvoríme cez Okno > Akcie alebo klávesom F9.
+- Okno Script je miesto, kde píšeme kód.
+- Pred zápisom skriptu označíme snímok na časovej osi.
+- Pri HTML5 Canvas používame JavaScript.
+- Kód musí dodržiavať pravidlá syntaxe.
+
+
+SLIDE 17 – OTÁZKY NA ZÁVER
+
+1. Na čo slúži panel Akcie?
+2. Ako otvoríme panel Akcie?
+3. Čo je okno Script?
+4. Prečo vyberáme konkrétny snímok na časovej osi?
+5. Aký jazyk používame pri dokumente HTML5 Canvas?
+```
