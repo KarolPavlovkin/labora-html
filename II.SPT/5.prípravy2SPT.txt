@@ -1,0 +1,375 @@
+```txt
+PRÍPRAVA NA VYUČOVACIU HODINU
+
+Predmet: Spracovanie obrazu a textu
+Ročník / odbor: 2. ročník – grafik digitálnych médií
+Téma: Pokročilá práca s vrstvami v Adobe Illustratori
+Časová dotácia: 45 minút
+
+Nadväznosť na učivo:
+Žiaci už poznajú základný význam vrstiev, vytvorenie novej vrstvy,
+premenovanie, uzamykanie, skrývanie a zmenu poradia vrstiev.
+Hodina rozširuje učivo o praktickú organizáciu dokumentu, podvrstvy,
+presúvanie objektov medzi vrstvami a kontrolu obsahu vrstiev.
+
+Hlavný cieľ hodiny:
+Žiak dokáže správne usporiadať grafický dokument pomocou vrstiev
+a podvrstiev tak, aby bol dokument prehľadný, editovateľný a pripravený
+na ďalšiu prácu alebo odovzdanie.
+
+Vzdelávacie ciele:
+Žiak:
+- vysvetlí rozdiel medzi poradím objektov a poradím vrstiev;
+- vytvorí a pomenuje vrstvy podľa obsahu;
+- vytvorí podvrstvy;
+- presunie objekt alebo skupinu objektov do inej vrstvy;
+- vie zistiť, v ktorej vrstve sa vybraný objekt nachádza;
+- použije uzamknutie a skrytie vrstiev pri práci;
+- využije vrstvu Šablóna (Template) pri prekresľovaní predlohy;
+- vytvorí prehľadný dokument s vrstvami Pozadie, Ilustrácia a Text.
+
+Metódy a formy práce:
+- motivačný rozhovor;
+- výklad s ukážkou na projektore;
+- riadené praktické cvičenie;
+- samostatná práca žiakov;
+- priebežná kontrola práce.
+
+Pomôcky:
+- počítače s Adobe Illustratorom;
+- dataprojektor;
+- pripravený jednoduchý obrázok alebo plagát;
+- prípadne fotografia/logotyp ako predloha na prekresľovanie.
+
+------------------------------------------------------------
+ČASOVÝ PLÁN HODINY
+------------------------------------------------------------
+
+1. Úvod a opakovanie – 5 minút
+
+Otázky pre žiakov:
+- Na čo slúžia vrstvy?
+- Prečo nepoužívame všetky objekty iba v jednej vrstve?
+- Kedy je vhodné vrstvu zamknúť?
+- Aký je rozdiel medzi skrytím a uzamknutím vrstvy?
+
+Krátke zopakovanie:
+Vrstvy používame na oddelenie jednotlivých častí návrhu. Napríklad
+pozadie, ilustrácia, fotografie, text a pomocné prvky majú byť uložené
+oddelene. Takýto súbor je jednoduchší na úpravu.
+
+2. Výklad a názorná ukážka – 12 minút
+
+Ukážka v paneli Layers / Vrstvy:
+- rozbalenie vrstvy pomocou šípky;
+- zobrazenie objektov, skupín a podvrstiev;
+- presunutie objektu potiahnutím do inej vrstvy;
+- vytvorenie podvrstvy;
+- zmena poradia objektov vo vrstve;
+- vyhľadanie vybraného objektu v paneli vrstiev;
+- zamknutie a skrytie vrstvy;
+- vytvorenie vrstvy typu Template / Šablóna.
+
+Dôležité zdôraznenie:
+Poradie vrstiev ovplyvňuje, čo vidíme vpredu a čo vzadu.
+Aj objekty v jednej vrstve však môžu mať vlastné poradie.
+
+3. Riadené cvičenie – 10 minút
+
+Učiteľ pripraví jednoduchý plagát alebo žiaci vytvoria jednoduchú
+kompozíciu z obdĺžnika, kruhov, textu a ikon.
+
+Žiaci spoločne s učiteľom vytvoria tieto vrstvy:
+1. Pozadie
+2. Ilustrácia
+3. Text
+4. Pomocné prvky
+
+Úloha:
+- obdĺžnik s farebným pozadím presunúť do vrstvy Pozadie;
+- tvary alebo kresbu presunúť do vrstvy Ilustrácia;
+- nadpis a doplnkový text presunúť do vrstvy Text;
+- pomocné čiary alebo náčrt uložiť do vrstvy Pomocné prvky;
+- vrstvu Pozadie uzamknúť.
+
+4. Samostatná praktická úloha – 13 minút
+
+Zadanie:
+Vytvorte jednoduchý plagát alebo titulnú grafiku na tému
+„Hudobný festival“, „Športový deň“ alebo „Digitálny svet“.
+
+Dokument musí obsahovať minimálne tieto vrstvy:
+- Pozadie
+- Ilustrácia
+- Text
+- Dekorácie alebo Pomocné prvky
+
+Podmienky:
+- každá vrstva musí byť pomenovaná;
+- vrstva Pozadie musí byť uzamknutá;
+- text musí byť oddelený od ilustrácie;
+- v jednej vrstve vytvorte aspoň jednu podvrstvu;
+- usporiadajte vrstvy tak, aby bol text nad ilustráciou a pozadím.
+
+Rozšírenie pre rýchlejších žiakov:
+- vytvoriť vrstvu Šablóna z vloženého obrázka;
+- znížiť jej viditeľnosť (Dim Images);
+- prekresliť jednoduchý tvar perom alebo nástrojom Curvature;
+- vytvoriť podvrstvy napríklad „Nadpis“, „Dátum“, „Miesto“.
+
+5. Záver a hodnotenie – 5 minút
+
+Kontrolné otázky:
+- Čo je podvrstva?
+- Prečo je vhodné mať text vo vlastnej vrstve?
+- Ako presunieme objekt do inej vrstvy?
+- Aký je rozdiel medzi vrstvou a poradím objektov?
+- Kedy využijeme vrstvu Šablóna?
+
+Hodnotenie:
+Hodnotí sa najmä:
+- správne pomenovanie vrstiev;
+- logické usporiadanie obsahu;
+- oddelenie textu, ilustrácie a pozadia;
+- použitie uzamknutia vrstvy;
+- celková prehľadnosť súboru.
+
+------------------------------------------------------------
+POZNÁMKY PRE UČITEĽA
+------------------------------------------------------------
+
+Táto hodina je vhodná ako posledná alebo rozširujúca hodina k vrstvám.
+Podľa osnov máte po téme vrstiev pokračovať témou „Cesty a vytváranie
+tvarov“. Ak žiaci už zvládajú vytváranie, premenovanie, skrývanie,
+uzamykanie a presúvanie vrstiev, po tejto hodine je vhodné prejsť
+na cesty.
+
+Pokročilé prvky vrstiev, ktoré sa oplatí žiakom ukázať:
+- podvrstvy;
+- rozbalenie vrstvy a kontrola objektov vo vrstve;
+- presúvanie objektov medzi vrstvami potiahnutím;
+- vyhľadanie objektu v paneli Layers;
+- rozdiel medzi poradím objektov a poradím vrstiev;
+- vrstva Šablóna / Template;
+- hromadné vytvorenie vrstiev z objektov:
+  Release to Layers (Sequence);
+- možnosť Paste Remembers Layers – pri kopírovaní sa zachová
+  rozdelenie objektov do vrstiev.
+
+Funkciu Release to Layers (Sequence) odporúčam iba stručne ukázať
+šikovnejším žiakom. Je vhodná napríklad vtedy, keď máme viac objektov
+v jednej vrstve a chceme ich automaticky rozdeliť do samostatných
+podvrstiev.
+
+============================================================
+TEXT DO PREZENTÁCIE – ROZDELENÝ NA SLIDY
+============================================================
+
+
+SLIDE 1 – NÁZOV HODINY
+
+Pokročilá práca s vrstvami
+v Adobe Illustratori
+
+Ako udržať grafický dokument prehľadný a ľahko upraviteľný.
+
+
+SLIDE 2 – OPAKOVANIE
+
+Vrstvy používame na oddelenie jednotlivých častí grafiky.
+
+Príklady vrstiev:
+- pozadie
+- ilustrácia
+- fotografie
+- text
+- pomocné prvky
+
+
+SLIDE 3 – PREČO SÚ VRSTVY DÔLEŽITÉ?
+
+Vrstvy nám umožňujú:
+- udržať poriadok v dokumente;
+- jednoducho upravovať vybranú časť grafiky;
+- chrániť hotové prvky uzamknutím;
+- skryť prvky, ktoré nám pri práci prekážajú;
+- ľahšie odovzdať súbor inému grafikovi.
+
+
+SLIDE 4 – PANEL LAYERS / VRSTVY
+
+Panel Layers zobrazíme cez:
+
+Window > Layers
+
+Skratka:
+F7
+
+V paneli vidíme:
+- vrstvy;
+- podvrstvy;
+- objekty;
+- skupiny objektov;
+- zamknuté a skryté prvky.
+
+
+SLIDE 5 – VRSTVA A OBJEKT NIE JE TO ISTÉ
+
+Vrstva:
+Organizačný celok dokumentu.
+
+Objekt:
+Konkrétny prvok v grafike, napríklad kruh, text alebo fotografia.
+
+Jedna vrstva môže obsahovať veľa objektov.
+
+
+SLIDE 6 – PORADIE VRSTIEV
+
+Vrstva, ktorá je v paneli vyššie,
+sa v dokumente zobrazuje pred vrstvami pod ňou.
+
+Príklad správneho poradia:
+1. Text
+2. Ilustrácia
+3. Pozadie
+
+Text musí byť väčšinou nad ilustráciou a pozadím.
+
+
+SLIDE 7 – PORADIE OBJEKTOV VO VRSTVE
+
+Aj objekty v jednej vrstve majú vlastné poradie.
+
+Objekt, ktorý je vyššie v zozname,
+sa zobrazí pred objektom nižšie v zozname.
+
+Poradie môžeme meniť:
+- potiahnutím v paneli Layers;
+- príkazmi Arrange;
+- klávesovými skratkami.
+
+
+SLIDE 8 – PODVRSTVY
+
+Podvrstva je vrstva vo vnútri hlavnej vrstvy.
+
+Využitie podvrstiev:
+- oddelenie nadpisu, dátumu a miesta;
+- rozdelenie ilustrácie na viac častí;
+- lepšia organizácia zložitej grafiky.
+
+Príklad:
+Text
+- Nadpis
+- Dátum
+- Miesto konania
+
+
+SLIDE 9 – PRESÚVANIE OBJEKTOV MEDZI VRSTVAMI
+
+Objekt presunieme do inej vrstvy:
+
+1. Označíme objekt.
+2. Otvoríme panel Layers.
+3. Objekt potiahneme do požadovanej vrstvy.
+
+Dôležité:
+Pred presúvaním si vždy skontrolujeme,
+či objekt presúvame do správnej vrstvy.
+
+
+SLIDE 10 – SKRYTIE A UZAMKNUTIE
+
+Skrytie vrstvy:
+Vrstva nie je viditeľná, ale zostáva v dokumente.
+
+Uzamknutie vrstvy:
+Vrstva je viditeľná, ale nemôžeme ju náhodne upraviť alebo posunúť.
+
+Príklad:
+Pozadie je vhodné po dokončení uzamknúť.
+
+
+SLIDE 11 – VRSTVA ŠABLÓNA / TEMPLATE
+
+Vrstva Šablóna sa používa pri prekresľovaní predlohy.
+
+Vhodná je napríklad pre:
+- vloženú fotografiu;
+- náčrt logotypu;
+- obrázok určený na vektorizáciu.
+
+Vrstva Šablóna býva:
+- uzamknutá;
+- menej viditeľná;
+- určená iba ako predloha.
+
+
+SLIDE 12 – DOBRÉ POMENOVANIE VRSTIEV
+
+Nevhodné názvy:
+- Layer 1
+- Layer 2
+- Layer 3
+
+Vhodné názvy:
+- Pozadie
+- Text
+- Ilustrácia
+- Dekorácie
+- Pomocné čiary
+
+Pomenované vrstvy šetria čas.
+
+
+SLIDE 13 – UKÁŽKA ORGANIZÁCIE PLAGÁTU
+
+Text
+- Nadpis
+- Dátum
+- Miesto
+
+Ilustrácia
+- Hlavný motív
+- Ikony
+
+Dekorácie
+
+Pozadie
+
+Takto pripravený dokument je prehľadný
+a jednoducho upraviteľný.
+
+
+SLIDE 14 – PRAKTICKÁ ÚLOHA
+
+Vytvorte jednoduchý plagát.
+
+Použite minimálne 4 vrstvy:
+- Pozadie
+- Ilustrácia
+- Text
+- Dekorácie alebo Pomocné prvky
+
+Podmienky:
+- vrstvy pomenujte;
+- pozadie uzamknite;
+- text uložte do samostatnej vrstvy;
+- vytvorte aspoň jednu podvrstvu.
+
+
+SLIDE 15 – ZHRNUTIE
+
+Vrstvy nám pomáhajú organizovať dokument.
+
+Pamätáme si:
+- text, ilustráciu a pozadie oddeľujeme;
+- vrstvy vhodne pomenúvame;
+- hotové časti uzamykáme;
+- poradie vrstiev ovplyvňuje výsledný vzhľad;
+- podvrstvy zlepšujú prehľadnosť.
+
+Ďalšia téma:
+Cesty a vytváranie tvarov v Adobe Illustratori.
+```
