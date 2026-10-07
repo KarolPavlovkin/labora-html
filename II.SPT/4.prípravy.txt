@@ -1,0 +1,573 @@
+PRÍPRAVA NA VYUČOVACIU HODINU  
+Predmet: Spracovanie obrazu a textu  
+Ročník / odbor: 2. ročník, grafik digitálnych médií  
+Časová dotácia: 45 minút  
+Téma: Paleta nástrojov Adobe Illustrator – vybrané nástroje na kreslenie, úpravu a prácu s farbou  
+Nadväznosť: Predchádzajúca hodina – význam a vlastnosti vrstiev v programe Adobe Illustrator.  
+Poznámka: V zadaní je spomenutý Adobe Animate, ale podľa učebných osnov a požiadavky na nástroje bude hodina zameraná na Adobe Illustrator.
+
+---
+
+1. VÝCHOVNO-VZDELÁVACIE CIELE
+
+Hlavný cieľ:  
+Žiaci spoznajú vybrané dôležité nástroje programu Adobe Illustrator a prakticky si vyskúšajú ich využitie pri tvorbe jednoduchej vektorovej grafiky.
+
+Kognitívne ciele – žiak:
+- vysvetlí rozdiel medzi kreslením vo vektorovom a rastrovom programe;
+- pomenuje základné skupiny nástrojov v paneli Tools;
+- pozná využitie nástrojov Pero, Zakrivenie, Štetec, Ceruzka, Guma, Kvapkadlo, Text a Prechod;
+- rozlíši výplň objektu a obrys objektu;
+- vie určiť, ktorý nástroj je vhodný pre konkrétnu úlohu.
+
+Psychomotorické ciele – žiak:
+- vytvorí jednoduchú otvorenú alebo uzavretú cestu nástrojom Pero alebo Zakrivenie;
+- nakreslí voľnú líniu nástrojom Štetec alebo Ceruzka;
+- zmení farbu objektu pomocou nástroja Kvapkadlo;
+- aplikuje jednoduchý farebný prechod;
+- vytvorí krátky textový prvok;
+- uloží svoju prácu vo formáte AI.
+
+Afektívne ciele – žiak:
+- rozvíja estetické cítenie a tvorivý prístup;
+- pracuje samostatne a zodpovedne;
+- dodržiava poriadok vo vrstvách a v pracovnom priestore.
+
+---
+
+2. POMÔCKY A MATERIÁL
+
+Pre učiteľa:
+- počítač s Adobe Illustrator;
+- dataprojektor alebo interaktívna tabuľa;
+- pripravená prezentácia;
+- ukážkový súbor Illustratoru s niekoľkými objektmi a vrstvami.
+
+Pre žiakov:
+- počítač s Adobe Illustrator;
+- myš alebo grafický tablet, ak je k dispozícii;
+- pripravený dokument A4 alebo štvorcové plátno 1080 × 1080 px.
+
+---
+
+3. METÓDY A FORMY PRÁCE
+
+Metódy:
+- výklad s ukážkou;
+- názorná demonštrácia priamo v programe;
+- riadený rozhovor;
+- praktické cvičenie;
+- priebežná spätná väzba.
+
+Formy:
+- frontálna práca;
+- individuálna práca žiakov;
+- krátke vzájomné hodnotenie.
+
+---
+
+4. KĽÚČOVÉ POJMY
+
+- nástroj / panel nástrojov;
+- vektorový objekt;
+- cesta;
+- kotviaci bod;
+- segment cesty;
+- výplň;
+- obrys;
+- ťah štetca;
+- farebný prechod;
+- vzorkovanie farby;
+- textový objekt;
+- vrstva.
+
+---
+
+5. ČASOVÝ PLÁN HODINY
+
+0–3 min. – Organizačná časť a motivácia  
+3–7 min. – Opakovanie predchádzajúceho učiva o vrstvách  
+7–25 min. – Výklad a ukážka vybraných nástrojov v Adobe Illustratori  
+25–39 min. – Praktická samostatná úloha  
+39–43 min. – Prezentovanie vybraných prác a hodnotenie  
+43–45 min. – Zhrnutie, spätná väzba, zadanie domácej úlohy
+
+---
+
+6. PRIEBEH VYUČOVACEJ HODINY
+
+A. ORGANIZAČNÁ ČASŤ A MOTIVÁCIA – 0 až 3 min.
+
+Učiteľ:
+- privíta žiakov;
+- skontroluje pripravenosť pracovných staníc;
+- požiada žiakov, aby otvorili Adobe Illustrator;
+- uvedie tému hodiny.
+
+Motivačná otázka:
+„Ak by ste mali vytvoriť logo, ikonu alebo jednoduchý plagát, aké nástroje by ste okrem výberu a základných tvarov potrebovali?“
+
+Možné odpovede žiakov:
+- nástroj na kreslenie;
+- nástroj na text;
+- nástroj na zmenu farieb;
+- nástroj na mazanie;
+- nástroj na vytvorenie oblúkov alebo kriviek.
+
+---
+
+B. OPAKOVANIE – VRSTVY – 3 až 7 min.
+
+Otázky pre žiakov:
+1. Na čo slúžia vrstvy v Adobe Illustratori?
+2. Prečo je vhodné mať pozadie, text a ilustráciu na samostatných vrstvách?
+3. Čo znamená zamknutie vrstvy?
+4. Čo sa stane, keď vrstvu skryjeme?
+
+Prepojenie na novú tému:
+„Vrstvy nám pomáhajú udržať poriadok v dokumente. Nástroje nám zase umožňujú vytvárať a upravovať objekty, ktoré do jednotlivých vrstiev vkladáme.“
+
+---
+
+C. VÝKLAD A DEMONŠTRÁCIA NÁSTROJOV – 7 až 25 min.
+
+Odporúčanie: Pri každom nástroji učiteľ nástroj krátko ukáže na projektore. Žiaci môžu jednotlivé kroky priebežne opakovať.
+
+1. NÁSTROJ PERO / PEN TOOL – 7 až 11 min.
+
+Klávesová skratka: P
+
+Vysvetlenie:
+- Nástroj Pero slúži na vytváranie presných vektorových ciest.
+- Cestu tvoríme kliknutím, ktorým pridávame kotviace body.
+- Pri kliknutí a ťahaní vytvárame oblúky a krivky.
+- Uzavretú cestu vytvoríme kliknutím na prvý kotviaci bod.
+
+Demonštrácia:
+- vytvoriť jednoduchý trojuholník;
+- vytvoriť jednoduchú zakrivenú čiaru;
+- vysvetliť rozdiel medzi priamym segmentom a krivkou.
+
+Dôležité upozornenie:
+- Pero nie je určené na rýchle voľné kreslenie;
+- používa sa najmä pri logách, ikonách, presných tvaroch a technických ilustráciách.
+
+Otázka:
+„Kedy by bolo vhodnejšie použiť Pero než Štetec?“  
+Očakávaná odpoveď: Pri tvorbe presných a upraviteľných tvarov.
+
+---
+
+2. NÁSTROJ ZAKRIVENIE / CURVATURE TOOL – 11 až 13 min.
+
+Vysvetlenie:
+- Nástroj Zakrivenie je jednoduchšia alternatíva nástroja Pero.
+- Umožňuje pohodlnejšie vytvárať plynulé krivky.
+- Kliknutím pridávame body, program automaticky vytvára oblúky.
+- Dvojkliknutím možno zmeniť bod medzi rohovým a hladkým bodom.
+
+Demonštrácia:
+- vytvoriť jednoduchý obrys listu, vlny alebo oblaku.
+
+Porovnanie:
+- Pero: väčšia presnosť a väčšia kontrola;
+- Zakrivenie: rýchlejšie vytváranie plynulých kriviek.
+
+---
+
+3. ŠTETEC / PAINTBRUSH TOOL – 13 až 16 min.
+
+Klávesová skratka: B
+
+Vysvetlenie:
+- Nástroj Štetec vytvára kresbu pomocou obrysu.
+- Štetec môže mať rôznu hrúbku, farbu a vzhľad.
+- Vzhľad štetca môžeme meniť v paneli Brushes / Štetce.
+- Je vhodný na dekoratívne čiary, ručne kreslené ilustrácie a kaligrafické prvky.
+
+Demonštrácia:
+- nakresliť ozdobnú vlnovku;
+- zmeniť hrúbku obrysu;
+- vybrať iný štýl štetca.
+
+Upozornenie:
+- Štetec vytvára cestu s aplikovaným obrysom, nie klasický vyplnený tvar.
+
+---
+
+4. CERUZKA / PENCIL TOOL A GUMA / ERASER TOOL – 16 až 18 min.
+
+Klávesové skratky:
+- Ceruzka: N
+- Guma: Shift + E
+
+Ceruzka:
+- slúži na voľné kreslenie ciest;
+- je vhodná na rýchle skice a jednoduché ručne kreslené línie;
+- kresbu možno následne upraviť pomocou priameho výberu.
+
+Guma:
+- odstraňuje časti objektu alebo cesty;
+- používa sa na rýchlu úpravu a zjednodušenie kresby;
+- pri práci treba dávať pozor, na ktorej vrstve sa objekt nachádza.
+
+Demonštrácia:
+- nakresliť jednoduchú líniu ceruzkou;
+- časť línie odstrániť gumou.
+
+Prepojenie s vrstvami:
+„Ak máme zamknutú vrstvu s pozadím, gumou ju náhodne nepoškodíme.“
+
+---
+
+5. KVAPKADLO / EYEDROPPER TOOL – 18 až 20 min.
+
+Klávesová skratka: I
+
+Vysvetlenie:
+- Nástroj Kvapkadlo odoberá farbu a vlastnosti z vybraného objektu.
+- Vie preniesť výplň, obrys, priehľadnosť a ďalšie atribúty vzhľadu.
+- Je užitočný pri dodržiavaní jednotnej farebnosti grafiky.
+
+Demonštrácia:
+- vytvoriť dva objekty s odlišnými farbami;
+- označiť jeden objekt;
+- kvapkadlom kliknúť na druhý objekt;
+- ukázať, že sa prenesie farba alebo vzhľad.
+
+Praktické využitie:
+- tvorba jednotného vizuálneho štýlu;
+- opakovanie farieb z loga;
+- rýchle kopírovanie vzhľadu.
+
+---
+
+6. PRECHOD / GRADIENT TOOL – 20 až 22 min.
+
+Klávesová skratka: G
+
+Vysvetlenie:
+- Prechod je plynulý prechod medzi dvoma alebo viacerými farbami.
+- Najčastejšie druhy sú lineárny a radiálny prechod.
+- Prechod môže byť použitý vo výplni objektu, prípadne aj v obryse.
+
+Demonštrácia:
+- vytvoriť kruh alebo vlastný tvar;
+- aplikovať lineárny prechod;
+- zmeniť smer prechodu;
+- ukázať radiálny prechod.
+
+Upozornenie:
+- Prechody treba používať s mierou, aby bol výsledok čitateľný a estetický.
+
+---
+
+7. TEXT / TYPE TOOL – 22 až 25 min.
+
+Klávesová skratka: T
+
+Vysvetlenie:
+- Textový nástroj vytvára textové objekty.
+- Bodový text vytvoríme jedným kliknutím.
+- Text v oblasti vytvoríme ťahaním textového rámčeka.
+- Text je možné formátovať: font, veľkosť, rez, zarovnanie, farba a riadkovanie.
+
+Demonštrácia:
+- vložiť krátky nadpis;
+- zmeniť veľkosť a farbu;
+- vysvetliť, že text má byť na samostatnej vrstve.
+
+Upozornenie:
+- Pri odovzdávaní loga alebo grafiky do tlače môže byť potrebné text previesť na krivky, ale až po uložení editovateľnej verzie dokumentu.
+
+---
+
+D. PRAKTICKÁ ÚLOHA – 25 až 39 min.
+
+Názov úlohy: Mini plagát alebo grafická karta „Môj symbol“
+
+Zadanie pre žiakov:
+Vytvorte jednoduchú grafickú kartu s vlastným symbolom, ikonou alebo miniilustráciou. Téma môže byť napríklad hudba, šport, príroda, hra, technológia alebo vlastná značka.
+
+Povinné požiadavky:
+1. Dokument musí obsahovať minimálne 3 vrstvy:
+   - Pozadie;
+   - Ilustrácia / symbol;
+   - Text.
+2. Použite minimálne 4 z nasledujúcich nástrojov:
+   - Pero alebo Zakrivenie;
+   - Štetec alebo Ceruzka;
+   - Guma;
+   - Kvapkadlo;
+   - Prechod;
+   - Text.
+3. Vytvorte aspoň jednu vlastnú krivku alebo cestu.
+4. Použite aspoň dve farby.
+5. Pridajte krátky text, napríklad názov, slogan alebo svoje iniciály.
+6. Súbor uložte vo formáte: Priezvisko_nastroje.ai
+
+Postup odporúčaný žiakom:
+1. Vytvorte vrstvu Pozadie a vložte farebnú plochu alebo prechod.
+2. Vytvorte vrstvu Ilustrácia.
+3. Pomocou nástroja Pero alebo Zakrivenie vytvorte hlavný symbol.
+4. Doplňte ručne kreslenú čiaru štetcom alebo ceruzkou.
+5. Farby upravte kvapkadlom alebo panelom Swatches.
+6. Pridajte vrstvu Text a napíšte názov svojej grafiky.
+7. Skontrolujte, či sú vrstvy vhodne pomenované.
+
+Úloha pre rýchlejších žiakov:
+- vytvorte vlastný štetec;
+- použite radiálny prechod;
+- pridajte druhý textový prvok;
+- vytvorte dve farebné verzie symbolu;
+- pripravte grafiku aj na export do PNG.
+
+Podpora pre žiakov, ktorí potrebujú pomoc:
+- môžu vytvoriť jednoduchý symbol, napríklad srdce, list, blesk, nota, slnko alebo herný ovládač;
+- môžu použiť pripravený jednoduchý tvar a doplniť ho vlastnou líniou, farbou, prechodom a textom.
+
+---
+
+E. PREZENTÁCIA PRÁC A HODNOTENIE – 39 až 43 min.
+
+Učiteľ vyberie 2 až 4 dobrovoľné práce a krátko ich premietne.
+
+Otázky:
+- Aké nástroje autor použil?
+- Ktorý nástroj bol pre autora najpraktickejší?
+- Sú vrstvy v dokumente prehľadné?
+- Je text čitateľný?
+- Sú farby zvolené vhodne?
+
+Kritériá hodnotenia:
+- použitie požadovaných nástrojov;
+- technická správnosť;
+- usporiadanie objektov vo vrstvách;
+- čitateľnosť textu;
+- kreativita a estetické spracovanie;
+- uloženie súboru pod správnym názvom.
+
+---
+
+F. ZÁVER HODINY – 43 až 45 min.
+
+Zhrnutie:
+- Adobe Illustrator obsahuje nástroje na presné aj voľné kreslenie.
+- Pero a Zakrivenie vytvárajú vektorové cesty.
+- Štetec a Ceruzka sú vhodné na voľnejšiu kresbu.
+- Kvapkadlo zrýchľuje prácu s farbami a vzhľadom.
+- Prechod oživuje výplň objektov.
+- Textový nástroj slúži na tvorbu nadpisov, popisov a typografických prvkov.
+- Vrstvy udržiavajú dokument prehľadný.
+
+Rýchla záverečná otázka:
+„Ktorý nástroj by ste použili na vytvorenie presného loga a ktorý na ručne kreslenú ozdobnú čiaru?“
+
+Očakávaná odpoveď:
+- Presné logo: Pero alebo Zakrivenie.
+- Ručne kreslená ozdobná čiara: Štetec alebo Ceruzka.
+
+---
+
+7. DOMÁCA ÚLOHA – VOLITEĽNÁ
+
+Vytvorte doma jednoduchú ikonu alebo logo na tému „Môj obľúbený predmet / činnosť“. Použite:
+- minimálne jednu cestu vytvorenú perom alebo nástrojom Zakrivenie;
+- minimálne dve farby;
+- krátky text;
+- samostatné vrstvy pre text, ilustráciu a pozadie.
+
+Súbor uložte ako: Priezvisko_domaca_uloha.ai
+
+---
+
+TEXT DO PREZENTÁCIE – ROZDELENÝ PODĽA SLIDOV
+
+SLIDE 1 – NÁZOV HODINY
+
+Adobe Illustrator  
+Vybrané nástroje na kreslenie, úpravu a prácu s farbou
+
+Spracovanie obrazu a textu  
+2. ročník – grafik digitálnych médií
+
+---
+
+SLIDE 2 – ČO SME SA UČILI MINULE?
+
+Vrstvy v Adobe Illustratori
+
+- vrstvy udržiavajú dokument prehľadný;
+- objekty môžeme skrývať a zamykať;
+- pozadie, ilustrácia a text majú byť ideálne na samostatných vrstvách;
+- vrstvy chránia hotové časti grafiky pred neúmyselnou úpravou.
+
+---
+
+SLIDE 3 – CIEĽ DNEŠNEJ HODINY
+
+Dnes sa naučíme:
+
+- orientovať sa v paneli nástrojov;
+- vytvárať cesty a krivky;
+- kresliť voľné línie;
+- upravovať farby;
+- používať farebné prechody;
+- vkladať text do grafiky.
+
+---
+
+SLIDE 4 – VYBRANÉ NÁSTROJE
+
+Dnes si ukážeme najmä:
+
+- Pero / Pen Tool;
+- Zakrivenie / Curvature Tool;
+- Štetec / Paintbrush Tool;
+- Ceruzka / Pencil Tool;
+- Guma / Eraser Tool;
+- Kvapkadlo / Eyedropper Tool;
+- Prechod / Gradient Tool;
+- Text / Type Tool.
+
+---
+
+SLIDE 5 – PERO / PEN TOOL
+
+Pero – klávesová skratka P
+
+- vytvára presné vektorové cesty;
+- kliknutím pridávame kotviace body;
+- kliknutie a ťahanie vytvorí krivku;
+- vhodné na logá, ikony a presné tvary;
+- uzavretú cestu ukončíme kliknutím na prvý bod.
+
+Pero = presnosť a kontrola.
+
+---
+
+SLIDE 6 – ZAKRIVENIE / CURVATURE TOOL
+
+Zakrivenie / Curvature Tool
+
+- jednoduchšie vytváranie plynulých kriviek;
+- kliknutím pridávame body;
+- program automaticky vytvára oblúky;
+- vhodné na vlny, listy, oblaky a organické tvary.
+
+Pero = presnejšie  
+Zakrivenie = rýchlejšie a jednoduchšie
+
+---
+
+SLIDE 7 – ŠTETEC / PAINTBRUSH TOOL
+
+Štetec – klávesová skratka B
+
+- kreslí voľné línie s obrysom;
+- môžeme meniť farbu, hrúbku a štýl štetca;
+- vhodný na ozdobné línie, ilustrácie a kaligrafiu;
+- nastavenia štetcov nájdeme v paneli Brushes.
+
+Štetec vytvára cestu s aplikovaným obrysom.
+
+---
+
+SLIDE 8 – CERUZKA A GUMA
+
+Ceruzka – klávesová skratka N
+
+- rýchle voľné kreslenie;
+- vhodná na skice a ručne kreslené línie;
+- kresbu môžeme ďalej upravovať.
+
+Guma – Shift + E
+
+- odstraňuje časti objektov;
+- umožňuje rýchlu úpravu kresby;
+- dávame pozor na aktívnu vrstvu.
+
+---
+
+SLIDE 9 – KVAPKADLO / EYEDROPPER TOOL
+
+Kvapkadlo – klávesová skratka I
+
+- odoberá farbu z objektu;
+- prenáša výplň, obrys a vzhľad;
+- pomáha zachovať jednotný vizuálny štýl;
+- zrýchľuje prácu pri opakovaní farieb.
+
+Kvapkadlom môžeme zjednotiť vzhľad objektov.
+
+---
+
+SLIDE 10 – PRECHOD / GRADIENT TOOL
+
+Prechod – klávesová skratka G
+
+- plynulé spojenie dvoch alebo viacerých farieb;
+- lineárny prechod: farby idú jedným smerom;
+- radiálny prechod: farby vychádzajú zo stredu;
+- prechod používame najmä vo výplni objektu.
+
+Prechody používame s mierou, aby grafika ostala čitateľná.
+
+---
+
+SLIDE 11 – TEXT / TYPE TOOL
+
+Text – klávesová skratka T
+
+- slúži na vkladanie textu;
+- bodový text vytvoríme kliknutím;
+- text v oblasti vytvoríme ťahaním rámčeka;
+- môžeme meniť font, veľkosť, farbu a zarovnanie.
+
+Text má byť na samostatnej vrstve.
+
+---
+
+SLIDE 12 – PRAKTICKÁ ÚLOHA
+
+Vytvor grafickú kartu „Môj symbol“.
+
+Použi minimálne:
+
+- 3 vrstvy: Pozadie, Ilustrácia, Text;
+- 4 nástroje z dnešnej hodiny;
+- jednu vlastnú cestu alebo krivku;
+- dve farby;
+- krátky text;
+- jeden farebný prechod alebo vzorkovanie farby kvapkadlom.
+
+Súbor ulož ako:  
+Priezvisko_nastroje.ai
+
+---
+
+SLIDE 13 – KRITÉRIÁ HODNOTENIA
+
+Hodnotiť budeme:
+
+- použitie nástrojov;
+- správne rozdelenie do vrstiev;
+- technickú úroveň práce;
+- čitateľnosť textu;
+- prácu s farbami;
+- kreativitu a estetický výsledok.
+
+---
+
+SLIDE 14 – ZHRNUTIE
+
+Dnes sme si ukázali:
+
+- Pero a Zakrivenie – presné cesty a krivky;
+- Štetec a Ceruzku – voľné kreslenie;
+- Gumu – odstraňovanie častí objektov;
+- Kvapkadlo – kopírovanie farby a vzhľadu;
+- Prechod – plynulé prepájanie farieb;
+- Text – tvorbu nadpisov a popisov.
+
+Nástroj vyberáme podľa toho, aký výsledok chceme dosiahnuť.

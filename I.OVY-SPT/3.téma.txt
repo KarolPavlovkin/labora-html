@@ -1,0 +1,1260 @@
+# Prípravy na 3 vyučovacie hodiny (3 × 45 minút)  
+## Téma: Konštrukcia fotografického prístroja a objektívy  
+**Poznámka:** Prípravy sú zamerané na klasický (analógový/filmový) fotografický prístroj a objektívy. Digitálna fotografia nie je súčasťou týchto hodín.
+
+---
+
+# VYUČOVACIA HODINA Č. 1  
+## Téma: Základná konštrukcia fotografického prístroja
+
+### Časová dotácia
+45 minút
+
+### Typ vyučovacej hodiny
+Kombinovaná hodina – výklad, názorná ukážka, rozhovor, opakovanie.
+
+### Hlavný cieľ hodiny
+Žiak pozná základné časti klasického fotografického prístroja, rozumie ich funkcii a vie vysvetliť princíp vzniku fotografie vo fotoaparáte.
+
+### Vzdelávacie ciele
+
+#### Žiak vie:
+- vysvetliť, na akom princípe funguje fotografický prístroj;
+- pomenovať základné časti fotoaparátu;
+- vysvetliť funkciu svetlotesnej komory;
+- opísať cestu svetla od objektívu až po fotografický film;
+- rozlíšiť základné druhy fotografických prístrojov;
+- správne a bezpečne manipulovať s fotoaparátom.
+
+### Kľúčové pojmy
+Fotografický prístroj, fotoaparát, svetlotesná komora, telo prístroja, objektív, clona, uzávierka, hľadáčik, film, filmová komora, spúšť, prevíjanie filmu, transport filmu, expozícia.
+
+### Pomôcky
+- klasický filmový fotoaparát, ideálne zrkadlovka;
+- jednoduchý kompakt alebo starší fotoaparát na ukážku;
+- ukážka 35 mm filmu;
+- obrázok alebo schéma rezu fotoaparátom;
+- prezentácia;
+- pracovný list alebo zápis do zošita.
+
+### Medzipredmetové vzťahy
+- fyzika – svetlo, šírenie svetla, obraz;
+- technika – mechanické časti prístroja;
+- výtvarná výchova – obraz, kompozícia, vnímanie fotografie.
+
+---
+
+## Priebeh vyučovacej hodiny
+
+### 1. Organizačná časť (2 minúty)
+- Privítanie žiakov.
+- Kontrola prítomnosti.
+- Príprava pomôcok.
+- Učiteľ žiakom oznámi tému hodiny.
+
+**Motivačná otázka:**  
+„Čo sa musí stať vo vnútri fotoaparátu, aby sa svetlo z reálneho sveta zmenilo na fotografiu?“
+
+---
+
+### 2. Opakovanie predchádzajúceho učiva (5 minút)
+
+Učiteľ nadviaže na už prebraté témy – fyzikálne vlastnosti svetla a teóriu farieb.
+
+#### Otázky pre žiakov
+1. Čo je svetlo?
+2. Ako sa svetlo šíri?
+3. Prečo je svetlo pre fotografiu nevyhnutné?
+4. Čo sa stane, keď na svetlocitlivý materiál dopadne svetlo?
+5. Prečo musí byť film vložený vo fotoaparáte chránený pred nežiaducim svetlom?
+
+**Očakávaná odpoveď:**  
+Fotografia vzniká pôsobením svetla na svetlocitlivý materiál. Film musí byť vo fotoaparáte uložený v tme, pretože pri jeho nekontrolovanom osvetlení by sa znehodnotil.
+
+---
+
+### 3. Motivácia a úvod do témy (3 minúty)
+
+Učiteľ ukáže fotoaparát a vyzve žiakov, aby pomenovali časti, ktoré poznajú.
+
+Môže položiť otázku:
+
+- „Čo všetko vidíte na tomto fotoaparáte?“
+- „Ktorú časť držíme v ruke?“
+- „Kadiaľ vstupuje svetlo?“
+- „Kde sa nachádza film?“
+
+Učiteľ vysvetlí, že fotografický prístroj je zariadenie, ktoré umožňuje usmerniť svetlo, regulovať jeho množstvo a zaznamenať obraz na svetlocitlivý materiál.
+
+---
+
+## 4. Výklad nového učiva (20 minút)
+
+### 4.1 Fotografický prístroj – základná charakteristika
+
+Fotografický prístroj, bežne nazývaný fotoaparát, je opticko-mechanické zariadenie určené na vytvorenie a zaznamenanie obrazu. Pri klasickej fotografii sa obraz zaznamenáva na fotografický film.
+
+Základnou úlohou fotoaparátu je:
+
+1. prepustiť svetlo do prístroja iba cez objektív;
+2. správne nasmerovať svetlo na film;
+3. regulovať množstvo svetla;
+4. určiť čas, počas ktorého svetlo pôsobí na film;
+5. zabrániť prenikaniu nežiaduceho svetla do vnútra prístroja.
+
+Fotoaparát musí byť svetlotesný. Ak by do neho prenikalo svetlo cez netesnosti, film by bol poškodený alebo úplne znehodnotený.
+
+---
+
+### 4.2 Základné časti fotografického prístroja
+
+#### 1. Telo fotoaparátu
+Telo tvorí základnú nosnú časť prístroja. Chráni vnútorné mechanizmy a vytvára svetlotesný priestor pre fotografický film.
+
+Telo fotoaparátu obsahuje napríklad:
+- filmovú komoru;
+- mechanizmus posunu filmu;
+- uzávierku;
+- hľadáčik;
+- zrkadlo pri zrkadlovkách;
+- ovládacie prvky.
+
+Telo musí byť pevné, odolné a svetlotesné. Pri starších fotoaparátoch sa používali najmä kovové materiály, neskôr kombinácie kovu a plastu.
+
+---
+
+#### 2. Objektív
+Objektív je sústava optických šošoviek, cez ktoré vstupuje svetlo do fotoaparátu. Je jednou z najdôležitejších častí prístroja.
+
+Úlohou objektívu je:
+- zhromaždiť svetlo;
+- vytvoriť obraz fotografovanej scény;
+- premietnuť obraz na film;
+- umožniť zaostrenie na fotografovaný objekt.
+
+Objektív bude podrobnejšie rozobratý v nasledujúcich hodinách.
+
+---
+
+#### 3. Filmová komora
+Filmová komora je priestor vo fotoaparáte, do ktorého sa vkladá fotografický film. Musí byť úplne chránená pred svetlom.
+
+V bežnom kinofilmovom fotoaparáte sa film nachádza:
+- najprv v kazete;
+- potom sa posúva cez obrazové okienko;
+- nakoniec sa navíja na navíjaciu cievku.
+
+Pri otvorení zadnej steny fotoaparátu, keď je vo vnútri založený nevyvolaný film, môže dôjsť k jeho osvieteniu a zničeniu záberov.
+
+---
+
+#### 4. Obrazové okienko
+Obrazové okienko je presne vymedzené miesto, za ktorým sa nachádza film. Práve cez toto okienko dopadne obraz vytvorený objektívom na určitú časť filmu.
+
+Veľkosť obrazového okienka určuje formát fotografie. Pri kinofilme je najznámejší formát políčka 24 × 36 mm.
+
+---
+
+#### 5. Hľadáčik
+Hľadáčik slúži fotografovi na pozorovanie fotografovanej scény a na určenie výrezu obrazu.
+
+Pomocou hľadáčika fotograf:
+- vyberá, čo bude na zábere;
+- kontroluje kompozíciu;
+- usmerňuje fotoaparát;
+- pri niektorých prístrojoch aj zaostruje.
+
+Pri jednoduchých fotoaparátoch hľadáčik nemusí ukazovať úplne presne to, čo zaznamená objektív. Tento jav sa nazýva paralaxa. Pri zrkadlovkách fotograf vidí obraz priamo cez objektív.
+
+---
+
+#### 6. Spúšť
+Spúšť je ovládací prvok, ktorým fotograf vykoná expozíciu snímky. Po stlačení spúšte sa otvorí uzávierka a svetlo môže určitý čas dopadať na film.
+
+So spúšťou treba pracovať jemne. Prudké stlačenie môže spôsobiť pohyb fotoaparátu a výsledkom môže byť neostrá fotografia.
+
+---
+
+#### 7. Mechanizmus posunu filmu
+Po vytvorení snímky treba film posunúť o jedno políčko, aby bolo možné vytvoriť ďalší záber na neosvetlenej časti filmu.
+
+Pri starších fotoaparátoch sa film posúval ručne pomocou páčky alebo kolieska. Pri niektorých prístrojoch bol posun automatizovaný mechanicky.
+
+---
+
+#### 8. Počítadlo snímok
+Počítadlo snímok informuje fotografa, koľko políčok filmu už bolo exponovaných. Pomáha predchádzať fotografovaniu po skončení filmu.
+
+---
+
+### 4.3 Cesta svetla vo fotoaparáte
+
+Učiteľ nakreslí alebo ukáže schému:
+
+**fotografovaná scéna → objektív → clona → uzávierka → film**
+
+Svetlo odrazené od fotografovaného objektu vstupuje cez objektív do fotoaparátu. Objektív vytvorí obraz. Clona určuje, aké veľké množstvo svetla môže objektívom prejsť. Uzávierka určuje čas, počas ktorého svetlo dopadá na film. Na filme následne vznikne latentný, teda voľným okom neviditeľný obraz, ktorý sa po chemickom vyvolaní zmení na viditeľný negatív.
+
+---
+
+### 5. Praktická ukážka a aktivita (8 minút)
+
+Učiteľ ukáže žiakom reálny fotoaparát.
+
+#### Úloha pre žiakov
+Žiaci vo dvojiciach alebo skupinách určujú jednotlivé časti fotoaparátu:
+
+- telo prístroja;
+- objektív;
+- hľadáčik;
+- spúšť;
+- zadná stena;
+- priestor na film;
+- páčka prevíjania filmu;
+- počítadlo snímok;
+- závit na statív.
+
+Ak nie je možné pracovať s reálnymi prístrojmi, žiaci môžu označovať jednotlivé časti na obrázku alebo schéme.
+
+---
+
+### 6. Zhrnutie učiva (4 minúty)
+
+Učiteľ zopakuje hlavné myšlienky:
+
+- Fotoaparát je svetlotesné opticko-mechanické zariadenie.
+- Svetlo vstupuje do fotoaparátu cez objektív.
+- Množstvo svetla riadi clona.
+- Dĺžku osvetlenia filmu určuje uzávierka.
+- Obraz sa zaznamenáva na fotografický film.
+- Dôležité časti fotoaparátu sú telo, objektív, hľadáčik, uzávierka, spúšť a filmová komora.
+
+---
+
+### 7. Overenie vedomostí – otázky pre žiakov (3 minúty)
+
+1. Prečo musí byť telo fotoaparátu svetlotesné?
+2. Akú funkciu má objektív?
+3. Na čo slúži hľadáčik?
+4. Čo sa nachádza vo filmovej komore?
+5. Čo sa stane s filmom, ak otvoríme fotoaparát pri založenom filme?
+6. Akú funkciu má spúšť?
+7. Akou cestou prechádza svetlo vo fotoaparáte?
+
+---
+
+### Domáca úloha
+Nakresli schému klasického fotoaparátu z boku a označ aspoň šesť jeho základných častí.
+
+---
+
+# VYUČOVACIA HODINA Č. 2  
+## Téma: Mechanizmy fotografického prístroja – clona, uzávierka a zrkadlový systém
+
+### Časová dotácia
+45 minút
+
+### Typ vyučovacej hodiny
+Kombinovaná hodina – opakovanie, výklad, názorná ukážka, praktické pozorovanie.
+
+### Hlavný cieľ hodiny
+Žiak rozumie funkcii clony a uzávierky vo fotografickom prístroji, pozná základný princíp zrkadlovky a dokáže vysvetliť, ako tieto mechanizmy ovplyvňujú expozíciu fotografie.
+
+### Vzdelávacie ciele
+
+#### Žiak vie:
+- vysvetliť pojem expozícia;
+- opísať funkciu clony;
+- vysvetliť, čo vyjadruje clonové číslo;
+- opísať funkciu uzávierky;
+- vysvetliť význam expozičného času;
+- opísať princíp jednookej zrkadlovky;
+- uviesť rozdiel medzi otvorenou a zatvorenou clonou;
+- uviesť rozdiel medzi krátkym a dlhým expozičným časom.
+
+### Kľúčové pojmy
+Expozícia, clona, clonové číslo, svetelnosť objektívu, uzávierka, expozičný čas, lamelová uzávierka, centrálna uzávierka, zrkadlo, matnica, pentaprizma, jednooká zrkadlovka.
+
+### Pomôcky
+- filmová zrkadlovka;
+- objektív s nastaviteľnou clonou;
+- schéma clony;
+- schéma rezu zrkadlovkou;
+- prezentácia;
+- pracovný list s otázkami.
+
+---
+
+## Priebeh vyučovacej hodiny
+
+### 1. Organizačná časť (2 minúty)
+- Privítanie.
+- Kontrola prítomnosti.
+- Príprava pomôcok.
+
+---
+
+### 2. Opakovanie predchádzajúcej hodiny (5 minút)
+
+#### Otázky pre žiakov
+1. Aké základné časti má fotoaparát?
+2. Akú funkciu má filmová komora?
+3. Ktorou časťou vstupuje svetlo do fotoaparátu?
+4. Na čo slúži spúšť?
+5. Prečo nesmie do fotoaparátu prenikať nežiaduce svetlo?
+
+Učiteľ nadviaže na odpoveď, že objektív prepúšťa svetlo, ale množstvo a čas pôsobenia svetla regulujú ďalšie mechanizmy.
+
+---
+
+### 3. Motivácia (3 minúty)
+
+Učiteľ položí situáciu:
+
+„Predstavte si, že fotografujeme vonku na silnom slnku a potom v tmavej miestnosti. Bude fotoaparát v oboch situáciách potrebovať rovnaké množstvo svetla? Ako môže množstvo svetla ovplyvniť?“
+
+Žiaci navrhujú odpovede. Učiteľ vysvetlí, že množstvo svetla sa vo fotoaparáte ovláda hlavne clonou a uzávierkou.
+
+---
+
+## 4. Výklad nového učiva (22 minút)
+
+### 4.1 Expozícia
+
+Expozícia je pôsobenie svetla na fotografický film počas fotografovania. Správna expozícia znamená, že film dostane primerané množstvo svetla.
+
+Ak dopadne na film príliš málo svetla, fotografia bude podexponovaná. Výsledok býva príliš tmavý, s malým množstvom detailov v tmavých miestach.
+
+Ak dopadne na film príliš veľa svetla, fotografia bude preexponovaná. Výsledok býva príliš svetlý a svetlé miesta môžu stratiť kresbu.
+
+Expozíciu ovplyvňujú najmä:
+- clona;
+- expozičný čas;
+- citlivosť filmu.
+
+V tejto hodine sa sústredíme na clonu a uzávierku.
+
+---
+
+### 4.2 Clona
+
+Clona je mechanizmus v objektíve, ktorý reguluje veľkosť otvoru, cez ktorý prechádza svetlo.
+
+Clona je zvyčajne vytvorená z kovových lamiel. Tieto lamely sa pohybujú a vytvárajú väčší alebo menší otvor.
+
+#### Funkcie clony
+Clona:
+- reguluje množstvo svetla vstupujúceho do fotoaparátu;
+- ovplyvňuje hĺbku ostrosti;
+- môže ovplyvniť kresbu a charakter obrazu.
+
+Ak je otvor clony veľký, cez objektív prejde viac svetla. Ak je otvor clony malý, cez objektív prejde menej svetla.
+
+---
+
+### 4.3 Clonové čísla
+
+Veľkosť clony sa označuje clonovými číslami, napríklad:
+
+**f/1,4 – f/2 – f/2,8 – f/4 – f/5,6 – f/8 – f/11 – f/16 – f/22**
+
+Dôležité pravidlo:
+
+- malé clonové číslo znamená veľký otvor clony;
+- veľké clonové číslo znamená malý otvor clony.
+
+Napríklad:
+- f/2 je otvorená clona, prepustí veľa svetla;
+- f/16 je zatvorená clona, prepustí málo svetla.
+
+Každý krok v rade clonových čísel približne zdvojnásobuje alebo znižuje množstvo prechádzajúceho svetla na polovicu.
+
+---
+
+### 4.4 Hĺbka ostrosti
+
+Hĺbka ostrosti je priestor pred a za miestom zaostrenia, ktorý sa na fotografii javí ako dostatočne ostrý.
+
+Clona ovplyvňuje hĺbku ostrosti:
+
+- pri otvorenej clone, napríklad f/2 alebo f/2,8, je hĺbka ostrosti menšia;
+- pri zatvorenej clone, napríklad f/11 alebo f/16, je hĺbka ostrosti väčšia.
+
+Otvorenú clonu môžeme použiť napríklad pri portréte, keď chceme mať ostrú tvár a rozostrené pozadie.
+
+Zatvorenú clonu často používame pri krajinárskej fotografii, keď chceme dosiahnuť ostrosť v popredí aj v diaľke.
+
+---
+
+### 4.5 Uzávierka
+
+Uzávierka je mechanizmus, ktorý určuje čas, počas ktorého svetlo dopadá na film.
+
+Po stlačení spúšte sa uzávierka otvorí. Svetlo prechádza cez objektív a clonu na film. Po uplynutí nastaveného času sa uzávierka opäť zatvorí.
+
+Dĺžka otvorenia uzávierky sa označuje ako expozičný čas.
+
+Príklady expozičných časov:
+
+**1/1000 s, 1/500 s, 1/250 s, 1/125 s, 1/60 s, 1/30 s, 1/15 s, 1 s**
+
+- Krátky čas, napríklad 1/500 s, prepustí menej svetla a dokáže zachytiť rýchly pohyb.
+- Dlhý čas, napríklad 1/15 s alebo 1 s, prepustí viac svetla, ale môže spôsobiť rozmazanie pohybujúceho sa objektu alebo chvenie fotoaparátu.
+
+---
+
+### 4.6 Druhy uzávierok
+
+#### Centrálna uzávierka
+Centrálna uzávierka sa nachádza v objektíve alebo medzi šošovkami objektívu. Má lamely, ktoré sa pri expozícii otvoria a zatvoria.
+
+Často sa používala v jednoduchších fotoaparátoch a niektorých stredoformátových prístrojoch.
+
+#### Lamelová alebo štrbinová uzávierka
+Lamelová uzávierka sa nachádza v tele fotoaparátu, tesne pred filmom. Používala sa najmä pri jednookých zrkadlovkách.
+
+Je tvorená závesmi alebo kovovými lamelami, ktoré sa pohybujú pred filmovým políčkom.
+
+---
+
+### 4.7 Jednooká zrkadlovka
+
+Jednooká zrkadlovka je fotoaparát, pri ktorom fotograf pozoruje scénu cez ten istý objektív, ktorým sa následne vytvorí fotografia.
+
+Svetlo prechádza objektívom a dopadá na zrkadlo umiestnené vo vnútri prístroja. Zrkadlo odráža svetlo smerom nahor na matnicu a cez pentaprizmu alebo zrkadlový hranol do hľadáčika.
+
+Pri stlačení spúšte nastane tento proces:
+
+1. zrkadlo sa vyklopí nahor;
+2. uzávierka sa otvorí;
+3. svetlo dopadne priamo na film;
+4. uzávierka sa zatvorí;
+5. zrkadlo sa vráti do pôvodnej polohy.
+
+Výhodou zrkadlovky je presné pozorovanie záberu priamo cez objektív. Fotograf vidí približne rovnaký obraz, aký sa zaznamená na film.
+
+---
+
+### 5. Názorná ukážka a aktivita (8 minút)
+
+Učiteľ ukáže objektív so clonovým krúžkom.
+
+Žiaci pozorujú:
+- ako sa mení otvor clony pri rôznych clonových číslach;
+- že pri f/2 alebo f/2,8 je otvor veľký;
+- že pri f/16 alebo f/22 je otvor malý.
+
+Ak je k dispozícii mechanická zrkadlovka, učiteľ môže po otvorení zadnej steny bez filmu ukázať pohyb zrkadla a uzávierky pri stlačení spúšte.
+
+**Upozornenie:** Fotoaparát sa musí používať opatrne. Žiaci nesmú siahať na zrkadlo, uzávierku ani optické plochy objektívu.
+
+---
+
+### 6. Zhrnutie učiva (3 minúty)
+
+- Clona určuje veľkosť otvoru v objektíve.
+- Otvorená clona prepustí viac svetla.
+- Zatvorená clona prepustí menej svetla.
+- Uzávierka určuje dĺžku pôsobenia svetla na film.
+- Krátky čas pomáha zachytiť pohyb.
+- Dlhý čas môže spôsobiť rozmazanie.
+- Zrkadlovka umožňuje vidieť scénu priamo cez objektív.
+
+---
+
+### 7. Otázky pre žiakov (2 minúty)
+
+1. Čo je expozícia?
+2. Akú funkciu má clona?
+3. Čo znamená clonové číslo f/2?
+4. Čo znamená clonové číslo f/16?
+5. Ktorá clona prepustí viac svetla – f/2,8 alebo f/11?
+6. Akú funkciu má uzávierka?
+7. Kedy použijeme krátky expozičný čas?
+8. Čo sa deje v zrkadlovke po stlačení spúšte?
+
+---
+
+### Domáca úloha
+Napíš krátke vysvetlenie, aký je rozdiel medzi clonou f/2,8 a f/16. Uveď aj príklad, pri ktorom type fotografie by si jednotlivé clony využil.
+
+---
+
+# VYUČOVACIA HODINA Č. 3  
+## Téma: Objektívy – druhy, vlastnosti, ohnisková vzdialenosť a starostlivosť
+
+### Časová dotácia
+45 minút
+
+### Typ vyučovacej hodiny
+Kombinovaná hodina – výklad, ukážka, porovnávanie, praktická aktivita.
+
+### Hlavný cieľ hodiny
+Žiak pozná základné vlastnosti fotografických objektívov, rozlišuje objektívy podľa ohniskovej vzdialenosti a vie vysvetliť ich použitie pri rôznych fotografických situáciách.
+
+### Vzdelávacie ciele
+
+#### Žiak vie:
+- vysvetliť, čo je objektív;
+- opísať základnú stavbu objektívu;
+- vysvetliť pojem ohnisková vzdialenosť;
+- rozlíšiť širokouhlý, normálny a teleobjektív;
+- rozlíšiť pevný objektív a transfokačný objektív;
+- vysvetliť pojem svetelnosť objektívu;
+- uviesť základné zásady starostlivosti o objektívy;
+- vybrať vhodný objektív pre konkrétnu fotografickú situáciu.
+
+### Kľúčové pojmy
+Objektív, optická sústava, šošovka, ohnisková vzdialenosť, uhol záberu, širokouhlý objektív, normálny objektív, teleobjektív, pevné ohnisko, transfokátor, zoom, svetelnosť, makroobjektív, filter, krytka objektívu.
+
+### Pomôcky
+- viac druhov objektívov, ak sú dostupné;
+- fotoaparát s vymeniteľným objektívom;
+- obrázky fotografované širokouhlým, normálnym a teleobjektívom;
+- prezentácia;
+- handrička z mikrovlákna;
+- pracovný list.
+
+---
+
+## Priebeh vyučovacej hodiny
+
+### 1. Organizačná časť (2 minúty)
+- Privítanie žiakov.
+- Kontrola prítomnosti.
+- Príprava pomôcok.
+
+---
+
+### 2. Opakovanie predchádzajúcej hodiny (5 minút)
+
+#### Otázky pre žiakov
+1. Čo je clona?
+2. Aký je rozdiel medzi f/2,8 a f/16?
+3. Čo riadi uzávierka?
+4. Čo je expozičný čas?
+5. Čo sa deje so zrkadlom v zrkadlovke pri expozícii?
+6. Ako ovplyvňuje clona hĺbku ostrosti?
+
+Učiteľ plynule prejde k objektívu ako k časti, ktorá vytvára obraz a výrazne ovplyvňuje vzhľad výslednej fotografie.
+
+---
+
+### 3. Motivácia (3 minúty)
+
+Učiteľ ukáže dve fotografie tej istej alebo podobnej scény: jednu so širokým záberom krajiny a druhú s detailom vzdialeného objektu.
+
+Otázky:
+- „Prečo na jednej fotografii vidíme veľkú časť priestoru a na druhej iba vzdialený detail?“
+- „Mohol by fotograf použiť ten istý objektív v oboch prípadoch?“
+- „Aký objektív by ste použili na fotografovanie športovca na vzdialenom ihrisku?“
+
+---
+
+## 4. Výklad nového učiva (22 minút)
+
+### 4.1 Čo je objektív
+
+Objektív je optická sústava, ktorá sa skladá z jednej alebo viacerých šošoviek. Je umiestnený na prednej strane fotoaparátu a jeho hlavnou úlohou je vytvoriť obraz fotografovanej scény na filme.
+
+Objektív musí zabezpečiť:
+- dostatočný prísun svetla;
+- vytvorenie ostrého obrazu;
+- možnosť zaostriť na rôzne vzdialenosti;
+- čo najmenšie optické chyby;
+- vhodný uhol záberu podľa účelu fotografie.
+
+Objektív výrazne ovplyvňuje charakter fotografie. Neurčuje iba to, koľko sa zmestí do záberu, ale ovplyvňuje aj perspektívu, veľkosť zobrazovaných objektov a dojem z priestoru.
+
+---
+
+### 4.2 Základné časti objektívu
+
+Objektív sa skladá z viacerých častí.
+
+#### Optické členy
+Optické členy sú šošovky alebo skupiny šošoviek. Ich úlohou je lámuť a usmerňovať svetlo tak, aby sa vytvoril obraz.
+
+Šošovky môžu byť:
+- spojné;
+- rozptylné;
+- vypuklé;
+- duté;
+- jednoduché alebo zlepené do skupín.
+
+Kombináciou viacerých šošoviek sa výrobcovia snažia zmenšiť optické chyby.
+
+#### Clona
+Clona sa väčšinou nachádza v objektíve. Reguluje množstvo svetla a ovplyvňuje hĺbku ostrosti.
+
+#### Zaostrovací mechanizmus
+Zaostrovací mechanizmus umožňuje meniť vzdialenosť medzi optickými členmi tak, aby bol fotografovaný predmet na filme zobrazený ostro.
+
+Zaostrovať môžeme na blízke aj vzdialené objekty. Pri nesprávnom zaostrení bude fotografia neostrá.
+
+#### Bajonet alebo závit
+Objektív sa pripája k telu fotoaparátu prostredníctvom bajonetu alebo závitu. Pri vymeniteľných objektívoch musí byť objektív kompatibilný s konkrétnym typom fotoaparátu.
+
+---
+
+### 4.3 Ohnisková vzdialenosť
+
+Ohnisková vzdialenosť je jedna z najdôležitejších vlastností objektívu. Udáva sa v milimetroch, napríklad:
+
+**24 mm, 35 mm, 50 mm, 85 mm, 135 mm, 200 mm**
+
+Ohnisková vzdialenosť ovplyvňuje najmä:
+- uhol záberu;
+- veľkosť objektov v zábere;
+- spôsob zobrazenia priestoru;
+- vhodnosť objektívu pre konkrétny žáner fotografie.
+
+Vo všeobecnosti platí:
+
+- kratšia ohnisková vzdialenosť = širší uhol záberu;
+- dlhšia ohnisková vzdialenosť = užší uhol záberu a väčšie priblíženie vzdialených objektov.
+
+Pri kinofilmovom formáte 24 × 36 mm sa za normálny objektív považuje približne objektív s ohniskovou vzdialenosťou 50 mm.
+
+---
+
+### 4.4 Širokouhlé objektívy
+
+Širokouhlý objektív má kratšiu ohniskovú vzdialenosť než normálny objektív. Pri kinofilme sem patria približne objektívy kratšie než 35 mm.
+
+Príklady:
+- 14 mm;
+- 20 mm;
+- 24 mm;
+- 28 mm;
+- 35 mm.
+
+#### Vlastnosti širokouhlého objektívu
+- zachytáva široký uhol pohľadu;
+- zmestí sa do neho veľká časť priestoru;
+- zdôrazňuje priestor a vzdialenosti;
+- objekty blízko objektívu sa môžu javiť väčšie;
+- vzdialené objekty sa javia menšie;
+- pri nevhodnom použití môže deformovať tvary, najmä pri okrajoch záberu.
+
+#### Použitie
+Širokouhlý objektív sa používa napríklad pri:
+- fotografovaní krajiny;
+- architektúre;
+- fotografovaní interiérov;
+- reportáži;
+- skupinových fotografiách;
+- fotografovaní v malých priestoroch.
+
+---
+
+### 4.5 Normálny objektív
+
+Normálny objektív má približne podobný uhol záberu, aký človek vníma ako prirodzený pri bežnom pohľade. Pri kinofilme je najtypickejší objektív 50 mm.
+
+#### Vlastnosti normálneho objektívu
+- poskytuje prirodzené zobrazenie priestoru;
+- nedeformuje perspektívu tak výrazne ako širokouhlý objektív;
+- je univerzálny;
+- často má dobrú svetelnosť;
+- môže byť vhodný na portrét, dokument, bežné fotografovanie aj zátišie.
+
+Normálny objektív je vhodný najmä na učenie základov fotografie, pretože fotografa vedie k premýšľaniu nad vzdialenosťou od fotografovaného objektu a nad kompozíciou.
+
+---
+
+### 4.6 Teleobjektív
+
+Teleobjektív má dlhšiu ohniskovú vzdialenosť než normálny objektív. Pri kinofilme ide približne o objektívy od 85 mm vyššie.
+
+Príklady:
+- 85 mm;
+- 105 mm;
+- 135 mm;
+- 200 mm;
+- 300 mm.
+
+#### Vlastnosti teleobjektívu
+- má užší uhol záberu;
+- umožňuje fotografovať vzdialené objekty;
+- opticky približuje vzdialený motív;
+- pri rovnakom zábere môže vytvárať dojem stlačenia priestoru;
+- často umožňuje oddeliť objekt od pozadia;
+- pri dlhších ohniskových vzdialenostiach je citlivý na chvenie fotoaparátu.
+
+#### Použitie
+Teleobjektív sa využíva pri:
+- portrétnej fotografii;
+- športovej fotografii;
+- fotografovaní zvierat;
+- fotografovaní udalostí z väčšej vzdialenosti;
+- detailoch architektúry;
+- fotografovaní prírody.
+
+Pri použití teleobjektívu je často vhodné použiť kratší expozičný čas alebo statív, aby sa znížilo riziko rozmazania spôsobeného pohybom fotoaparátu.
+
+---
+
+### 4.7 Pevný objektív a transfokačný objektív
+
+#### Pevný objektív
+Pevný objektív má jednu nemennú ohniskovú vzdialenosť, napríklad 35 mm, 50 mm alebo 85 mm.
+
+Výhody:
+- často lepšia svetelnosť;
+- jednoduchšia konštrukcia;
+- často kvalitná kresba;
+- menšie rozmery a nižšia hmotnosť.
+
+Nevýhodou je, že fotograf musí meniť svoju polohu alebo vymeniť objektív, ak chce zmeniť veľkosť záberu.
+
+#### Transfokačný objektív
+Transfokačný objektív, často označovaný aj ako zoom, umožňuje meniť ohniskovú vzdialenosť v určitom rozsahu, napríklad 28 – 80 mm alebo 70 – 210 mm.
+
+Výhody:
+- väčšia univerzálnosť;
+- rýchla zmena výrezu;
+- nemusíme tak často meniť objektív.
+
+Nevýhody:
+- môže mať nižšiu svetelnosť ako pevný objektív;
+- môže byť väčší a ťažší;
+- pri lacnejších typoch môže mať slabšiu kresbu alebo viac optických chýb.
+
+---
+
+### 4.8 Svetelnosť objektívu
+
+Svetelnosť objektívu vyjadruje, koľko svetla dokáže objektív prepustiť pri maximálne otvorenej clone.
+
+Objektív môže mať napríklad označenie:
+
+- 50 mm f/1,8;
+- 50 mm f/1,4;
+- 85 mm f/2;
+- 28–80 mm f/3,5–5,6.
+
+Menšie clonové číslo znamená vyššiu svetelnosť. Svetelný objektív umožňuje fotografovať aj pri slabšom svetle a zároveň poskytuje možnosť pracovať s malou hĺbkou ostrosti.
+
+---
+
+### 4.9 Špeciálne objektívy
+
+#### Makroobjektív
+Makroobjektív je určený na fotografovanie malých predmetov z malej vzdialenosti. Umožňuje zachytiť detail kvetu, hmyzu, štruktúry materiálu alebo drobných predmetov.
+
+#### Rybí objektív
+Rybí objektív má veľmi široký uhol záberu. Vytvára výrazné zakrivenie línií a špecifický výtvarný efekt.
+
+#### Portrétny objektív
+Za portrétne objektívy sa často považujú objektívy približne v rozsahu 85 až 135 mm pri kinofilme. Poskytujú prirodzenejšie zobrazenie tváre než veľmi širokouhlé objektívy.
+
+---
+
+### 4.10 Starostlivosť o objektívy
+
+Objektív je presný optický prístroj, preto s ním treba zaobchádzať opatrne.
+
+Zásady starostlivosti:
+- objektív prenášame s nasadenou krytkou;
+- optické plochy sa nedotýkame prstami;
+- prach odstraňujeme ofukovacím balónikom alebo jemným štetcom;
+- sklo čistíme len čistou handričkou z mikrovlákna;
+- objektív chránime pred nárazmi, vlhkosťou a prachom;
+- pri výmene objektívu chránime vnútro fotoaparátu pred prachom;
+- objektív odkladáme do puzdra alebo brašne;
+- objektív nikdy nečistíme hrubou látkou, papierovou vreckovkou alebo nevhodnými chemikáliami.
+
+---
+
+## 5. Aktivita pre žiakov (8 minút)
+
+### Aktivita: Vyber správny objektív
+
+Učiteľ uvedie situácie. Žiaci pracujú samostatne alebo vo dvojiciach a určujú vhodný typ objektívu.
+
+#### Situácie
+1. Chceš odfotografovať rozsiahlu horskú krajinu.  
+2. Chceš odfotografovať spolužiaka pri športovom zápase z tribúny.  
+3. Chceš vytvoriť prirodzene pôsobiaci portrét spolužiaka.  
+4. Chceš odfotografovať interiér malej miestnosti.  
+5. Chceš zachytiť detail motýľa alebo kvetu.  
+6. Chceš mať jeden univerzálny objektív na viac rôznych situácií.
+
+#### Možné odpovede
+1. Širokouhlý objektív.  
+2. Teleobjektív.  
+3. Normálny alebo portrétny objektív.  
+4. Širokouhlý objektív.  
+5. Makroobjektív.  
+6. Transfokačný objektív.
+
+---
+
+## 6. Zhrnutie učiva (3 minúty)
+
+- Objektív vytvára obraz na filme.
+- Ohnisková vzdialenosť sa udáva v milimetroch.
+- Krátke ohnisko poskytuje široký uhol záberu.
+- Dlhé ohnisko umožňuje priblíženie vzdialených objektov.
+- Normálny objektív poskytuje prirodzené zobrazenie.
+- Pevné objektívy majú jednu ohniskovú vzdialenosť.
+- Transfokačné objektívy umožňujú meniť ohniskovú vzdialenosť.
+- O objektívy sa treba starať, chrániť ich pred prachom, vlhkosťou a poškodením.
+
+---
+
+## 7. Otázky pre žiakov (2 minúty)
+
+1. Čo je objektív?
+2. Čo vyjadruje ohnisková vzdialenosť?
+3. Ktorý objektív má širší uhol záberu – 24 mm alebo 200 mm?
+4. Na čo sa používa teleobjektív?
+5. Ktorý objektív je vhodný na fotografovanie krajiny?
+6. Aký je rozdiel medzi pevným a transfokačným objektívom?
+7. Čo znamená, že objektív je svetelný?
+8. Ako správne vyčistíme prednú šošovku objektívu?
+9. Prečo sa nemáme dotýkať šošoviek prstami?
+
+---
+
+### Domáca úloha
+Vyber si tri fotografické situácie z bežného života a ku každej navrhni vhodný objektív. Svoje rozhodnutie stručne zdôvodni.
+
+---
+
+# TEXT DO PREZENTÁCIE  
+## Konštrukcia fotografického prístroja a objektívy  
+### Text rozdelený na snímky
+
+---
+
+## SNÍMKA 1 – Názov
+# Konštrukcia fotografického prístroja a objektívy
+
+- Klasický fotografický prístroj
+- Základné časti fotoaparátu
+- Clona a uzávierka
+- Druhy objektívov
+- Ohnisková vzdialenosť
+- Starostlivosť o objektívy
+
+---
+
+## SNÍMKA 2 – Fotografický prístroj
+# Čo je fotografický prístroj?
+
+Fotografický prístroj alebo fotoaparát je opticko-mechanické zariadenie, ktoré umožňuje zaznamenať obraz pomocou svetla.
+
+Pri klasickej fotografii sa obraz zaznamenáva na svetlocitlivý fotografický film.
+
+Hlavnou úlohou fotoaparátu je usmerniť svetlo, regulovať jeho množstvo a určiť čas, počas ktorého svetlo pôsobí na film.
+
+---
+
+## SNÍMKA 3 – Základný princíp
+# Ako vzniká fotografia?
+
+Svetlo sa odráža od fotografovaného objektu a vstupuje do fotoaparátu cez objektív.
+
+Cesta svetla vo fotoaparáte:
+
+**fotografovaná scéna → objektív → clona → uzávierka → film**
+
+Na fotografickom filme vznikne po expozícii voľným okom neviditeľný latentný obraz. Viditeľný obraz vznikne až po chemickom vyvolaní filmu.
+
+---
+
+## SNÍMKA 4 – Svetlotesnosť fotoaparátu
+# Prečo musí byť fotoaparát svetlotesný?
+
+Telo fotoaparátu musí zabrániť prenikaniu nežiaduceho svetla k filmu.
+
+Ak by do filmovej komory preniklo svetlo cez netesnosť alebo pri otvorení zadnej steny fotoaparátu, film by sa mohol osvietiť a znehodnotiť.
+
+Svetlo má vstupovať do fotoaparátu iba cez objektív.
+
+---
+
+## SNÍMKA 5 – Základné časti fotoaparátu
+# Základné časti fotoaparátu
+
+- telo fotoaparátu;
+- objektív;
+- hľadáčik;
+- spúšť;
+- uzávierka;
+- clona;
+- filmová komora;
+- obrazové okienko;
+- mechanizmus posunu filmu;
+- počítadlo snímok;
+- závit na statív.
+
+---
+
+## SNÍMKA 6 – Telo fotoaparátu
+# Telo fotoaparátu
+
+Telo fotoaparátu tvorí základnú nosnú časť prístroja.
+
+Jeho úlohou je:
+- chrániť vnútorné mechanizmy;
+- vytvárať svetlotesný priestor;
+- držať film v správnej polohe;
+- umožniť upevnenie objektívu;
+- obsahovať ovládacie prvky fotoaparátu.
+
+---
+
+## SNÍMKA 7 – Filmová komora
+# Filmová komora a fotografický film
+
+Filmová komora je priestor, do ktorého sa vkladá fotografický film.
+
+Film sa vo fotoaparáte:
+1. odvíja z kazety;
+2. prechádza cez obrazové okienko;
+3. navíja sa na navíjaciu cievku.
+
+Pri otvorení zadnej steny fotoaparátu so založeným filmom hrozí osvietenie a zničenie snímok.
+
+---
+
+## SNÍMKA 8 – Hľadáčik a spúšť
+# Hľadáčik a spúšť
+
+**Hľadáčik** slúži na pozorovanie fotografovanej scény a voľbu výrezu fotografie.
+
+**Spúšť** aktivuje expozíciu. Po jej stlačení sa otvorí uzávierka a svetlo dopadne na film.
+
+Spúšť stláčame jemne, aby sme nerozhýbali fotoaparát a nespôsobili neostrosť fotografie.
+
+---
+
+## SNÍMKA 9 – Expozícia
+# Čo je expozícia?
+
+Expozícia je pôsobenie svetla na fotografický film.
+
+Správna expozícia závisí najmä od:
+- clony;
+- expozičného času;
+- citlivosti filmu.
+
+Príliš málo svetla spôsobí podexponovanie fotografie. Príliš veľa svetla spôsobí preexponovanie fotografie.
+
+---
+
+## SNÍMKA 10 – Clona
+# Clona
+
+Clona je mechanizmus umiestnený v objektíve.
+
+Je tvorená lamelami, ktoré vytvárajú väčší alebo menší otvor.
+
+Clona:
+- reguluje množstvo svetla;
+- ovplyvňuje hĺbku ostrosti;
+- ovplyvňuje vzhľad výslednej fotografie.
+
+---
+
+## SNÍMKA 11 – Clonové čísla
+# Clonové čísla
+
+Príklady clonových čísel:
+
+**f/1,4 – f/2 – f/2,8 – f/4 – f/5,6 – f/8 – f/11 – f/16 – f/22**
+
+Platí:
+
+- malé clonové číslo = veľký otvor clony = viac svetla;
+- veľké clonové číslo = malý otvor clony = menej svetla.
+
+Príklad:
+- f/2,8 prepustí viac svetla než f/16.
+
+---
+
+## SNÍMKA 12 – Clona a hĺbka ostrosti
+# Clona a hĺbka ostrosti
+
+Hĺbka ostrosti je priestor pred a za miestom zaostrenia, ktorý sa na fotografii javí ako ostrý.
+
+- otvorená clona, napríklad f/2,8 = menšia hĺbka ostrosti;
+- zatvorená clona, napríklad f/11 alebo f/16 = väčšia hĺbka ostrosti.
+
+Otvorená clona je vhodná napríklad pri portréte. Zatvorená clona je vhodná napríklad pri krajine.
+
+---
+
+## SNÍMKA 13 – Uzávierka
+# Uzávierka
+
+Uzávierka určuje čas, počas ktorého svetlo dopadá na film.
+
+Po stlačení spúšte sa uzávierka otvorí. Po uplynutí nastaveného času sa opäť zatvorí.
+
+Expozičný čas môže byť napríklad:
+
+**1/1000 s, 1/500 s, 1/125 s, 1/60 s, 1/30 s, 1 s**
+
+---
+
+## SNÍMKA 14 – Krátky a dlhý expozičný čas
+# Expozičný čas
+
+**Krátky expozičný čas**
+- prepustí menej svetla;
+- pomáha zachytiť rýchly pohyb;
+- príklad: 1/500 s.
+
+**Dlhý expozičný čas**
+- prepustí viac svetla;
+- môže spôsobiť rozmazanie pohybu;
+- často vyžaduje použitie statívu;
+- príklad: 1/15 s alebo 1 s.
+
+---
+
+## SNÍMKA 15 – Druhy uzávierok
+# Druhy uzávierok
+
+**Centrálna uzávierka**
+- nachádza sa v objektíve;
+- pracuje pomocou lamiel;
+- používala sa najmä v jednoduchších fotoaparátoch.
+
+**Lamelová alebo štrbinová uzávierka**
+- nachádza sa v tele fotoaparátu pred filmom;
+- používala sa najmä pri jednookých zrkadlovkách.
+
+---
+
+## SNÍMKA 16 – Jednooká zrkadlovka
+# Princíp jednookej zrkadlovky
+
+Pri jednookej zrkadlovke fotograf vidí scénu cez ten istý objektív, ktorým sa vytvorí fotografia.
+
+Cesta svetla pri pozorovaní:
+
+**objektív → zrkadlo → matnica → pentaprizma → hľadáčik**
+
+Pri stlačení spúšte:
+1. zrkadlo sa vyklopí;
+2. uzávierka sa otvorí;
+3. svetlo dopadne na film;
+4. uzávierka sa zatvorí;
+5. zrkadlo sa vráti späť.
+
+---
+
+## SNÍMKA 17 – Objektív
+# Čo je objektív?
+
+Objektív je optická sústava zložená z jednej alebo viacerých šošoviek.
+
+Jeho úlohou je:
+- zhromaždiť svetlo;
+- vytvoriť ostrý obraz;
+- premietnuť obraz na film;
+- umožniť zaostrenie;
+- určiť uhol záberu.
+
+Objektív výrazne ovplyvňuje charakter fotografie.
+
+---
+
+## SNÍMKA 18 – Časti objektívu
+# Základné časti objektívu
+
+- optické členy – šošovky a skupiny šošoviek;
+- clona;
+- zaostrovací mechanizmus;
+- clonový krúžok;
+- zaostrovací krúžok;
+- bajonet alebo závit na pripojenie k fotoaparátu;
+- predný závit na filter;
+- krytka objektívu.
+
+---
+
+## SNÍMKA 19 – Ohnisková vzdialenosť
+# Ohnisková vzdialenosť
+
+Ohnisková vzdialenosť sa udáva v milimetroch.
+
+Príklady:
+
+**24 mm, 35 mm, 50 mm, 85 mm, 135 mm, 200 mm**
+
+Ohnisková vzdialenosť ovplyvňuje:
+- uhol záberu;
+- veľkosť objektov v zábere;
+- zobrazenie priestoru;
+- vhodnosť objektívu pre konkrétnu situáciu.
+
+---
+
+## SNÍMKA 20 – Druhy objektívov
+# Rozdelenie objektívov podľa ohniskovej vzdialenosti
+
+**Širokouhlý objektív**
+- krátka ohnisková vzdialenosť;
+- široký uhol záberu;
+- napríklad 24 mm alebo 28 mm.
+
+**Normálny objektív**
+- prirodzené zobrazenie;
+- pri kinofilme približne 50 mm.
+
+**Teleobjektív**
+- dlhá ohnisková vzdialenosť;
+- užší uhol záberu;
+- napríklad 85 mm, 135 mm alebo 200 mm.
+
+---
+
+## SNÍMKA 21 – Širokouhlý objektív
+# Širokouhlý objektív
+
+Širokouhlý objektív zachytáva veľkú časť priestoru.
+
+Vhodný je na:
+- krajinu;
+- architektúru;
+- interiéry;
+- reportáž;
+- skupinové fotografie.
+
+Vlastnosti:
+- rozširuje priestor;
+- zvýrazňuje blízke predmety;
+- pri nevhodnom použití môže deformovať línie a tvary.
+
+---
+
+## SNÍMKA 22 – Normálny objektív
+# Normálny objektív
+
+Normálny objektív poskytuje prirodzené zobrazenie priestoru.
+
+Pri kinofilmovom fotoaparáte je typickým normálnym objektívom objektív s ohniskovou vzdialenosťou 50 mm.
+
+Vhodný je na:
+- bežné fotografovanie;
+- dokument;
+- zátišie;
+- portrét;
+- učenie základov kompozície.
+
+---
+
+## SNÍMKA 23 – Teleobjektív
+# Teleobjektív
+
+Teleobjektív má dlhú ohniskovú vzdialenosť a užší uhol záberu.
+
+Vhodný je na:
+- fotografovanie športu;
+- fotografovanie zvierat;
+- portrét;
+- fotografovanie vzdialených objektov;
+- detail architektúry.
+
+Pri teleobjektíve je potrebné dávať pozor na chvenie fotoaparátu. Pomôcť môže kratší expozičný čas alebo statív.
+
+---
+
+## SNÍMKA 24 – Pevný objektív a transfokátor
+# Pevný objektív a transfokačný objektív
+
+**Pevný objektív**
+- má jednu ohniskovú vzdialenosť;
+- príklad: 50 mm;
+- často má lepšiu svetelnosť;
+- býva menší a ľahší.
+
+**Transfokačný objektív**
+- umožňuje meniť ohniskovú vzdialenosť;
+- príklad: 28–80 mm;
+- je univerzálnejší;
+- umožňuje meniť výrez bez výmeny objektívu.
+
+---
+
+## SNÍMKA 25 – Svetelnosť objektívu
+# Svetelnosť objektívu
+
+Svetelnosť vyjadruje, koľko svetla dokáže objektív prepustiť pri maximálne otvorenej clone.
+
+Príklady označenia:
+
+- 50 mm f/1,8;
+- 50 mm f/1,4;
+- 85 mm f/2;
+- 28–80 mm f/3,5–5,6.
+
+Menšie clonové číslo znamená vyššiu svetelnosť objektívu.
+
+Svetelný objektív je vhodný na fotografovanie pri slabšom osvetlení a na prácu s malou hĺbkou ostrosti.
+
+---
+
+## SNÍMKA 26 – Špeciálne objektívy
+# Špeciálne objektívy
+
+**Makroobjektív**
+- určený na detailné fotografovanie malých predmetov;
+- vhodný na kvety, hmyz a štruktúry.
+
+**Rybí objektív**
+- má extrémne široký uhol záberu;
+- vytvára výrazné zakrivenie línií.
+
+**Portrétny objektív**
+- často v rozsahu približne 85 až 135 mm;
+- vhodný na prirodzenejšie zobrazenie tváre.
+
+---
+
+## SNÍMKA 27 – Starostlivosť o objektív
+# Ako sa starať o objektív?
+
+- Objektív prenášame s nasadenou krytkou.
+- Nedotýkame sa šošoviek prstami.
+- Prach odstraňujeme ofukovacím balónikom alebo jemným štetcom.
+- Sklo čistíme handričkou z mikrovlákna.
+- Chránime objektív pred nárazmi, vlhkosťou a prachom.
+- Objektív odkladáme do puzdra alebo fotobrašne.
+- Pri výmene objektívu chránime vnútro fotoaparátu pred prachom.
+
+---
+
+## SNÍMKA 28 – Otázky na opakovanie
+# Otázky na opakovanie
+
+1. Prečo musí byť fotoaparát svetlotesný?  
+2. Akú funkciu má clona?  
+3. Čo určuje uzávierka?  
+4. Čo znamená clonové číslo f/2,8?  
+5. Ktorý objektív je vhodný na fotografovanie krajiny?  
+6. Ktorý objektív použijeme na vzdialený športový výkon?  
+7. Aký je rozdiel medzi pevným a transfokačným objektívom?  
+8. Ako správne čistíme objektív?  
+
+---
+
+## SNÍMKA 29 – Zhrnutie
+# Zhrnutie
+
+- Fotoaparát je svetlotesné opticko-mechanické zariadenie.
+- Svetlo vstupuje cez objektív.
+- Clona riadi množstvo svetla.
+- Uzávierka určuje dĺžku expozície.
+- Film zaznamenáva obraz vytvorený objektívom.
+- Ohnisková vzdialenosť určuje uhol záberu.
+- Širokouhlý objektív zachytí veľký priestor.
+- Teleobjektív umožňuje fotografovať vzdialené objekty.
+- Objektívy vyžadujú opatrnú manipuláciu a pravidelnú starostlivosť.
