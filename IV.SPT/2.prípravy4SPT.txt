@@ -1,0 +1,451 @@
+```txt
+PRÍPRAVA NA VYUČOVACIU HODINU
+
+Predmet: Spracovanie obrazu a textu
+Ročník: 4. ročník – grafik digitálnych médií
+Tematický celok: Základné práce s programom na tvorbu 3D
+Téma hodiny: Základné pojmy v 3D grafike
+Časová dotácia: 45 minút
+Nadväznosť: Predchádzajúca hodina – Úvod do 3D grafiky v Adobe Illustratore
+Nasledujúca téma: Základné princípy modelovania a dizajnu
+
+--------------------------------------------------
+VÝCHOVNO-VZDELÁVACÍ CIEĽ HODINY
+--------------------------------------------------
+
+Hlavný cieľ:
+Žiaci charakterizujú 3D grafiku a osvoja si základné pojmy používané pri tvorbe a úprave 3D objektov.
+
+Vzdelávacie ciele:
+Žiak po skončení hodiny:
+- vysvetlí rozdiel medzi 2D a 3D grafikou,
+- vysvetlí význam troch rozmerov: šírka, výška a hĺbka,
+- rozpozná osi súradnicového systému X, Y a Z,
+- pomenuje základné časti 3D modelu: vrchol, hrana, plocha/polygón,
+- vysvetlí pojmy 3D objekt, sieť/model (mesh), primitíva,
+- charakterizuje pojmy scéna, kamera, svetlo, materiál, textúra a render,
+- uvedie, kde sa s týmito pojmami stretne v Adobe Illustratore alebo inom 3D programe.
+
+Kompetencie:
+- odborné: používanie základnej terminológie 3D grafiky,
+- digitálne: orientácia v nástrojoch grafického softvéru,
+- komunikačné: vecné vysvetlenie odborného pojmu,
+- sociálne: spolupráca pri krátkej skupinovej aktivite.
+
+--------------------------------------------------
+METÓDY A FORMY PRÁCE
+--------------------------------------------------
+
+Metódy:
+- motivačný rozhovor,
+- výklad s prezentáciou,
+- demonštrácia v Adobe Illustratore,
+- riadený rozhovor,
+- krátka praktická/identifikačná aktivita,
+- opakovanie formou kvízu.
+
+Formy práce:
+- frontálna výučba,
+- individuálna práca,
+- práca vo dvojiciach alebo menších skupinách.
+
+Pomôcky:
+- počítač učiteľa s Adobe Illustratorom,
+- dataprojektor alebo interaktívna tabuľa,
+- prezentácia,
+- pripravený jednoduchý 3D objekt v Adobe Illustratore (napr. kocka, valec alebo text s efektom 3D),
+- prípadne pracovný list / vytlačené kartičky s pojmami.
+
+--------------------------------------------------
+ČASOVÝ PLÁN HODINY – 45 MINÚT
+--------------------------------------------------
+
+1. Organizačná časť a motivácia (0 – 5 min.)
+
+Činnosť učiteľa:
+- Privíta žiakov a nadviaže na predchádzajúcu hodinu.
+- Položí otázky:
+  „Čo ste si zapamätali z minulej hodiny o 3D v Adobe Illustratore?“
+  „Čo robí z obyčajného štvorca kocku?“
+  „Prečo niektoré obrázky pôsobia priestorovo, aj keď sú zobrazené na ploche monitora?“
+
+Predpokladané odpovede žiakov:
+- hĺbka,
+- perspektíva,
+- tieň,
+- svetlo,
+- objem,
+- priestorový efekt.
+
+Motivačná veta:
+„Pri tvorbe 3D grafiky nestačí vedieť použiť efekt. Potrebujeme rozumieť aj jazyku 3D grafiky – teda tomu, z čoho sa model skladá, ako ho vidí kamera a prečo výsledok ovplyvňuje svetlo či materiál.“
+
+2. Výklad: Čo je 3D priestor a súradnicový systém (5 – 13 min.)
+
+Obsah:
+- Rozdiel medzi 2D a 3D grafikou.
+- Tri rozmery objektu: šírka, výška, hĺbka.
+- Osi X, Y, Z.
+- Umiestnenie objektu v priestore pomocou súradníc.
+
+Demonštrácia:
+- Na tabuli alebo v Illustratore ukázať jednoduchý objekt.
+- Vysvetliť, že v 2D sa objekt pohybuje najmä po ploche, zatiaľ čo v 3D priestore môže byť posunutý aj dopredu a dozadu.
+
+3. Výklad: Z čoho sa skladá 3D model (13 – 23 min.)
+
+Obsah:
+- 3D objekt/model.
+- Primitíva: kocka, guľa, valec, kužeľ, rovina.
+- Vrchol (vertex).
+- Hrana (edge).
+- Plocha/polygón (face/polygon).
+- Sieť modelu (mesh).
+
+Demonštrácia:
+- Zobraziť obrázok drôteného modelu kocky alebo gule.
+- Žiaci určujú: vrchol, hrana, plocha.
+- Zdôrazniť, že väčší počet polygónov väčšinou znamená hladší a detailnejší objekt, ale zároveň môže zvyšovať nároky na výkon počítača.
+
+4. Výklad: Základné prvky 3D scény (23 – 33 min.)
+
+Obsah:
+- Scéna.
+- Objekt.
+- Kamera.
+- Svetlo.
+- Materiál.
+- Textúra.
+- Renderovanie.
+
+Prepojenie s Adobe Illustratorom:
+- Illustrator umožňuje vytvárať priestorový vzhľad objektov, napríklad pomocou funkcií 3D a Materials.
+- Pri práci s 3D efektmi môžeme nastavovať otočenie objektu, perspektívu, materiál a osvetlenie.
+- Výsledný vzhľad objektu je ovplyvnený nielen jeho tvarom, ale aj svetlom, povrchom a pohľadom kamery.
+
+5. Aktivita: Pomenuj prvky 3D scény (33 – 40 min.)
+
+Možnosť A – ústna aktivita:
+Učiteľ zobrazí obrázok jednoduchej 3D scény, napríklad kocku na podlahe osvetlenú z jednej strany.
+Žiaci odpovedajú:
+- Kde je objekt?
+- Kde je zdroj svetla?
+- Čo predstavuje kamera?
+- Ktorá časť určuje farbu a povrch objektu?
+- Čo je výsledkom renderovania?
+
+Možnosť B – aktivita vo dvojiciach:
+Každá dvojica dostane pojmy a definície, ktoré má správne spojiť.
+
+Pojmy:
+- vrchol,
+- hrana,
+- polygón,
+- sieť,
+- kamera,
+- svetlo,
+- materiál,
+- textúra,
+- render.
+
+6. Zhrnutie, overenie vedomostí a záver (40 – 45 min.)
+
+Rýchly kvíz – otázky:
+1. Aký rozmer pridáva 3D grafika oproti 2D grafike?
+2. Ktorá os vyjadruje hĺbku?
+3. Ako nazývame bod, v ktorom sa stretávajú hrany modelu?
+4. Ako sa nazýva sústava vrcholov, hrán a plôch 3D objektu?
+5. Ktorý prvok určuje pohľad diváka na scénu?
+6. Ako nazývame proces vytvorenia výsledného obrázka zo scény?
+
+Záverečná veta:
+„3D grafika nie je len priestorový efekt. Je to práca s objektmi v priestore, ich tvarom, povrchom, svetlom, kamerou a výsledným renderom.“
+
+Domáca úloha – voliteľná:
+Nájdite na internete alebo vo videohre jeden 3D objekt a napíšte:
+- z akých základných tvarov by sa mohol vytvoriť,
+- aký materiál má jeho povrch,
+- odkiaľ naň pravdepodobne svieti svetlo,
+- či by mal mať veľa alebo málo polygónov.
+
+--------------------------------------------------
+HODNOTENIE
+--------------------------------------------------
+
+Formatívne hodnotenie počas hodiny:
+- aktivita žiakov pri odpovediach,
+- správne používanie odborných pojmov,
+- zapojenie do skupinovej aktivity,
+- výsledok záverečného kvízu.
+
+Kritériá úspešnosti:
+Žiak zvládol tému, ak:
+- pomenuje aspoň 6 základných pojmov 3D grafiky,
+- správne vysvetlí rozdiel medzi 2D a 3D grafikou,
+- rozlíši vrchol, hranu a plochu modelu,
+- vysvetlí základnú úlohu kamery, svetla a renderu.
+
+==================================================
+TEXT DO PREZENTÁCIE – ROZDELENÝ NA SLIDY
+==================================================
+
+SLIDE 1 – NÁZOV HODINY
+
+ZÁKLADNÉ POJMY V 3D GRAFIKE
+
+Spracovanie obrazu a textu
+4. ročník – grafik digitálnych médií
+
+
+SLIDE 2 – CIEĽ HODINY
+
+Po dnešnej hodine budem vedieť:
+
+- vysvetliť rozdiel medzi 2D a 3D grafikou,
+- pomenovať základné časti 3D modelu,
+- orientovať sa v pojmoch kamera, svetlo, materiál a render,
+- používať základnú terminológiu 3D grafiky.
+
+
+SLIDE 3 – 2D A 3D GRAFIKA
+
+2D grafika
+
+- pracuje na ploche,
+- má šírku a výšku,
+- príklad: fotografia, plagát, logo, ilustrácia.
+
+3D grafika
+
+- pracuje s priestorom,
+- má šírku, výšku a hĺbku,
+- objekt môže pôsobiť ako reálny priestorový predmet.
+
+
+SLIDE 4 – TRI ROZMERY
+
+3D objekt má tri rozmery:
+
+- šírka,
+- výška,
+- hĺbka.
+
+Príklad:
+Štvorec je 2D tvar.
+Kocka je 3D objekt.
+
+Hĺbka vytvára dojem priestoru a objemu.
+
+
+SLIDE 5 – SÚRADNICOVÝ SYSTÉM V 3D
+
+Poloha objektu v 3D priestore sa určuje pomocou troch osí:
+
+- os X = pohyb doľava a doprava,
+- os Y = pohyb hore a dole,
+- os Z = pohyb dopredu a dozadu.
+
+Každý objekt môže mať vlastnú polohu, veľkosť a otočenie.
+
+
+SLIDE 6 – ZÁKLADNÉ 3D PRIMITÍVA
+
+Primitíva sú jednoduché základné 3D tvary.
+
+Medzi najčastejšie patria:
+
+- kocka,
+- guľa,
+- valec,
+- kužeľ,
+- rovina,
+- torus (prstenec).
+
+Z primitív môžeme vytvárať zložitejšie modely.
+
+
+SLIDE 7 – 3D OBJEKT A MODEL
+
+3D objekt alebo 3D model
+
+- je digitálne vytvorený priestorový predmet,
+- môže predstavovať reálny alebo vymyslený objekt,
+- môže to byť napríklad produkt, postava, budova, auto alebo logo.
+
+Modelovanie je proces vytvárania 3D objektu.
+
+
+SLIDE 8 – VRCHOL, HRANA, PLOCHA
+
+Základné časti 3D modelu:
+
+Vrchol (vertex)
+- bod v priestore.
+
+Hrana (edge)
+- spojenie dvoch vrcholov.
+
+Plocha alebo polygón (face/polygon)
+- plocha ohraničená hranami.
+
+Tieto prvky spolu vytvárajú tvar modelu.
+
+
+SLIDE 9 – SIEŤ MODELU / MESH
+
+Mesh = sieť 3D modelu
+
+- je sústava vrcholov, hrán a plôch,
+- tvorí základnú konštrukciu objektu,
+- môže mať jednoduchú alebo veľmi hustú štruktúru.
+
+Viac polygónov:
+- viac detailov,
+- hladší tvar,
+- väčšie nároky na výkon počítača.
+
+
+SLIDE 10 – LOW POLY A HIGH POLY
+
+Low poly model
+
+- má menší počet polygónov,
+- je jednoduchší,
+- rýchlejšie sa zobrazuje,
+- používa sa napríklad v mobilných hrách alebo štylizovanej grafike.
+
+High poly model
+
+- má veľa polygónov,
+- obsahuje viac detailov,
+- môže pôsobiť realistickejšie,
+- je náročnejší na výkon.
+
+
+SLIDE 11 – 3D SCÉNA
+
+3D scéna je prostredie, v ktorom sa nachádzajú prvky 3D grafiky.
+
+Scéna môže obsahovať:
+
+- objekty,
+- kameru,
+- svetlá,
+- materiály,
+- pozadie,
+- podlahu alebo prostredie.
+
+Výsledný obrázok vzniká nastavením všetkých týchto prvkov.
+
+
+SLIDE 12 – KAMERA
+
+Kamera určuje, z akého pohľadu vidíme 3D scénu.
+
+Kamera ovplyvňuje:
+
+- uhol pohľadu,
+- vzdialenosť od objektu,
+- perspektívu,
+- výrez výsledného obrazu.
+
+Kamera v 3D funguje podobne ako fotoaparát alebo kamera v reálnom svete.
+
+
+SLIDE 13 – SVETLO
+
+Svetlo umožňuje vidieť tvar a objem 3D objektu.
+
+Svetlo ovplyvňuje:
+
+- jas objektu,
+- tiene,
+- atmosféru scény,
+- vnímanie materiálu a povrchu.
+
+Bez vhodného svetla môže aj kvalitný model pôsobiť plocho alebo nečitateľne.
+
+
+SLIDE 14 – MATERIÁL A TEXTÚRA
+
+Materiál určuje, ako sa povrch objektu správa.
+
+Materiál môže byť napríklad:
+
+- kovový,
+- plastový,
+- sklenený,
+- drevený,
+- matný,
+- lesklý.
+
+Textúra je obraz alebo vzor aplikovaný na povrch objektu.
+
+Príklady textúr:
+- drevo,
+- tehla,
+- látka,
+- hrdza,
+- koža.
+
+
+SLIDE 15 – RENDER
+
+Renderovanie alebo render
+
+- je proces výpočtu výsledného obrázka zo 3D scény,
+- zohľadňuje tvar objektov, materiály, svetlá, tiene a kameru,
+- výsledkom môže byť obrázok alebo animácia.
+
+Zjednodušene:
+Model + materiál + svetlo + kamera = render
+
+
+SLIDE 16 – 3D V ADOBE ILLUSTRATORE
+
+Adobe Illustrator umožňuje pracovať s priestorovým vzhľadom objektov.
+
+Vo funkciách 3D a Materials môžeme upravovať:
+
+- otočenie objektu,
+- hĺbku a objem,
+- perspektívu,
+- materiál,
+- svetlo,
+- tieňovanie.
+
+Illustrator nie je primárne určený na komplexné 3D modelovanie, ale dokáže vytvoriť kvalitné 3D efekty pre ilustrácie, obaly, logá a typografiu.
+
+
+SLIDE 17 – ZHRNUTIE POJMOV
+
+Základné pojmy 3D grafiky:
+
+- 3D priestor,
+- osi X, Y, Z,
+- 3D objekt / model,
+- primitíva,
+- vrchol,
+- hrana,
+- polygón,
+- mesh,
+- scéna,
+- kamera,
+- svetlo,
+- materiál,
+- textúra,
+- render.
+
+
+SLIDE 18 – RÝCHLY KVÍZ
+
+1. Aký rozmer má 3D grafika navyše oproti 2D grafike?
+2. Čo predstavuje os Z?
+3. Ako nazývame bod 3D modelu?
+4. Čo je mesh?
+5. Na čo slúži kamera?
+6. Čo ovplyvňuje svetlo?
+7. Čo je render?
+
+```
+
