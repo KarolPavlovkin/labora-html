@@ -1,0 +1,101 @@
+## Príprava na vyučovaciu hodinu: Adobe Photoshop – Vrstvy
+
+**Predmet:** Odborné výcvik / Aplikovaná informatika / Praktické cvičenia
+
+**Odbor:** Grafik digitálnych médií (1. ročník)
+
+**Téma:** Základy práce s vrstvami (Layers) v Adobe Photoshop
+
+**Časový rozsah:** 1 vyučovacia hodina (45 minút)
+
+**Metódy výučby:** Výklad s názornou ukážkou, praktické samostatné cvičenie, reflexia.
+
+---
+
+### Ciele hodiny
+
+* **Kognitívny:** Žiak vie vysvetliť princíp, účel a význam používateľských vrstiev pri nedeštruktívnej úprave grafiky.
+* **Psychomotorický:** Žiak dokáže samostatne vytvoriť, premenovať, usporiadať, uzamknúť, zmazať vrstvu a upraviť jej priehľadnosť (Opacity) v paneli *Layers*.
+* **Afektívny:** Žiak si osvojí návyk udržiavať poriadok vo vrstvách (pomenovávanie a prehľadnosť).
+
+---
+
+### Učebné pomôcky a vybavenie
+
+* Počítačová učebňa s nainštalovaným **Adobe Photoshop**.
+* Projektor / interaktívna tabuľa na predvedenie ukážky.
+* Pripravený štartovací súbor (`modelovy_obrazok.psd` alebo 2–3 samostatné obrázky na import).
+
+---
+
+### Časový harmonogram hodiny
+
+#### 1. Úvodná časť (5 minút)
+
+* **Organizácia:** Zápis dochádzky, kontrola pripravenosti pracovísk.
+* **Motivácia a uvedenie do témy:**
+> *"Predstavte si, že kreslíte na obyčajný papier. Ak spravíte chybu alebo chcete posunúť len jednu nakreslenú postavu, musíte vymazať všetko okolo. Vrstvy v Photoshope fungujú ako priehľadné fólie položené na sebe. Každý prvok (text, pozadie, objekt) leží na vlastnej fólii. Môžete ho posúvať, upravovať alebo vymazať bez toho, aby ste poškodili ostatné prvky."*
+
+
+
+---
+
+#### 2. Výklad a názorná ukážka (15 minút)
+
+Vyučujúci predvádza na projektore základné operácie v paneli **Layers (Window > Layers / klávesová skratka F7)**:
+
+1. **Účel a cieľ vrstvector (Prečo vrstvy používame?):**
+* **Nedeštruktívny strih a úpravy:** Samostatná manipulácia s objektmi bez ovplyvnenia zvyšku obrázka.
+* **Organizácia projektu:** Prehľadnosť pri zložitých grafických návrhoch.
+
+
+2. **Anatómia panela Vrstvy:**
+* Pozadie (*Background*) vs. Štandardná vrstva.
+* Ikona oka (viditeľnosť vrstvy).
+
+
+3. **Základné operácie s vrstvami:**
+* **Vytvorenie novej vrstvy:** Tlačidlo `+` (New Layer) v dolnej časti panela / zkratka `Ctrl + Shift + N`.
+* **Pomenovanie vrstiev:** Dvojklik na názov vrstvy (zdôrazniť dôležitosť poriadku v projekte).
+* **Zmena poradia (Z-order):** Preťahovanie vrstiev hore a dole (čo je vyššie, to prekrýva objekty nižšie).
+* **Krytie / Priehľadnosť (Opacity):** Nastavenie hodnoty od 0 % do 100 %.
+* **Uzamknutie vrstvy:** Ikona visacieho zámku (zabránenie nechcenej úprave).
+* **Odstránenie vrstvy:** Ikona koša / klávesa `Delete`.
+
+
+
+---
+
+#### 3. Praktické cvičenie žiakov (20 minút)
+
+**Zadanie úlohy: "Moja prvá fotomontáž / Koláž"**
+
+1. Otvorte Adobe Photoshop a vytvorte nový dokument (A4 alebo 1920×1080 px).
+2. Naimportujte/vložte tri rôzne prvky na samostatné vrstvy (napr. Pozadie, Postava, Text/Logo).
+3. **Vykonajte nasledujúce úpravy:**
+* Pomenujte každú vrstvu výstižným názvom (`Pozadie`, `Objekt`, `Text`).
+* Zmeňte poradie vrstiev tak, aby bol text navrchu a pozadie úplne dole.
+* Na vrstvu s textom alebo objektom aplikujte priehľadnosť (Opacity) na **70 %**.
+* Uzamknite vrstvu `Pozadie`.
+* Skúste skryť a opäť zobraziť vrstvu pomocou ikony oka.
+
+
+
+*(Učiteľ počas cvičenia prechádza po triede, pomáha žiakom a kontroluje správnosť postupov).*
+
+---
+
+#### 4. Záver a vyhodnotenie (5 minút)
+
+* **Kontrola výsledkov:** Krátke preverenie (vybraní žiaci ukážu panel vrstiev na svojej obrazovke).
+* **Opakovacie otázky na upevnenie:**
+1. *Načo slúži funkcia Opacity (Krytie)?*
+2. *Čo sa stane s objektom, ak jeho vrstvu presunieme pod vrstvu Pozadia?*
+3. *Prečo je dôležité vrstvy pomenovávať?*
+
+
+* **Upratanie pracoviska a zhodnotenie hodiny.**
+
+---
+
+> **Tip pre výučbu:** Upozornite žiakov na najčastejšiu chybu začiatočníkov – kreslenie alebo úpravu na nesprávnej (neaktívnej) vrstve. Naučte ich vždy sa pred úpravou pozrieť do panela *Layers*, ktorá vrstva je modro zvýraznená.
