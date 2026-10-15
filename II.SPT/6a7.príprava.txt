@@ -1,0 +1,695 @@
+PRÍPRAVA NA VYUČOVACIU HODINU č. 1  
+Predmet: Spracovanie obrazu a textu  
+Ročník/odbor: 2. ročník – grafik digitálnych médií  
+Tematický celok: Cesty a vytváranie tvarov  
+Téma: Charakteristika a význam ciest. Nástroje na tvorbu ciest  
+Časová dotácia: 45 minút  
+Program: Adobe Illustrator  
+
+Ciele hodiny:
+
+Vzdelávacie ciele:
+- Žiak vysvetlí pojem cesta vo vektorovej grafike.
+- Žiak rozlíši otvorenú a uzavretú cestu.
+- Žiak pomenuje základné prvky cesty: kotevný bod, segment, smerové úchyty.
+- Žiak vysvetlí rozdiel medzi výplňou a ťahom.
+- Žiak pozná základné nástroje určené na tvorbu ciest v Adobe Illustratori.
+- Žiak vie vytvoriť jednoduchú cestu nástrojom Pero, Ceruzka alebo Zakrúvenie.
+
+Výchovno-vzdelávacie ciele:
+- Rozvíjať presnosť, estetické cítenie a samostatnosť pri práci.
+- Viesť žiakov k správnemu pomenúvaniu nástrojov a prvkov pracovného prostredia.
+- Rozvíjať schopnosť kontrolovať vlastnú prácu.
+
+Metódy:
+- motivačný rozhovor,
+- výklad s prezentáciou,
+- názorná ukážka práce v Adobe Illustratori,
+- riadené praktické cvičenie,
+- samostatná práca žiakov,
+- priebežné otázky a spätná väzba.
+
+Organizačné formy:
+- frontálna výučba,
+- individuálna práca pri počítači.
+
+Pomôcky:
+- počítač pre každého žiaka,
+- Adobe Illustrator,
+- dataprojektor alebo interaktívna tabuľa,
+- pripravený súbor Illustratoru alebo nové dokumenty A4,
+- prezentácia.
+
+Medzipredmetové vzťahy:
+- Informatika,
+- Grafický dizajn,
+- Výtvarná príprava.
+
+Priebeh hodiny:
+
+1. Organizačná časť – 2 minúty
+- Privítanie žiakov, kontrola prítomnosti.
+- Príprava počítačov a spustenie Adobe Illustratora.
+- Žiaci si vytvoria nový dokument vo formáte A4 na šírku.
+
+2. Motivácia a opakovanie – 4 minúty
+Otázky pre žiakov:
+- Čo sme robili na predchádzajúcich hodinách?
+- Na čo nám slúžia vrstvy?
+- Aký je rozdiel medzi rastrovou a vektorovou grafikou?
+- Čo sa podľa vás stane s vektorovým objektom, keď ho výrazne zväčšíme?
+
+Nadviazanie:
+„Doteraz sme pracovali s objektmi a vrstvami. Dnes sa pozrieme na to, z čoho sú vektorové objekty vytvorené. Základom mnohých objektov v Adobe Illustratori je cesta.“
+
+3. Výklad a demonštrácia – 16 minút
+
+Učiteľ vysvetlí:
+- Cesta je vektorová línia vytvorená z bodov a úsekov.
+- Cesta môže byť otvorená alebo uzavretá.
+- Otvorená cesta má začiatok a koniec, napríklad vlnovka alebo čiara.
+- Uzavretá cesta tvorí uzatvorenú plochu, napríklad kruh, logo alebo obrys ikony.
+- Cesta je tvorená kotevnými bodmi.
+- Medzi kotevnými bodmi sa nachádzajú segmenty.
+- Pri oblúkoch používame smerové úchyty, ktoré určujú smer a tvar krivky.
+- Cesta môže mať výplň a/alebo ťah.
+- Výplň je farba vo vnútri uzavretej cesty.
+- Ťah je farba a vzhľad obrysu cesty.
+
+Demonštrácia v Illustratori:
+1. Učiteľ vytvorí otvorenú cestu nástrojom Pero.
+2. Učiteľ vytvorí uzavretú cestu kliknutím na prvý kotevný bod.
+3. Učiteľ ukáže rozdiel medzi cestou s výplňou a cestou bez výplne.
+4. Učiteľ vytvorí krivku kliknutím a potiahnutím myšou.
+5. Učiteľ ukáže nástroj Priamy výber – Direct Selection Tool (A), ktorým možno zobraziť kotevné body.
+6. Učiteľ stručne predstaví základné nástroje na tvorbu ciest.
+
+Nástroje:
+- Pero / Pen Tool (P) – presná tvorba rovných línií a Bézierových kriviek.
+- Zakrúvenie / Curvature Tool – jednoduchšia tvorba plynulých kriviek.
+- Ceruzka / Pencil Tool (N) – voľné kreslenie myšou alebo grafickým perom.
+- Štetec / Paintbrush Tool (B) – kreslí cestu a zároveň jej priraďuje vzhľad štetca.
+- Čiarový segment / Line Segment Tool (\) – tvorba priamych čiar.
+- Nástroje tvarov – obdĺžnik, elipsa, mnohouholník a hviezda; aj tieto tvary sú tvorené cestami.
+
+4. Riadené cvičenie – 13 minút
+
+Zadanie:
+Žiaci vytvoria na jeden dokument tri ukážky ciest:
+
+1. Otvorená cesta:
+- vytvoriť lomenú čiaru nástrojom Pero,
+- nastaviť jej farebný ťah,
+- výplň nastaviť na „žiadna“.
+
+2. Uzavretá cesta:
+- vytvoriť jednoduchý trojuholník alebo nepravidelný tvar nástrojom Pero,
+- pridať výplň aj farebný ťah.
+
+3. Krivka:
+- vytvoriť vlnovku alebo jednoduchú oblúkovú čiaru nástrojom Zakrúvenie alebo Ceruzka,
+- nastaviť hrúbku ťahu aspoň 3 pt.
+
+Pokyny pre žiakov:
+- Každú ukážku vytvorte na samostatnej časti pracovnej plochy.
+- Vedľa objektov môžete vložiť krátke označenie: „otvorená cesta“, „uzavretá cesta“, „krivka“.
+- Pracujte na samostatnej vrstve s názvom CESTY.
+
+Učiteľ priebežne kontroluje prácu, pomáha žiakom a upozorňuje na správne používanie výplne a ťahu.
+
+5. Zhrnutie a overenie vedomostí – 7 minút
+
+Otázky:
+- Čo je cesta?
+- Z akých častí sa skladá cesta?
+- Aký je rozdiel medzi otvorenou a uzavretou cestou?
+- Kedy môže mať objekt výplň?
+- Ktorý nástroj je vhodný na presné vytváranie bodov a kriviek?
+- Ktorý nástroj by sme použili pri voľnom kreslení?
+
+Záverečná úloha:
+Žiaci uložia súbor vo formáte AI pod názvom:
+Meno_Priezvisko_cesty_1.ai
+
+Hodnotenie:
+- aktivita počas hodiny,
+- správne vytvorená otvorená cesta,
+- správne vytvorená uzavretá cesta,
+- použitie výplne a ťahu,
+- poriadok v dokumente a pomenovanie vrstvy.
+
+Domáca úloha – nepovinná:
+Nájdite tri príklady vektorovej grafiky vo svojom okolí alebo na internete, napríklad logo, piktogram, ikonu aplikácie alebo dopravnú značku. Skúste určiť, ktoré časti by mohli byť vytvorené pomocou ciest.
+
+--------------------------------------------------
+TEXT DO PREZENTÁCIE – HODINA č. 1
+--------------------------------------------------
+
+SLIDE 1 – Názov hodiny
+
+CESTY V ADOBE ILLUSTRATORI
+
+Charakteristika a význam ciest  
+Nástroje na tvorbu ciest
+
+
+SLIDE 2 – Cieľ hodiny
+
+Po dnešnej hodine budem vedieť:
+
+- vysvetliť, čo je cesta,
+- rozlíšiť otvorenú a uzavretú cestu,
+- pomenovať časti cesty,
+- používať základné nástroje na tvorbu ciest,
+- nastaviť výplň a ťah objektu.
+
+
+SLIDE 3 – Čo je cesta?
+
+Cesta je základný prvok vektorovej grafiky.
+
+- Je vytvorená pomocou bodov a segmentov.
+- Určuje tvar objektu alebo línie.
+- Môžeme ju ľubovoľne zväčšovať bez straty kvality.
+- Cesty používame pri tvorbe log, ikon, ilustrácií a typografie.
+
+
+SLIDE 4 – Cesta vo vektorovej grafike
+
+Vektorový objekt nie je vytvorený z pixelov.
+
+Je definovaný matematicky pomocou:
+- kotevných bodov,
+- segmentov,
+- smerových úchytov,
+- výplne a ťahu.
+
+
+SLIDE 5 – Otvorená cesta
+
+Otvorená cesta má začiatok a koniec.
+
+Príklady:
+- priama čiara,
+- vlnovka,
+- kreslený obrys,
+- časť ilustrácie.
+
+Otvorená cesta má najčastejšie iba ťah.
+
+
+SLIDE 6 – Uzavretá cesta
+
+Uzavretá cesta nemá voľný začiatok ani koniec.
+
+Príklady:
+- kruh,
+- obdĺžnik,
+- logo,
+- ikona,
+- silueta objektu.
+
+Uzavretá cesta môže mať výplň aj ťah.
+
+
+SLIDE 7 – Základné časti cesty
+
+Kotevný bod:
+- bod, ktorý určuje smer alebo zmenu tvaru cesty.
+
+Segment:
+- časť cesty medzi dvoma kotevnými bodmi.
+
+Smerové úchyty:
+- ovládajú tvar a smer krivky.
+
+
+SLIDE 8 – Výplň a ťah
+
+Výplň (Fill):
+- farba vo vnútri uzavretej cesty.
+
+Ťah (Stroke):
+- farba, hrúbka a vzhľad obrysu cesty.
+
+Cesta môže mať:
+- iba výplň,
+- iba ťah,
+- výplň aj ťah,
+- žiadnu výplň ani ťah.
+
+
+SLIDE 9 – Pero / Pen Tool
+
+Pero – klávesová skratka P
+
+Použitie:
+- tvorba presných rovných línií,
+- tvorba presných kriviek,
+- tvorba vlastných tvarov,
+- kreslenie log a ikon.
+
+Kliknutie = rovný segment  
+Kliknutie a potiahnutie = krivka
+
+
+SLIDE 10 – Zakrúvenie / Curvature Tool
+
+Zakrúvenie – Curvature Tool
+
+Použitie:
+- jednoduchšie kreslenie plynulých kriviek,
+- tvorba oblúkov,
+- tvorba vlnoviek,
+- tvorba organických tvarov.
+
+Nástroj je vhodný najmä pre začiatočníkov pri práci s krivkami.
+
+
+SLIDE 11 – Ceruzka a štetec
+
+Ceruzka / Pencil Tool – N
+- voľné kreslenie cesty myšou alebo perom,
+- vhodná na rýchle náčrty.
+
+Štetec / Paintbrush Tool – B
+- kreslí cestu s nastaveným vzhľadom štetca,
+- vhodný na expresívne či ručne kreslené línie.
+
+
+SLIDE 12 – Ďalšie nástroje na tvorbu ciest
+
+Čiarový segment / Line Segment Tool
+- kreslenie rovných čiar.
+
+Nástroje tvarov:
+- obdĺžnik,
+- elipsa,
+- mnohouholník,
+- hviezda.
+
+Aj základné tvary sú vytvorené z ciest.
+
+
+SLIDE 13 – Dôležité klávesové skratky
+
+P – Pero  
+A – Priamy výber  
+V – Výber  
+N – Ceruzka  
+B – Štetec  
+\ – Čiarový segment  
+
+Ctrl + Z – krok späť
+
+
+SLIDE 14 – Praktická úloha
+
+Vytvorte tri ukážky:
+
+1. Otvorenú lomenú čiaru nástrojom Pero.  
+2. Uzavretý tvar s výplňou a ťahom.  
+3. Krivku alebo vlnovku nástrojom Zakrúvenie alebo Ceruzka.
+
+Pracujte na vrstve s názvom CESTY.
+
+
+SLIDE 15 – Zhrnutie
+
+Cesta je základ vektorového objektu.
+
+Pamätáme si:
+- otvorená cesta má začiatok a koniec,
+- uzavretá cesta môže mať výplň,
+- cesta sa skladá z bodov a segmentov,
+- na presnú tvorbu používame najmä nástroj Pero.
+
+
+
+==================================================
+==================================================
+
+
+PRÍPRAVA NA VYUČOVACIU HODINU č. 2  
+Predmet: Spracovanie obrazu a textu  
+Ročník/odbor: 2. ročník – grafik digitálnych médií  
+Tematický celok: Cesty a vytváranie tvarov  
+Téma: Kreslenie ciest  
+Časová dotácia: 45 minút  
+Program: Adobe Illustrator  
+
+Nadväznosť:
+Hodina nadväzuje na tému Charakteristika a význam ciest, nástroje na tvorbu ciest. Žiaci už poznajú pojmy cesta, kotevný bod, segment, výplň, ťah a základné nástroje na tvorbu ciest.
+
+Ciele hodiny:
+
+Vzdelávacie ciele:
+- Žiak vytvorí priamu cestu pomocou nástroja Pero.
+- Žiak vytvorí uzavretú cestu.
+- Žiak vytvorí jednoduchú krivku pomocou nástroja Pero.
+- Žiak využije kliknutie a potiahnutie pri vytváraní Bézierových kriviek.
+- Žiak vytvorí jednoduchý objekt kombináciou rovných a zakrivených segmentov.
+- Žiak správne nastaví výplň, ťah a hrúbku ťahu.
+
+Výchovno-vzdelávacie ciele:
+- Rozvíjať presnosť a trpezlivosť pri tvorbe grafických prvkov.
+- Viesť žiakov k postupnej práci od jednoduchého tvaru k zložitejšiemu.
+- Rozvíjať estetické cítenie pri voľbe farieb a vzhľadu objektov.
+
+Metódy:
+- opakovanie,
+- demonštrácia,
+- názorný výklad,
+- riadené praktické cvičenie,
+- samostatná tvorivá práca,
+- individuálna spätná väzba.
+
+Organizačné formy:
+- frontálna výučba,
+- individuálna práca pri počítači.
+
+Pomôcky:
+- počítače s Adobe Illustratorom,
+- dataprojektor alebo interaktívna tabuľa,
+- prezentácia,
+- prípadne predloha jednoduchého symbolu alebo ikony.
+
+Priebeh hodiny:
+
+1. Organizačná časť – 2 minúty
+- Privítanie, kontrola prítomnosti.
+- Spustenie Adobe Illustratora.
+- Žiaci otvoria nový dokument A4 na výšku alebo na šírku.
+
+2. Opakovanie predchádzajúceho učiva – 5 minút
+
+Otázky:
+- Čo je cesta?
+- Aký je rozdiel medzi otvorenou a uzavretou cestou?
+- Z čoho sa skladá cesta?
+- Aký nástroj používame na presné kreslenie ciest?
+- Čo vytvoríme kliknutím a čo kliknutím s potiahnutím?
+
+Učiteľ stručne zopakuje:
+- Kliknutím vznikajú rovné segmenty.
+- Kliknutím a potiahnutím vznikajú zakrivené segmenty.
+- Uzavretú cestu vytvoríme kliknutím na prvý kotevný bod.
+
+3. Demonštrácia kreslenia ciest – 10 minút
+
+Učiteľ postupne demonštruje na projektore:
+
+A. Kreslenie rovných segmentov
+- Vyberie nástroj Pero.
+- Klikne na niekoľko miest na ploche.
+- Vytvorí lomenú čiaru.
+- Klikne na prvý bod a uzavrie cestu.
+
+B. Kreslenie kriviek
+- Vyberie nástroj Pero.
+- Klikne a potiahne myšou.
+- Ukáže vznik smerových úchytov.
+- Vytvorí jednoduchý oblúk.
+- Pokračuje ďalším bodom a vytvorí plynulú krivku.
+
+C. Kombinácia rovných a zakrivených segmentov
+- Učiteľ vytvorí jednoduchý tvar, napríklad list, oblak alebo kvapku.
+- Vysvetlí, že jeden objekt môže obsahovať rovné aj zakrivené časti.
+
+Dôležité upozornenia:
+- Pri kreslení cesty sa netreba ponáhľať.
+- Je lepšie použiť menej kotevných bodov.
+- Veľké množstvo bodov môže spôsobiť nepresný a nerovný tvar.
+- Pri chybe použijeme Ctrl + Z.
+- Pri ukončení otvorenej cesty môžeme stlačiť kláves Esc alebo prepnúť na iný nástroj.
+
+4. Riadené praktické cvičenie – 10 minút
+
+Úloha 1: Lomená cesta
+- Žiaci vytvoria jednoduchý blesk alebo cikcak čiaru nástrojom Pero.
+- Cesta musí mať farebný ťah.
+- Hrúbka ťahu: 3 až 5 pt.
+- Výplň: žiadna.
+
+Úloha 2: Oblúk
+- Žiaci vytvoria jednoduchú vlnu alebo písmeno S pomocou kriviek.
+- Použijú nástroj Pero a kliknutie s potiahnutím.
+- Nastavia inú farbu ťahu než pri prvej úlohe.
+
+Učiteľ chodí medzi žiakmi, kontroluje polohu rúk pri práci s myšou, správne používanie potiahnutia a pomáha pri tvorbe kriviek.
+
+5. Samostatná praktická úloha – 13 minút
+
+Hlavné zadanie: Vytvor jednoduchú vektorovú ikonu pomocou ciest.
+
+Žiak si vyberie jednu z možností:
+- list,
+- kvapka vody,
+- jednoduchý oblak,
+- srdce,
+- plameň,
+- ryba,
+- balón.
+
+Podmienky zadania:
+- Ikona musí byť vytvorená vlastnou cestou, nie iba základným hotovým tvarom.
+- Musí obsahovať aspoň jednu zakrivenú časť.
+- Musí mať uzavretú cestu.
+- Musí mať výplň a ťah.
+- Farby majú byť esteticky zvolené.
+- Objekt má byť umiestnený približne do stredu pracovnej plochy.
+- Vrstva sa má volať IKONA – CESTY.
+
+Rozšírenie pre rýchlejších žiakov:
+- Vytvoriť druhý doplnkový objekt, napríklad žilky v liste, bubliny pri rybe alebo odlesk na kvapke.
+- Použiť otvorenú cestu ako dekoratívnu líniu.
+
+6. Záver, prezentácia prác a hodnotenie – 5 minút
+
+- Vybraní žiaci ukážu svoju ikonu na obrazovke.
+- Spoločná krátka reflexia:
+  - Ktorý tvar sa kreslil najjednoduchšie?
+  - Kde bol problém s krivkou?
+  - Prečo je vhodné používať čo najmenej kotevných bodov?
+
+Učiteľ zhrnie:
+„Pri práci s cestami je dôležitá presnosť, ale aj jednoduchosť. Kvalitná cesta má len toľko kotevných bodov, koľko naozaj potrebuje.“
+
+Uloženie práce:
+Meno_Priezvisko_kreslenie_ciest.ai
+
+Kritériá hodnotenia:
+- splnenie zadania,
+- použitie nástroja Pero,
+- vytvorenie uzavretej cesty,
+- použitie krivky,
+- správne nastavená výplň a ťah,
+- estetický vzhľad a poriadok v dokumente.
+
+--------------------------------------------------
+TEXT DO PREZENTÁCIE – HODINA č. 2
+--------------------------------------------------
+
+SLIDE 1 – Názov hodiny
+
+KRESLENIE CIEST V ADOBE ILLUSTRATORI
+
+Priame segmenty, krivky a uzavreté tvary
+
+
+SLIDE 2 – Opakovanie
+
+Cesta sa skladá z:
+- kotevných bodov,
+- segmentov,
+- smerových úchytov.
+
+Otvorená cesta:
+- má začiatok a koniec.
+
+Uzavretá cesta:
+- tvorí plochu,
+- môže mať výplň aj ťah.
+
+
+SLIDE 3 – Cieľ hodiny
+
+Dnes sa naučíme:
+
+- kresliť rovné segmenty nástrojom Pero,
+- kresliť zakrivené segmenty,
+- uzatvárať cesty,
+- kombinovať priame čiary a krivky,
+- vytvoriť vlastnú jednoduchú ikonu.
+
+
+SLIDE 4 – Pero / Pen Tool
+
+Pero – klávesová skratka P
+
+Nástroj Pero používame na:
+- presné kreslenie ciest,
+- tvorbu vlastných tvarov,
+- kreslenie rovných línií,
+- tvorbu Bézierových kriviek,
+- tvorbu log a ikon.
+
+
+SLIDE 5 – Kreslenie rovných segmentov
+
+Postup:
+
+1. Vyberieme nástroj Pero.
+2. Klikneme na miesto prvého bodu.
+3. Klikneme na miesto druhého bodu.
+4. Medzi bodmi vznikne rovný segment.
+5. Ďalšími kliknutiami pokračujeme v kreslení.
+
+Kliknutie = rovný segment.
+
+
+SLIDE 6 – Uzatvorenie cesty
+
+Uzavretú cestu vytvoríme takto:
+
+1. Nakreslíme niekoľko segmentov.
+2. Kurzor presunieme na prvý kotevný bod.
+3. Pri kurzore sa zobrazí malý kruh.
+4. Klikneme na prvý bod.
+
+Cesta sa uzavrie.
+
+
+SLIDE 7 – Kreslenie kriviek
+
+Pri vytváraní krivky:
+
+1. Vyberieme nástroj Pero.
+2. Klikneme a potiahneme myšou.
+3. Vzniknú smerové úchyty.
+4. Úchyty určujú smer a tvar krivky.
+
+Kliknutie a potiahnutie = zakrivený segment.
+
+
+SLIDE 8 – Smerové úchyty
+
+Smerové úchyty ovplyvňujú:
+
+- smer krivky,
+- dĺžku krivky,
+- plynulosť oblúka,
+- tvar segmentu.
+
+Dlhší úchyt = výraznejšia krivka.  
+Kratší úchyt = jemnejšia krivka.
+
+
+SLIDE 9 – Kombinovanie segmentov
+
+Jedna cesta môže obsahovať:
+
+- rovné segmenty,
+- zakrivené segmenty,
+- ostré rohy,
+- plynulé oblúky.
+
+Takto vytvárame zložitejšie tvary, napríklad:
+- list,
+- plameň,
+- kvapku,
+- srdce,
+- oblak,
+- siluetu postavy.
+
+
+SLIDE 10 – Pravidlo: menej bodov je lepšie
+
+Pri kreslení cesty používaj čo najmenej kotevných bodov.
+
+Menej bodov znamená:
+- plynulejšie krivky,
+- jednoduchšiu úpravu,
+- presnejší tvar,
+- prehľadnejší objekt.
+
+Veľa bodov môže vytvoriť nerovný a nepresný tvar.
+
+
+SLIDE 11 – Užitočné klávesy
+
+P – Pero  
+A – Priamy výber  
+V – Výber  
+Ctrl + Z – krok späť  
+Esc – ukončenie kreslenia otvorenej cesty  
+Shift – obmedzenie smeru pri kreslení na pravidelné uhly
+
+
+SLIDE 12 – Cvičenie 1
+
+Vytvor lomenú otvorenú cestu.
+
+Podmienky:
+- použi nástroj Pero,
+- vytvor cikcak alebo blesk,
+- nastav výplň na „žiadna“,
+- nastav farebný ťah,
+- nastav hrúbku ťahu 3 až 5 pt.
+
+
+SLIDE 13 – Cvičenie 2
+
+Vytvor zakrivenú otvorenú cestu.
+
+Možnosti:
+- vlna,
+- písmeno S,
+- oblúk,
+- dekoratívna línia.
+
+Použi kliknutie a potiahnutie myšou.
+
+
+SLIDE 14 – Hlavná úloha
+
+Vytvor vlastnú jednoduchú vektorovú ikonu.
+
+Vyber si:
+- list,
+- kvapku,
+- oblak,
+- srdce,
+- plameň,
+- rybu,
+- balón.
+
+Podmienky:
+- vlastná uzavretá cesta,
+- aspoň jedna krivka,
+- výplň aj ťah,
+- estetické farby,
+- vrstva s názvom IKONA – CESTY.
+
+
+SLIDE 15 – Kontrola pred uložením
+
+Skontroluj:
+
+- Je moja cesta uzavretá?
+- Použil/a som krivku?
+- Má objekt výplň aj ťah?
+- Je ikona dostatočne veľká a viditeľná?
+- Mám správne pomenovanú vrstvu?
+- Je súbor uložený pod správnym názvom?
+
+
+SLIDE 16 – Zhrnutie
+
+Pri kreslení ciest platí:
+
+- kliknutie vytvorí rovný segment,
+- kliknutie a potiahnutie vytvorí krivku,
+- kliknutie na prvý bod uzavrie cestu,
+- menej kotevných bodov prináša presnejší tvar,
+- nástroj Pero je základom presnej vektorovej kresby.
