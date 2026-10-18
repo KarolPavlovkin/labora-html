@@ -1,0 +1,692 @@
+```txt
+PRÍPRAVA NA VYUČOVACIU HODINU
+
+Predmet: Spracovanie sekvencií
+Ročník/odbor: 2. ročník – grafik digitálnych médií
+Téma: Písanie, správa, komentovanie, import a export skriptov
+Časová dotácia: 45 minút
+
+Nadväznosť na predchádzajúce učivo:
+Žiaci už poznajú základné pravidlá syntaxe JavaScriptu a prostredie Adobe Animate:
+- panel Akcie / Actions,
+- okno Script,
+- základné písanie kódu,
+- prácu s dokumentom a časovou osou.
+
+Poznámka pre učiteľa:
+Adobe Animate môže pracovať s rôznymi typmi dokumentov. Pri dokumente HTML5 Canvas sa používa JavaScript (často spolu s knižnicou CreateJS). Pri dokumente ActionScript 3.0 sa používa ActionScript. Princípy komentárov, práce so súbormi skriptov a ich import/export sú podobné, ale prípona súboru sa môže líšiť:
+- JavaScript: .js
+- ActionScript: .as
+
+
+VÝCHOVNO-VZDELÁVACIE CIELE
+
+Kognitívne ciele:
+Žiak:
+- vysvetlí, čo je komentár v programovacom kóde;
+- rozlíši jednoriadkový a viacriadkový komentár;
+- použije komentár na vysvetlenie časti programu;
+- rozpozná základné symboly používané pri písaní kódu;
+- vie uložiť skript ako externý súbor;
+- vie načítať/importovať externý skript do prostredia Adobe Animate;
+- uvedie rozdiel medzi importom a exportom skriptu.
+
+Psychomotorické ciele:
+Žiak:
+- otvorí panel Actions;
+- napíše krátky skript s komentármi;
+- uloží alebo exportuje skript do súboru;
+- importuje pripravený skript;
+- skontroluje, či je skript vložený na správnom mieste časovej osi alebo objektu.
+
+Afektívne ciele:
+Žiak:
+- uvedomuje si význam prehľadného a komentovaného kódu;
+- pracuje systematicky a pomenúva súbory zrozumiteľne;
+- rešpektuje pravidlá digitálnej organizácie práce.
+
+
+POMÔCKY
+
+- počítač s programom Adobe Animate;
+- dataprojektor alebo interaktívna tabuľa;
+- pripravený súbor skriptu, napríklad:
+  - komentar_skript.js
+  - komentar_skript.as
+- prezentácia;
+- prípadne krátky pracovný list.
+
+
+ORGANIZAČNÉ FORMY A METÓDY
+
+Formy:
+- frontálne vysvetľovanie;
+- demonštrácia práce v programe;
+- samostatná práca žiakov;
+- krátka diskusia a spätná väzba.
+
+Metódy:
+- výklad;
+- názorná ukážka;
+- praktické cvičenie;
+- otázky a odpovede;
+- priebežné hodnotenie.
+
+
+ČASOVÝ PLÁN HODINY – 45 MINÚT
+
+1. Úvod a motivácia – 5 minút
+2. Komentáre a základné znaky v kóde – 10 minút
+3. Písanie a organizácia skriptov – 8 minút
+4. Import a export skriptov v Adobe Animate – 10 minút
+5. Praktické cvičenie žiakov – 9 minút
+6. Zhrnutie, kontrola a záver – 3 minúty
+
+
+PRIEBEH HODINY
+
+
+1. ÚVOD A MOTIVÁCIA – 5 MINÚT
+
+Učiteľ sa žiakov opýta:
+
+- Predstavte si, že po mesiaci otvoríte vlastný kód. Budete vedieť, čo robí?
+- Ako by sa v kóde zorientoval spolužiak, ktorý ho nikdy predtým nevidel?
+- Čo sa stane, ak máme rovnaký kód uložený vo viacerých dokumentoch a potrebujeme ho upraviť?
+
+Vysvetlenie:
+Programový kód by nemal byť len funkčný, ale aj čitateľný. Komentáre pomáhajú vysvetliť účel kódu. Externé súbory skriptov umožňujú kód ukladať samostatne, opakovane používať a jednoduchšie upravovať.
+
+
+2. KOMENTÁRE A ZÁKLADNÉ ZNAKY V KÓDE – 10 MINÚT
+
+Vysvetlenie komentárov:
+
+Komentár je text v programe, ktorý program nevykonáva. Slúži človeku – programátorovi, spolužiakovi alebo budúcemu autorovi projektu.
+
+V JavaScripte používame dva základné typy komentárov.
+
+A) Jednoriadkový komentár
+
+Zapisuje sa pomocou dvoch lomiek:
+
+// Toto je jednoriadkový komentár
+stop();
+
+Všetko, čo je za znakmi // až do konca riadku, program ignoruje.
+
+B) Viacriadkový komentár
+
+Zapisuje sa medzi značky /* a */:
+
+/*
+Toto je viacriadkový komentár.
+Môžeme doň napísať viac viet.
+*/
+stop();
+
+Vhodné použitie komentárov:
+- názov alebo účel časti kódu;
+- vysvetlenie funkcie;
+- autor a dátum úpravy;
+- označenie jednotlivých sekcií skriptu;
+- dočasné vypnutie riadka počas testovania.
+
+Príklad:
+
+// Zastaví prehrávanie animácie na prvom snímku
+stop();
+
+/*
+Po kliknutí na tlačidlo
+sa prehrá ďalšia časť animácie.
+*/
+
+
+Upozornenie:
+Komentáre nepoužívame na opis úplne zjavného kódu.
+
+Menej vhodné:
+// Priradí číslo 5 do premennej x
+let x = 5;
+
+Vhodnejšie:
+// Počet opakovaní animácie
+let pocetOpakovani = 5;
+
+
+ZÁKLADNÉ ZNAKY POUŽÍVANÉ V KÓDE
+
+/     lomka – používa sa napríklad v komentároch //
+*     hviezdička – používa sa pri komentároch /* */
+( )   okrúhle zátvorky – parametre funkcií a podmienky
+[ ]   hranaté zátvorky – polia, zoznamy a prístup k prvkom
+{ }   zložené zátvorky – blok kódu, funkcie, podmienky
+;     bodkočiarka – ukončenie príkazu, podľa štýlu zápisu
+" "   úvodzovky – textový reťazec
+' '   apostrofy – textový reťazec
+` `   spätné úvodzovky – template string v JavaScripte
+=     priradenie hodnoty
+==    porovnanie hodnoty
+===   presné porovnanie hodnoty a typu
+!     negácia / „nie“
+? :   podmienený operátor
+@     zavináč – najmä e-mailové adresy, niekedy špecifické zápisy
+|     zvislá čiara, „pipe“
+~     vlnovka / tilda
+
+
+KLÁVESOVÉ SKRATKY – SLOVENSKÁ A ČESKÁ KLÁVESNICA
+
+Dôležité upozornenie:
+Skratky sa môžu mierne líšiť podľa operačného systému, typu klávesnice a zvoleného rozloženia. Ak znak nefunguje, treba skontrolovať jazyk klávesnice v systéme.
+
+Na bežnom slovenskom alebo českom rozložení vo Windows sa často používajú:
+
+@     AltGr + V
+\     AltGr + Q
+|     AltGr + W
+~     AltGr + 1
+
+AltGr je pravý kláves Alt.
+
+Ak znak nemožno napísať:
+- skúsiť Shift, AltGr alebo prepnutie klávesnice;
+- použiť systémovú Tabuľku znakov / Character Map;
+- dočasne znak skopírovať z pripraveného dokumentu;
+- overiť, či žiak nepoužíva anglické rozloženie klávesnice.
+
+Pripomenutie:
+Najčastejšie pri písaní JavaScriptu budeme potrebovať:
+( )   { }   [ ]   /   *   "   '   ;   =
+
+
+3. PÍSANIE A ORGANIZÁCIA SKRIPTOV – 8 MINÚT
+
+Učiteľ otvorí Adobe Animate a zobrazí panel Akcie.
+
+Otvorenie panelu Akcie:
+Window > Actions
+alebo kláves F9.
+
+V paneli Actions môžeme:
+- písať kód priamo k snímke časovej osi;
+- písať kód priradený objektu;
+- upravovať existujúci kód;
+- kontrolovať syntax;
+- pridávať komentáre;
+- pracovať so samostatnými súbormi skriptov.
+
+Odporúčania pri písaní kódu:
+
+1. Kód odsadzujeme.
+2. Jednotlivé časti oddelíme prázdnym riadkom.
+3. Používame zmysluplné názvy premenných.
+4. Dôležité časti vysvetľujeme komentárom.
+5. Nezapisujeme všetok kód do jedného neprehľadného bloku.
+6. Súbory pomenúvame jednoznačne.
+
+Nevhodný názov súboru:
+novy.js
+test2.js
+aaaa.js
+
+Vhodný názov súboru:
+uvodna_animacia.js
+ovladanie_tlacidiel.js
+navigacia_menu.js
+scena1_stop.js
+
+Príklad prehľadného zápisu:
+
+// Zastavenie animácie na prvom snímku
+stop();
+
+// Nastavenie názvu projektu
+let nazovProjektu = "Moja animácia";
+
+// Výpis informácie do konzoly
+console.log(nazovProjektu);
+
+
+4. IMPORT A EXPORT SKRIPTOV V ADOBE ANIMATE – 10 MINÚT
+
+Vysvetlenie pojmov:
+
+IMPORT SKRIPTU
+Import znamená načítanie existujúceho súboru skriptu do projektu alebo do panela Actions.
+
+EXPORT SKRIPTU
+Export znamená uloženie napísaného skriptu z projektu do samostatného externého súboru.
+
+Prečo importovať a exportovať skripty?
+
+- môžeme si vytvoriť knižnicu vlastných kódov;
+- rovnaký skript môžeme použiť vo viacerých projektoch;
+- zálohujeme si kód aj mimo súboru .fla;
+- môžeme kód upravovať aj v inom editore;
+- práca v tíme je jednoduchšia;
+- externý súbor sa ľahšie zdieľa.
+
+PRÁCA SO SKRIPTOM V ADOBE ANIMATE
+
+Učiteľ predvedie postup na projektore.
+
+A) Otvorenie miesta pre kód
+
+1. Otvoriť dokument v Adobe Animate.
+2. Vybrať snímku na časovej osi, napríklad prvý snímok.
+3. Otvoriť Window > Actions alebo stlačiť F9.
+4. Kliknúť do oblasti pre zápis kódu.
+
+B) Napísanie krátkeho skriptu
+
+Príklad:
+
+// Zastaví animáciu na aktuálnom snímku
+stop();
+
+C) Export skriptu
+
+V paneli Actions sa otvorí ponuka panelu, zvyčajne ikona s čiarami alebo malá šípka v pravom hornom rohu.
+
+Postup môže byť podľa verzie Adobe Animate mierne odlišný, ale princíp je rovnaký:
+
+1. V paneli Actions otvoriť ponuku panela.
+2. Vybrať možnosť Export Script alebo Save Script.
+3. Zvoliť miesto uloženia.
+4. Zadať zrozumiteľný názov súboru.
+5. Uložiť správnu príponu:
+   - .js pri dokumente HTML5 Canvas,
+   - .as pri ActionScript dokumente.
+
+D) Import skriptu
+
+1. Označiť miesto, kam chceme skript vložiť.
+2. Otvoriť panel Actions klávesom F9.
+3. V ponuke panela vybrať Import Script alebo Load Script.
+4. Vybrať súbor .js alebo .as.
+5. Skontrolovať vložený kód.
+6. Uložiť dokument a otestovať ho.
+
+Upozornenie:
+Po importe vždy skontrolujeme:
+- či je vybraný správny snímok;
+- či je skript vložený do správnej vrstvy;
+- či ide o správny typ dokumentu;
+- či skript neobsahuje chyby;
+- či názvy objektov v skripte zodpovedajú názvom objektov na ploche.
+
+Dôležité:
+Skript pre ActionScript 3.0 nemusí fungovať v dokumente HTML5 Canvas a naopak. Pred importom treba vedieť, aký typ dokumentu používame.
+
+
+5. PRAKTICKÉ CVIČENIE ŽIAKOV – 9 MINÚT
+
+ZADANIE PRE ŽIAKOV
+
+1. Otvorte nový alebo pripravený dokument v Adobe Animate.
+2. Vyberte prvý snímok časovej osi.
+3. Otvorte panel Actions klávesom F9.
+4. Vložte tento kód:
+
+// Zastavenie animácie na prvom snímku
+stop();
+
+/*
+Autor: Meno a priezvisko
+Trieda: II. ročník
+Téma: Komentáre v skripte
+*/
+
+5. Doplňte svoje meno a triedu.
+6. Pridajte ešte jeden vlastný jednoriadkový komentár.
+7. Skript exportujte ako súbor:
+meno_priezvisko_komentar.js
+alebo
+meno_priezvisko_komentar.as
+
+8. Ak to čas dovolí, importujte pripravený skript od učiteľa a skontrolujte, čo robí.
+
+Rozširujúca úloha pre rýchlejších žiakov:
+
+Doplňte kód:
+
+// Výpis správy pri spustení dokumentu
+console.log("Animácia bola spustená.");
+
+Vysvetlite, na čo slúži komentár a na čo slúži príkaz console.log().
+
+
+6. ZHRNUTIE A ZÁVER – 3 MINÚTY
+
+Otázky na zopakovanie:
+
+1. Čo je komentár?
+2. Aký znak začína jednoriadkový komentár?
+3. Aké znaky používame pri viacriadkovom komentári?
+4. Čo znamená import skriptu?
+5. Čo znamená export skriptu?
+6. Akú príponu má súbor JavaScriptu?
+7. Prečo je dôležité pomenovať súbory zrozumiteľne?
+8. Akou klávesou alebo skratkou otvoríme panel Actions? (F9)
+
+Záverečná myšlienka:
+Dobrý programátor nepíše iba funkčný kód. Píše aj prehľadný, komentovaný a dobre uložený kód, v ktorom sa dokáže orientovať on aj iní ľudia.
+
+
+KRITÉRIÁ HODNOTENIA PRAKTICKEJ ÚLOHY
+
+Žiak:
+- otvoril panel Actions;
+- vložil funkčný zápis stop();
+- použil jednoriadkový komentár;
+- použil viacriadkový komentár;
+- správne uviedol svoje meno a triedu;
+- uložil alebo exportoval skript pod zrozumiteľným názvom;
+- pracoval samostatne a dodržal pokyny.
+
+Možné hodnotenie:
+Výborne:
+Žiak správne vytvoril komentáre, napísal prehľadný kód, exportoval súbor a vie vysvetliť import/export.
+
+Chválitebne:
+Žiak vytvoril komentáre a kód, potrebuje len menšiu pomoc pri exporte alebo pomenovaní súboru.
+
+Dostatočne:
+Žiak vytvoril základný kód s pomocou učiteľa.
+
+Nedostatočne:
+Žiak nevytvoril základný kód alebo nevie rozlíšiť komentár od vykonávaného príkazu.
+
+
+============================================================
+TEXT DO PREZENTÁCIE – ROZDELENÝ PODĽA SLIDOV
+============================================================
+
+
+SLIDE 1 – NÁZOV HODINY
+
+Písanie, správa, komentovanie,
+import a export skriptov
+
+Spracovanie sekvencií
+Adobe Animate a JavaScript
+
+
+SLIDE 2 – CIELE HODINY
+
+Dnes sa naučíme:
+
+- čo sú komentáre v kóde;
+- ako napísať jednoriadkový a viacriadkový komentár;
+- ako písať prehľadný skript;
+- čo znamená import a export skriptu;
+- ako pracovať so skriptmi v Adobe Animate.
+
+
+SLIDE 3 – PREČO KOMENTOVAŤ KÓD?
+
+Komentár je poznámka pre človeka,
+nie príkaz pre počítač.
+
+Komentáre pomáhajú:
+
+- vysvetliť účel kódu;
+- lepšie sa orientovať v projekte;
+- spolupracovať s inými ľuďmi;
+- vrátiť sa ku kódu aj po dlhšom čase;
+- jednoduchšie opravovať chyby.
+
+
+SLIDE 4 – JEDNORIADKOVÝ KOMENTÁR
+
+Jednoriadkový komentár začína dvoma lomkami:
+
+// Toto je komentár
+stop();
+
+Všetko za znakmi // až do konca riadku
+program ignoruje.
+
+
+SLIDE 5 – VIACRIADKOVÝ KOMENTÁR
+
+Viacriadkový komentár začína znakmi /*
+
+a končí znakmi */
+
+Príklad:
+
+/*
+Toto je viacriadkový komentár.
+Môže obsahovať viac riadkov textu.
+*/
+stop();
+
+
+SLIDE 6 – PRÍKLAD KOMENTOVANÉHO KÓDU
+
+// Zastaví animáciu na aktuálnom snímku
+stop();
+
+/*
+Autor: Ján Novák
+Trieda: II. GDM
+Téma: Práca s komentármi
+*/
+
+console.log("Animácia spustená.");
+
+
+SLIDE 7 – KEDY POUŽÍVAME KOMENTÁRE?
+
+Komentár používame napríklad na:
+
+- vysvetlenie funkcie kódu;
+- označenie časti programu;
+- uvedenie autora alebo dátumu;
+- poznámku pre spolužiaka;
+- dočasné vypnutie testovaného kódu.
+
+Komentár nepoužívame zbytočne pri úplne zjavnom kóde.
+
+
+SLIDE 8 – DÔLEŽITÉ ZNAKY V PROGRAMOVANÍ
+
+/     lomka
+*     hviezdička
+( )   okrúhle zátvorky
+[ ]   hranaté zátvorky
+{ }   zložené zátvorky
+;     bodkočiarka
+" "   úvodzovky
+' '   apostrofy
+=     priradenie
+@     zavináč
+|     zvislá čiara – pipe
+~     vlnovka – tilda
+
+
+SLIDE 9 – KLÁVESOVÉ SKRATKY
+
+Na slovenskej alebo českej klávesnici vo Windows
+sa často používajú tieto skratky:
+
+@     AltGr + V
+\     AltGr + Q
+|     AltGr + W
+~     AltGr + 1
+
+AltGr je pravý kláves Alt.
+
+Skratky sa môžu líšiť podľa typu klávesnice
+a nastaveného jazyka systému.
+
+
+SLIDE 10 – PREHĽADNÝ SKRIPT
+
+Dobrý skript je:
+
+- správny;
+- čitateľný;
+- odsadený;
+- rozdelený na časti;
+- komentovaný;
+- uložený pod zrozumiteľným názvom.
+
+Nevhodný názov:
+test2.js
+
+Vhodný názov:
+ovladanie_tlacidiel.js
+
+
+SLIDE 11 – PANEL ACTIONS V ADOBE ANIMATE
+
+Panel Actions používame na:
+
+- písanie kódu;
+- úpravu skriptov;
+- kontrolu syntaxe;
+- prácu s kódom na snímke;
+- import a export skriptov.
+
+Otvorenie panela:
+
+Window > Actions
+
+alebo kláves:
+
+F9
+
+
+SLIDE 12 – ČO JE IMPORT SKRIPTU?
+
+Import skriptu znamená:
+
+Načítanie existujúceho súboru s kódom
+do projektu Adobe Animate.
+
+Výhody importu:
+
+- nemusíme písať rovnaký kód opakovane;
+- môžeme používať pripravené skripty;
+- môžeme zdieľať kód v tíme;
+- kód sa dá jednoduchšie prenášať medzi projektmi.
+
+
+SLIDE 13 – ČO JE EXPORT SKRIPTU?
+
+Export skriptu znamená:
+
+Uloženie kódu z projektu
+do samostatného externého súboru.
+
+Výhody exportu:
+
+- záloha kódu;
+- jednoduchšie zdieľanie;
+- opakované použitie;
+- lepšia organizácia projektu;
+- možnosť upravovať súbor v inom editore.
+
+
+SLIDE 14 – PRÍPONY SKRIPTOV
+
+Typ súboru závisí od typu dokumentu:
+
+JavaScript:
+.js
+
+ActionScript:
+.as
+
+Dôležité:
+
+Skript pre ActionScript 3.0 nemusí fungovať
+v dokumente HTML5 Canvas.
+
+Pred importom vždy skontrolujeme
+typ dokumentu.
+
+
+SLIDE 15 – EXPORT SKRIPTU V ADOBE ANIMATE
+
+Postup:
+
+1. Otvoríme panel Actions klávesom F9.
+2. Napíšeme alebo označíme kód.
+3. Otvoríme ponuku panela Actions.
+4. Vyberieme Export Script alebo Save Script.
+5. Zvolíme názov a miesto uloženia.
+6. Uložíme súbor s príponou .js alebo .as.
+
+
+SLIDE 16 – IMPORT SKRIPTU V ADOBE ANIMATE
+
+Postup:
+
+1. Vyberieme správny snímok alebo objekt.
+2. Otvoríme panel Actions klávesom F9.
+3. Otvoríme ponuku panela.
+4. Vyberieme Import Script alebo Load Script.
+5. Vyhľadáme súbor .js alebo .as.
+6. Skontrolujeme vložený kód.
+7. Otestujeme dokument.
+
+
+SLIDE 17 – NA ČO SI DAŤ POZOR?
+
+Po importe skriptu skontrolujeme:
+
+- správny typ dokumentu;
+- správnu príponu súboru;
+- správny snímok časovej osi;
+- správnu vrstvu;
+- názvy objektov;
+- chyby v syntaxi;
+- či skript funguje po otestovaní.
+
+
+SLIDE 18 – PRAKTICKÁ ÚLOHA
+
+1. Otvor panel Actions klávesom F9.
+2. Vlož tento kód:
+
+// Zastavenie animácie na prvom snímku
+stop();
+
+/*
+Autor: Meno a priezvisko
+Trieda: II. ročník
+*/
+
+3. Doplň svoje meno a triedu.
+4. Pridaj vlastný komentár.
+5. Skript exportuj pod názvom:
+
+meno_priezvisko_komentar.js
+
+
+SLIDE 19 – ZHRNUTIE
+
+Dnes sme sa naučili:
+
+- komentár je poznámka pre človeka;
+- // vytvára jednoriadkový komentár;
+- /* ... */ vytvára viacriadkový komentár;
+- import = načítanie skriptu;
+- export = uloženie skriptu;
+- prehľadný a komentovaný kód sa ľahšie upravuje.
+
+
+SLIDE 20 – OTÁZKY
+
+1. Aký je rozdiel medzi // a /* ... */?
+2. Čo znamená import skriptu?
+3. Čo znamená export skriptu?
+4. Akú príponu má JavaScriptový súbor?
+5. Akou klávesou otvoríme panel Actions?
+6. Prečo používame komentáre?
+```
