@@ -1,0 +1,414 @@
+```txt
+PRÍPRAVA NA VYUČOVACIU HODINU
+
+Predmet: Spracovanie obrazu a textu
+Ročník / odbor: 2. ročník – grafik digitálnych médií
+Tematický celok: Cesty a vytváranie tvarov
+Téma hodiny: Vytváranie a úprava tvarov z jednoduchých ciest
+Časová dotácia: 45 minút
+Program: Adobe Illustrator
+
+Nadväznosť na predchádzajúce učivo:
+Žiaci sa na predchádzajúcej hodine učili význam ciest, kotevné body, segmenty ciest a základné nástroje na ich vytváranie. Obkresľovali jednoduché predmety, napríklad list, oblak a kvapku.
+
+Hlavný cieľ hodiny:
+Žiak dokáže vytvoriť jednoduchý grafický motív zo základného geometrického tvaru a upraviť jeho cestu pomocou kotevných bodov a ovládacích ramien.
+
+Výkonové štandardy:
+Žiak:
+- rozlišuje medzi základným tvarom a upravenou cestou,
+- vytvorí kruh alebo elipsu pomocou nástroja Elipsa,
+- upraví kotevné body objektu nástrojom Priamy výber,
+- zmení hladký bod na rohový bod,
+- použije ovládacie ramená na zmenu zakrivenia cesty,
+- vytvorí aspoň tri vlastné jednoduché symboly alebo piktogramy,
+- pomenuje nástroje, ktoré pri práci použil.
+
+Obsahový štandard:
+- základné tvary v Adobe Illustratori,
+- elipsa, kruh, obdĺžnik a mnohouholník,
+- cesty a kotevné body v základných tvaroch,
+- úprava tvaru pomocou nástroja Priamy výber,
+- hladké a rohové kotevné body,
+- vytváranie jednoduchých motívov z geometrických tvarov.
+
+Pomôcky:
+- počítač pre každého žiaka,
+- Adobe Illustrator,
+- dataprojektor alebo zdieľaná obrazovka,
+- pripravený súbor s pracovnou plochou,
+- prezentácia.
+
+Použité metódy:
+- motivačný rozhovor,
+- názorná ukážka,
+- riadený praktický nácvik,
+- samostatná práca žiakov,
+- priebežné hodnotenie a spätná väzba.
+
+Organizačná forma:
+- frontálna práca,
+- individuálna práca pri počítači.
+
+
+ČASOVÝ PLÁN HODINY
+
+1. Úvod, motivácia a opakovanie – 5 minút
+2. Vysvetlenie základných tvarov a ich spojenia s cestami – 7 minút
+3. Ukážka: kvapka z kruhu alebo elipsy – 8 minút
+4. Ukážka: list a srdce z elipsy – 8 minút
+5. Samostatná praktická úloha – 12 minút
+6. Kontrola, prezentovanie prác a záver – 5 minút
+
+
+PRIEBEH HODINY
+
+1. ÚVOD, MOTIVÁCIA A OPAKOVANIE – 5 MINÚT
+
+Učiteľ žiakom zobrazí niekoľko jednoduchých ikon alebo piktogramov, napríklad srdce, kvapku, oblak, list, balón alebo usmievavú tvár.
+
+Otázky pre žiakov:
+- Z akých jednoduchých tvarov môžu byť tieto obrázky vytvorené?
+- Vidíme v nich kruhy, elipsy alebo obdĺžniky?
+- Čo tvorí obrys každého vektorového objektu?
+- Čo sa stane, ak posunieme kotevný bod?
+
+Zhrnutie:
+Aj jednoduché grafické symboly môžu vzniknúť zo základných geometrických tvarov. Každý tvar vo vektorovej grafike obsahuje cestu, kotevné body a segmenty. Keď upravíme kotevné body alebo ovládacie ramená, zmeníme aj samotný tvar objektu.
+
+
+2. VYSVETLENIE – ZÁKLADNÉ TVARY A CESTY – 7 MINÚT
+
+Učiteľ vysvetlí a predvedie základné nástroje:
+
+Nástroj Elipsa:
+- vytvára kruhy a elipsy,
+- klávesová skratka: L,
+- pri držaní klávesu Shift vznikne pravidelný kruh.
+
+Nástroj Obdĺžnik:
+- vytvára obdĺžniky a štvorce,
+- klávesová skratka: M,
+- pri držaní klávesu Shift vznikne štvorec.
+
+Nástroj Priamy výber:
+- slúži na výber a úpravu jednotlivých kotevných bodov,
+- klávesová skratka: A.
+
+Nástroj Výber:
+- slúži na výber celého objektu,
+- klávesová skratka: V.
+
+Dôležité vysvetlenie:
+Keď objekt vyberieme čiernou šípkou, vyberáme celý objekt.
+Keď objekt vyberieme bielou šípkou, môžeme upravovať jeho jednotlivé kotevné body a časti cesty.
+
+Učiteľ vytvorí elipsu a nástrojom Priamy výber zobrazí jej kotevné body. Vysvetlí:
+- kotevný bod určuje smer a tvar cesty,
+- hladký bod vytvára plynulé zakrivenie,
+- rohový bod vytvára ostrú špičku alebo zlom,
+- ovládacie ramená určujú silu a smer zakrivenia.
+
+
+3. UKÁŽKA – KVAPKA Z ELIPSY ALEBO KRUHU – 8 MINÚT
+
+Postup učiteľa na projektore:
+
+1. Vyberieme nástroj Elipsa.
+2. Vytvoríme kruh alebo zvislú elipsu.
+3. Vyberieme nástroj Priamy výber.
+4. Klikneme na horný kotevný bod.
+5. Horný bod posunieme mierne nahor.
+6. Pomocou nástroja Convert Anchor Point alebo pomocou úpravy ramien vytvoríme z horného bodu ostrejší bod.
+7. Podľa potreby upravíme ramená, aby boky kvapky zostali plynulé.
+8. Vyplníme kvapku modrou farbou, obrys môžeme odstrániť alebo nastaviť tenký obrys.
+
+Učiteľ upozorní:
+- Kvapka nemusí byť úplne súmerná. Prirodzenejší tvar môže mať mierne odlišné strany.
+- Pri príliš veľkom posunutí kotevného bodu môže tvar pôsobiť deformovane.
+- Pri úprave jednej časti objektu používame bielu šípku, nie čiernu.
+
+Krátky nácvik:
+Žiaci vytvoria vlastnú kvapku podľa ukážky.
+
+
+4. UKÁŽKA – LIST A SRDCE Z ELIPSY – 8 MINÚT
+
+A) List z elipsy
+
+Postup:
+1. Vytvoríme zvislú elipsu.
+2. Nástrojom Priamy výber označíme horný kotevný bod.
+3. Horný bod upravíme na ostrý roh.
+4. Rovnakým spôsobom upravíme spodný kotevný bod.
+5. Podľa potreby upravíme bočné ramená, aby list nebol príliš pravidelný.
+6. Zelenou čiarou môžeme doplniť stredovú žilku listu.
+
+Dôležité:
+Tvar listu stále vznikol z jednoduchej elipsy. Zmenili sme iba podobu jeho cesty.
+
+B) Srdce z jednoduchých tvarov
+
+Jednoduchší postup pre žiakov:
+1. Vytvoríme dve rovnaké kružnice alebo elipsy.
+2. Umiestnime ich vedľa seba tak, aby sa mierne prekrývali.
+3. Pod ne vytvoríme otočený štvorec alebo trojuholníkový tvar so špičkou smerom dole.
+4. Objekty vyfarbíme rovnakou červenou farbou.
+5. Zatiaľ ich môžeme len zoskupiť: Object – Group alebo Ctrl + G.
+
+Poznámka pre učiteľa:
+Spájanie objektov do jednej výslednej cesty pomocou Pathfinderu alebo Shape Builderu možno zaradiť až v ďalšej hodine, keď budú žiaci pracovať s paletou Cestár. V tejto hodine postačuje, aby pochopili, že z viacerých jednoduchých tvarov možno vytvoriť zložitejší motív.
+
+
+5. SAMOSTATNÁ PRAKTICKÁ ÚLOHA – 12 MINÚT
+
+Zadanie pre žiakov:
+
+Vytvorte na jednu pracovnú plochu kolekciu troch jednoduchých ikon alebo piktogramov. Každý motív musí vzniknúť zo základného geometrického tvaru a musí obsahovať aspoň jednu upravenú cestu.
+
+Povinné motívy:
+1. Kvapka vytvorená z kruhu alebo elipsy.
+2. List vytvorený z elipsy.
+3. Srdce vytvorené z dvoch elíps alebo kruhov a spodnej špičky.
+
+Dobrovoľný motív navyše:
+- oblak z kruhov,
+- balón z elipsy,
+- jednoduchý kvet z kruhov alebo elíps,
+- usmievavá tvár z kruhu,
+- plameň z kvapky.
+
+Požiadavky:
+- každý motív bude mať výplňovú farbu,
+- minimálne pri dvoch motívoch žiak upraví kotevný bod,
+- objekty budú usporiadané prehľadne,
+- súbor žiak uloží pod názvom:
+  priezvisko_tvary.ai
+
+Diferenciácia:
+Rýchlejší žiaci môžu:
+- vytvoriť vlastnú sadu šiestich ikon,
+- upraviť hrúbku obrysu,
+- vytvoriť farebnú paletu ikon,
+- doplniť názov alebo krátky popis každej ikony.
+
+
+6. KONTROLA A ZÁVER – 5 MINÚT
+
+Učiteľ vyzve niekoľkých žiakov, aby ukázali svoju prácu.
+
+Otázky na záver:
+- Aký je rozdiel medzi nástrojom Výber a Priamy výber?
+- Čo je kotevný bod?
+- Ako vytvoríme špičku kvapky alebo listu?
+- Z akého tvaru možno vytvoriť kvapku?
+- Prečo je výhodné začínať pri kreslení jednoduchými tvarmi?
+
+Záverečné zhrnutie:
+Základné tvary nie sú iba hotové geometrické objekty. Sú to cesty, ktoré môžeme upravovať. Posúvaním kotevných bodov a úpravou ovládacích ramien dokážeme z kruhu alebo elipsy vytvoriť množstvo rôznych predmetov a grafických symbolov.
+
+
+HODNOTENIE
+
+Priebežné hodnotenie:
+- aktivita pri odpovediach,
+- správne používanie nástrojov,
+- samostatnosť pri práci,
+- schopnosť upraviť kotevné body.
+
+Kritériá hodnotenia praktickej úlohy:
+1. Žiak vytvoril požadované tri motívy.
+2. Žiak použil aspoň jeden základný tvar.
+3. Žiak upravil kotevné body aspoň pri dvoch motívoch.
+4. Práca je prehľadná a esteticky upravená.
+5. Súbor je správne uložený.
+
+
+============================================================
+TEXT DO PREZENTÁCIE
+============================================================
+
+
+SLIDE 1 – NÁZOV HODINY
+
+Vytváranie a úprava tvarov
+
+Ako z kruhu, elipsy a obdĺžnika vytvoriť:
+- kvapku,
+- list,
+- srdce,
+- oblak,
+- jednoduché ikony.
+
+
+SLIDE 2 – OPAKOVANIE
+
+Čo je cesta?
+
+Cesta je línia, ktorá tvorí obrys vektorového objektu.
+
+Cesta sa skladá z:
+- kotevných bodov,
+- segmentov,
+- ovládacích ramien.
+
+Úpravou cesty môžeme zmeniť tvar objektu.
+
+
+SLIDE 3 – ZÁKLADNÉ TVARY
+
+Základné tvary v Adobe Illustratori:
+
+- obdĺžnik,
+- štvorec,
+- kruh,
+- elipsa,
+- mnohouholník,
+- hviezda.
+
+Aj základný tvar je vektorový objekt s cestou a kotevnými bodmi.
+
+
+SLIDE 4 – DÔLEŽITÉ NÁSTROJE
+
+Nástroj Výber – V
+- vyberá celý objekt.
+
+Nástroj Priamy výber – A
+- vyberá kotevné body a časti cesty.
+
+Nástroj Elipsa – L
+- vytvára kruhy a elipsy.
+
+Nástroj Obdĺžnik – M
+- vytvára obdĺžniky a štvorce.
+
+
+SLIDE 5 – VÝBER CELÉHO OBJEKTU A BODOV
+
+Čierna šípka:
+- vyberá celý objekt,
+- môžeme objekt presúvať alebo meniť jeho veľkosť.
+
+Biela šípka:
+- vyberá jednotlivé kotevné body,
+- môžeme meniť tvar cesty.
+
+
+SLIDE 6 – KOTEVNÉ BODY
+
+Kotevný bod určuje tvar cesty.
+
+Hladký bod:
+- vytvára plynulé zakrivenie.
+
+Rohový bod:
+- vytvára ostrú špičku alebo zlom.
+
+Ovládacie ramená:
+- určujú smer a silu zakrivenia.
+
+
+SLIDE 7 – KVAPKA Z ELIPSY
+
+Postup:
+
+1. Vytvoríme kruh alebo zvislú elipsu.
+2. Vyberieme bielu šípku.
+3. Označíme horný kotevný bod.
+4. Posunieme bod smerom hore.
+5. Zmeníme bod na ostrý.
+6. Upravíme zakrivenie bokov.
+
+Z elipsy vznikne kvapka.
+
+
+SLIDE 8 – LIST Z ELIPSY
+
+Postup:
+
+1. Vytvoríme zvislú elipsu.
+2. Vyberieme horný kotevný bod.
+3. Vytvoríme ostrú špičku.
+4. Upravíme aj spodný bod.
+5. Pridáme žilku listu.
+
+Z elipsy vznikne list.
+
+
+SLIDE 9 – SRDCE Z JEDNODUCHÝCH TVAROV
+
+Srdce môžeme vytvoriť z:
+
+- dvoch kruhov alebo elíps,
+- spodnej špičky,
+- rovnakej výplňovej farby.
+
+Objekty zatiaľ môžeme zoskupiť:
+Ctrl + G
+
+Neskôr sa naučíme objekty spájať do jednej cesty.
+
+
+SLIDE 10 – PREČO PRACOVAŤ SO ZÁKLADNÝMI TVARMI?
+
+Základné tvary nám pomáhajú:
+
+- pracovať rýchlejšie,
+- vytvárať presné objekty,
+- jednoducho upravovať dizajn,
+- vytvárať ikony a piktogramy,
+- pochopiť fungovanie ciest.
+
+
+SLIDE 11 – PRAKTICKÁ ÚLOHA
+
+Vytvorte kolekciu troch ikon:
+
+1. Kvapka z kruhu alebo elipsy.
+2. List z elipsy.
+3. Srdce z dvoch elíps alebo kruhov.
+
+Podmienky:
+- použite výplňové farby,
+- upravte kotevné body,
+- pracujte prehľadne,
+- uložte súbor:
+priezvisko_tvary.ai
+
+
+SLIDE 12 – ZHRNUTIE
+
+Dnes sme sa naučili:
+
+- vytvárať základné tvary,
+- upravovať kotevné body,
+- meniť hladký bod na rohový,
+- vytvoriť kvapku z elipsy,
+- vytvoriť list z elipsy,
+- vytvoriť zložitejší motív z jednoduchých tvarov.
+
+Základný tvar je iba začiatok.
+Úpravou cesty môžeme vytvoriť vlastný grafický objekt.
+```
+
+```txt
+ALTERNATÍVNA KRATŠIA PRAKTICKÁ ÚLOHA
+
+Názov: Mini sada piktogramov
+
+Vytvorte štyri jednoduché ikony:
+- kvapka,
+- list,
+- oblak,
+- balón.
+
+Pravidlá:
+- každá ikona musí vzniknúť aspoň z jedného základného tvaru,
+- aspoň dve ikony musia obsahovať upravený kotevný bod,
+- ikony musia mať rovnaký štýl: podobnú hrúbku obrysu alebo rovnaké farby,
+- všetky ikony rozmiestnite do mriežky 2 × 2.
+
+Cieľ:
+Žiak si precvičí vytváranie tvarov, úpravu ciest a estetické usporiadanie objektov na pracovnej ploche.
+```
